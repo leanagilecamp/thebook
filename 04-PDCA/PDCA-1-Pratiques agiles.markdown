@@ -1,12 +1,8 @@
-Trouver les leviers d'amélioration
+# Trouver les leviers d'amélioration
 
-Raphaël Pierquin
+## Les pratiques agiles
 
-Les pratiques agiles
-====================
-
-1.1Au plus profond de la culture agile
---------------------------------------
+### Au plus profond de la culture agile
 
 Des principes favorisant l'identification des actions d'amélioration
 sont embarqués au plus profond de la culture agile.
@@ -25,8 +21,7 @@ situation.
 Les temps rétrospectifs : En réservant du temps pour réfléchir, l'équipe
 crée l'espace nécessaire pour le choix d'actions d'améliorations.
 
-1.2Les domaines privilégiés d'amélioration
-------------------------------------------
+### Les domaines privilégiés d'amélioration
 
 Au fil des années la communauté agile s'est constituée un riche
 catalogue de pratiques favorisant l'amélioration.
@@ -38,7 +33,7 @@ inefficientes. C'est la raison pour laquelle on peut trouver des
 pratiques agiles dans ces différents domaines. En voici quelques
 exemples significatifs.
 
-### 1.2.1l'organisation du travail
+### l'organisation du travail
 
 Comme le mécanicien qui sait repérer les anomalies dans le bruit
 répétitif du moteur, l'équipe identifie les effets des changements
@@ -48,11 +43,9 @@ rythme du travail. Cette idée est reproduite de manière fractale
 jusqu'aux gestes du développement : la construction d'un programme est
 aussi une résolution successive de micro-problèmes.
 
-![image](PDCA-1-Pratiques%20agiles_html_m69831fa.png)\
-\
-\
+![Chaque boucle de feedback est une occasion d'actionner un levier d'amélioration](PDCA-1-images/boucles_xp.jpg)
 
-### 1.2.2les trucs de geeks
+### les trucs de geeks
 
 Le refactoring, les tests automatiques sont des leviers techniques
 d'amélioration du produit logiciel. Le développement par les tests est
@@ -70,7 +63,7 @@ de la hauteur dans les solutions conçues et son expertise technique.
 L'expert métier peut apporter au novice ses explications des concepts et
 techniques du projet.
 
-### 1.2.3la communication interpersonnelle
+### la communication interpersonnelle
 
 La qualité de la communication est un axe majeur d'amélioration. Pour
 exploiter les bénéfices de la communication orale, on regroupe les
@@ -85,8 +78,7 @@ coaching d'équipe (Virginia Satir, Ecole de Palo Alto, Core protocols,
 psychologie sociale) afin de guider leurs équipes dans l'amélioration de
 leur efficacité.
 
-1.3Trouver des leviers sur mesure
----------------------------------
+### Trouver des leviers sur mesure
 
 Le travail en équipe auto organisée est un des principes fondamentaux de
 la culture agile ("The best architectures, requirements, and designs
@@ -107,9 +99,7 @@ informations partagées, nombre de techniques facilitent l'identification
 des problèmes à résoudre, et la mise au point d'actions de résolution,
 mais toujours en s'appuyant sur le collectif.
 
-![image](PDCA-1-boucles_xp.jpg)\
-\
-\
+![un cadran](PDCA-1-images/cadran.png)
 
 Quelle qu'en soit la source d'inspiration et la méthode d'accouchement,
 un bon levier réunit les caractéristiques suivantes :
@@ -124,6 +114,4 @@ coûteuse ou en dehors du champs d'action.
 - il remporte l'adhésion : C'est le levier qui fait consensus parmi les
 participants qui est choisi.
 
-\
 
-Page 3
