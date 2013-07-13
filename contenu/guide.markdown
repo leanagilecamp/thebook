@@ -110,10 +110,7 @@ continent.
 Nous souhaitons transmettre ce que nous avons appris lors de notre
 voyage initiatique. Notre promesse : ça en vaut la peine !
 
-**Structure du livre**
-
-\
-\
+#Structure du livre
 
 Ce guide comprend trois chapitres :
 
@@ -122,9 +119,6 @@ Ce guide comprend trois chapitres :
 -   « Visualiser le challenge et les problèmes »
 
 -   « Trouver les leviers de l’amélioration »
-
-\
-\
 
 Chaque chapitre est organisé de la façon suivante :
 
@@ -141,47 +135,13 @@ Chaque chapitre est organisé de la façon suivante :
 
 -   Des références de lecture pour aller plus loin.
 
-\
-\
-
 Bonne lecture et du succès dans vos expérimentations !
 
-\
-\
+# De **Satisfaire le client** à **Comprendre son attente**
 
-\
-\
+## Pratiques agiles
 
-\
-\
-
-\
-\
-
-\
-\
-
-\
-\
-
-\
-\
-
-\
-\
-
-De**Satisfaire le client**
-
-\
-\
-
-à **Comprendre son attente**
-
-1 Pratiques agiles {.western style="page-break-before: always"}
-==================
-
-1.1L'inspiration du manifeste {.western}
------------------------------
+### L'inspiration du manifeste
 
 Le Manifeste
 agile ([http://agilemanifesto.org/](http://agilemanifesto.org/)) met le
@@ -223,8 +183,7 @@ En agilité, satisfaire le client passe par se donner la possibilité
 d'expérimenter, puis de tirer des enseignements du résultat des
 expériences afin de redéfinir les prochains éléments à produire.
 
-1.2Focus produit {.western}
-----------------
+### Focus produit
 
 La démarche traditionnelle pré-suppose que le besoin du client peut être
 "capturé". Il est clairement identifié, n'évoluera plus et fait l'objet
@@ -238,17 +197,11 @@ davantage cette importance de l'orientation produit en répartissant les
 responsabilités anciennement confiées au chef de projet vers un nouveau
 triumvirat : équipe - ScrumMaster et Product Owner.
 
-![](guide_html_m527ed61.jpg)
+![Le Trimvirat Agile](guide_html_m527ed61.jpg)
 
-\
-\
+### La mise en pratique quotidienne
 
-*Le Triumvirat Agile*
-
-1.3La mise en pratique quotidienne {.western}
-----------------------------------
-
-### 1.3.1Le bon produit ? {.western}
+#### Le bon produit ?
 
 Comme nous l'avons rappelé, l'équipe agile va s'atteler en priorité au
 défi de livrer rapidement et régulièrement des fonctionnalités au
@@ -256,14 +209,14 @@ client. Cela permettra de confronter son attente à la réalisation.
 Ensemble, ils inspectent le travail réalisé, puis décident des
 adaptations nécessaires pour se rapprocher de la satisfaction du besoin.
 
-### 1.3.2Itérations et approche empirique {.western}
+#### Itérations et approche empirique
 
 Les équipes agiles adoptent ainsi un processus basé sur des itérations
 courtes (deux à quatre semaines en Scrum). Elles mettent en œuvre une
 approche empirique reposant sur une succession rapide et régulière
 d'essais-erreurs-corrections.
 
-### 1.3.3Spécifier en favorisant la communication {.western}
+#### Spécifier en favorisant la communication
 
 Dans l'objectif de pouvoir livrer rapidement, les exigences
 fonctionnelles sont découpées en petits éléments qui permettront une
@@ -278,7 +231,7 @@ de *User Stories*. Ces histoires utilisateur combinent une concision
 imposée (doit tenir sur une carte) et la détermination de tests
 d'acceptation par le client (doit être testable).
 
-### 1.3.4Comment maximiser la valeur ? {.western}
+#### Comment maximiser la valeur ?
 
 Pour déterminer le contenu fonctionnel de la prochaine itération,
 l'équipe agile va collaborer avec le client en vue de maximiser la
@@ -288,14 +241,7 @@ prochains éléments à réaliser en précisant l'ordre dans lequel ces
 priorité de la valeur d'un élément et de l'effort nécessaire à sa
 réalisation.
 
-E
-
-![](guide_html_6212947.jpg)
-
-\
-\
-
-*User Stories*
+![User Stories](user_stories.jpg)
 
 n agilité, l'estimation de l'effort n'est pas l'affaire d'un seul
 individu. Les personnes devant réaliser sont les mieux placés pour
@@ -303,10 +249,7 @@ estimer. La pratique du ***Planning Poker*** permet par exemple
 d'obtenir une estimation collective de l'effort de réalisation, tout en
 contribuant à diffuser la compréhension du produit à réaliser.
 
-\
-\
-
-### 1.3.5Le logiciel opérationnel {.western}
+#### Le logiciel opérationnel
 
 Le manifeste insiste sur l'importance de la production d'un logiciel
 opérationnel : "Un logiciel opérationnel est la principale mesure
@@ -320,7 +263,7 @@ l'adéquation de la production au besoin. Les participants obtiennent des
 informations qui seront exploitées lors de la planification du contenu
 de la prochaine itération.
 
-### 1.3.6Le bon produit et le maximum de valeur ? {.western style="page-break-before: always"}
+#### Le bon produit et le maximum de valeur ?
 
 Seule la mise à disposition des éléments finalisés auprès des
 utilisateurs finaux permettra de déterminer si l'équipe a construit le
@@ -331,23 +274,16 @@ en mesure de mettre en production immédiatement les éléments validés
 lors de la revue (*Continuous delivery*), éliminant jusqu'au besoin de
 définir des versions (*releases*).
 
-1.4"Nous découvrons comment mieux développer des logiciels par la pratique" {.western}
----------------------------------------------------------------------------
+### "Nous découvrons comment mieux développer des logiciels par la pratique"
 
-L
 
-![](guide_html_37d843bb.jpg)
-
-*Exploration du "Right Product"*
-
-a communauté agile explore de plus en plus le concept du *Right Product*
+La communauté agile explore de plus en plus le concept du *Right Product*
 en expérimentant des pratiques très diverses (inspiration du *Lean
 Startup*, notion de *Minimal Viable Product*), souvent fondées sur une
 représentation visuelle des concepts (Persona, *Impact Mapping*, *Story
 Mapping*, *Empathy Map*…).
 
-\
-\
+![Exploration du "Right Product"](right_product.jpg)
 
 Elle cherche également à tirer le meilleur parti de la spécification par
 l'exemple en allant jusqu'à l'automatisation des tests fonctionnels
