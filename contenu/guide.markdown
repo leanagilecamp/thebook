@@ -59,7 +59,7 @@ déclics qui vous feront prendre de la hauteur.
 
 Régis Medina
 
-**Inauguration du pont**
+# Inauguration du pont
 
 Depuis plusieurs années, l'esprit et les pratiques agiles vous ont
 permis d'améliorer votre satisfaction professionnelle et la performance
@@ -70,7 +70,6 @@ Mais voilà : il reste encore des sources de frustrations. Les autres
 changement, les clients se plaignent. Il doit bien exister des moyens
 d'améliorer les choses, mais comment les trouver ?
 
-\
 \
 
 En vous entraînant aux pratiques lean sélectionnées dans ce livre, vous
@@ -89,7 +88,6 @@ Ces nouvelles compétences vous apporteront le savoir-faire nécessaire
 pour insuffler les changements vitaux au sein des organisations.
 
 \
-\
 
 Ce livre se structure autour de trois apprentissages fondamentaux. Pour
 chacun d'entre eux, des praticiens agiles vous racontent comment, en
@@ -103,7 +101,6 @@ histoires présentées.
 Enfin, des préconisations de premiers pas vous guident vers la mise en
 pratique.
 
-\
 \
 
 Ce livre est né de du désir de praticiens agiles ayant expérimenté le
