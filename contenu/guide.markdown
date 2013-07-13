@@ -59,69 +59,6 @@ déclics qui vous feront prendre de la hauteur.
 
 Régis Medina
 
-**Sommaire**
-
-**Inauguration du pont**
-
-**De "Satisfaire le client" à "Comprendre son attente"**
-
-Pratiques agiles
-
-Scènes de crime
-
-Apparition mystérieuse au cabinet dentaire
-
-Vie et mort d'une idée géniale
-
-La catégorie mystère du projet Condor
-
-Principes lean
-
-Premiers pas
-
-Aller plus loin
-
-**De "Management Visuel" à "Visualiser le challenge et les problèmes"**
-
-****Pratiques agiles
-
-Scènes de crime
-
-Trouvez l'indic !
-
-Le *burndown* était en rouge
-
-Tous coupables
-
-Principes lean
-
-Premiers pas
-
-Aller plus loin
-
-**De "L'amélioration continue" à "Trouver les leviers de
-l'amélioration"**
-
-****Pratiques agiles
-
-Scènes de crime
-
-La mise en production qui ne devait pas échouer
-
-Du rififi dans mes *sprints*
-
-Joue-la courte et précise
-
-Principes lean
-
-Premiers pas
-
-Aller plus loin
-
-**Conclusion**
-
-**Aller plus loin**
-
 **Inauguration du pont**
 
 Depuis plusieurs années, l'esprit et les pratiques agiles vous ont
