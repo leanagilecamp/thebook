@@ -57,10 +57,7 @@ Version 1.0 – 10 juillet 2013
 | **Raphaël Pierquin**    | [ut7.fr](http://ut7.fr/)                         | @perafoo       |
 | **Bruno Thomas**        | [www.barreverte.fr](http://www.barreverte.fr/)   | @bam\_thomas   |
 
-**Avant-propos**
-
-\
-\
+# Avant-propos
 
 Les pratiques présentées dans ce guide ouvrent la voie vers une vision
 différente de l’organisation. Une vision basée sur une conviction :
@@ -88,9 +85,6 @@ Ce savoir-faire précieux nous a été transmis par Marie-Pia Ignace et
 Michael Ballé. Nous vous le transmettons à notre tour, en espérant qu’il
 vous apportera les mêmes moments de satisfaction, les incroyables
 déclics qui vous feront prendre de la hauteur.
-
-\
-\
 
 Régis Medina
 
