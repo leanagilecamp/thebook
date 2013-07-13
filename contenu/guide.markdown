@@ -4,36 +4,7 @@
 % Collectifs d'auteurs
 % 10 juillet 2013
 
-
-\
-\
-
-
-\
-\
-
-![](guide_html_mc3d1e40.png)
-
-\
-\
-
-\
-\
-
-\
-\
-
-\
-\
-
-\
-\
-
-\
-\
-
-\
-\
+![](logo.png)
 
 écrit par un collectif de dix auteurs
 
