@@ -1,13 +1,13 @@
-%\
+% Petit guide
+  de management lean
+  à l'usage des équipes agiles
+% Collectifs d'auteurs
+% 10 juillet 2013
+
 
 \
 \
 
-Petit guide
-
-de management lean
-
-à l'usage des équipes agiles
 
 \
 \
