@@ -1,4 +1,4 @@
-\
+%\
 
 \
 \
@@ -44,151 +44,18 @@ sous la houlette bienveillante de Régis Medina
 
 Version 1.0 – 10 juillet 2013
 
-**Collectif d’auteurs**
-
-\
-\
-
-\
-\
-
-\
-\
-
-\
-
-**web**
-
-**twitter**
-
-\
-
- 
-
- 
-
-**Philippe Blayo**
-
-[www.barreverte.fr](http://www.barreverte.fr/)
-
-@pblayo
-
-\
-
- 
-
- 
-
-**Antoine Contal**
-
- 
-
-@antoine\_contal
-
-\
-
- 
-
- 
-
-**Dominique De Premorel**
-
- 
-
-@domidepremorel
-
-\
-
- 
-
- 
-
-**Pierre Jannez**
-
- 
-
-@pierrejannez
-
-\
-
- 
-
- 
-
-**Christophe Keromen**
-
-[www.ckti.com](http://www.ckti.com/)
-
-@ckeromen
-
-\
-
- 
-
- 
-
-**Régis Medina**
-
-[www.regismedina.com](http://www.regismedina.com/)
-
-@regis\_medina
-
-\
-
- 
-
- 
-
-**Sandrine Olivencia**
-
-www.leanedge.org
-
-@sandrineolivenc
-
-\
-
- 
-
- 
-
-**Christophe Ordano**
-
- 
-
-@chrisordano
-
-\
-
- 
-
- 
-
-**Raphaël Pierquin**
-
-[www.ut7.fr](http://www.ut7.fr/)
-
-@perafoo
-
-\
-
- 
-
- 
-
-**Bruno Thomas**
-
-[www.barreverte.fr](http://www.barreverte.fr/)
-
-@bam\_thomas
-
-\
-
-\
-
-\
-
-\
-\
+| **Collectif d’auteurs** |           **web**                                |   **twitter**  |
+|:------------------------|:-------------------------------------------------|:---------------|
+| **Philippe Blayo**      | [www.barreverte.fr](http://www.barreverte.fr/)   | @pblayo        |
+| **Antoine Contal**      |                                                  |@antoine\_contal|
+|**Dominique De Premorel**|                                                  |@domidepremorel |
+| **Pierre Jannez**       |                                                  |@pierrejannez   |
+|**Christophe Keromen**   | [www.ckti.com](http://www.ckti.com/)             |@ckeromen       |
+| **Régis Medina**        |[www.regismedina.com](http://www.regismedina.com/)|@regis\_medina  |
+|**Sandrine Olivencia**   | [www.leanedge.org](http://www.leanedge.org/)     |@sandrineolivenc|
+|**Christophe Ordano**    |                                                  | @chrisordano   |
+| **Raphaël Pierquin**    | [ut7.fr](http://ut7.fr/)                         | @perafoo       |
+| **Bruno Thomas**        | [www.barreverte.fr](http://www.barreverte.fr/)   | @bam\_thomas   |
 
 **Avant-propos**
 
