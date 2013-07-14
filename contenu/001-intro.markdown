@@ -1,20 +1,16 @@
 % Petit guide de management lean à l'usage des équipes agiles
-% Collectifs d'auteurs
-% 10 juillet 2013
+  ![](logo.png)
+% écrit par un collectif de dix auteurs
+  sous la houlette bienveillante de Régis Medina
+% Version 1.0 – 10 juillet 2013
 
-![](logo.png)
-
-écrit par un collectif de dix auteurs
-
-sous la houlette bienveillante de Régis Medina
+\newpage
 
 [![license CC BY-NC-ND 3.0](cc_by-nc-nd.png)](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.fr)
 
 Cette œuvre est mise à disposition selon les termes de la [Licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 non transposé](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.fr).
 
-Version 1.0 – 10 juillet 2013
-
-| **Collectif d’auteurs** |           **web**                                |   **twitter**  |
+| **Les auteurs**         |           **web**                                |   **twitter**  |
 |:------------------------|:-------------------------------------------------|:---------------|
 | **Philippe Blayo**      | [www.barreverte.fr](http://www.barreverte.fr/)   | @pblayo        |
 | **Antoine Contal**      |                                                  |@antoine\_contal|
@@ -26,6 +22,8 @@ Version 1.0 – 10 juillet 2013
 |**Christophe Ordano**    |                                                  | @chrisordano   |
 | **Raphaël Pierquin**    | [ut7.fr](http://ut7.fr/)                         | @perafoo       |
 | **Bruno Thomas**        | [www.barreverte.fr](http://www.barreverte.fr/)   | @bam\_thomas   |
+
+\newpage
 
 # Avant-propos
 

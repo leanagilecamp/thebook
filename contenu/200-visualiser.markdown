@@ -1,3 +1,5 @@
+\newpage
+
 # De **Management visuel** à **Visualiser le challenge et les problèmes**
 
 ## Les pratiques agiles

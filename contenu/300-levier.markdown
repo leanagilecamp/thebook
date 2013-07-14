@@ -1,3 +1,5 @@
+\newpage
+
 De**L’amélioration continue**
 
 \
