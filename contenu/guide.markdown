@@ -376,11 +376,9 @@ préférences du client.
 
 -------------------------------------------------------------------------
 
-3 Scène de crime : vie et mort d'une idée géniale {.western style="page-break-before: always"}
-=================================================
+## Scène de crime : vie et mort d'une idée géniale {.western style="page-break-before: always"}
 
-3.1Une idée géniale {.western style="margin-bottom: 0.35cm; line-height: 115%; page-break-after: avoid"}
--------------------
+### Une idée géniale
 
 Lors d'un atelier regroupant des créateurs de *startups*, les
 participants les plus courageux « pitchent » leur idée. L'un d'entre eux
@@ -399,19 +397,21 @@ ces astuces ? Combien peut-on vendre ce guide ? etc.
 Tout le monde est motivé, prêt à attaquer le développement du site web
 et de l'application mobile correspondante.
 
-3.2Aller voir vos clients {.western style="margin-bottom: 0.35cm; line-height: 115%; page-break-after: avoid"}
--------------------------
+### Aller voir vos clients
 
 L'animateur intervient en nous demandant d'aller à la rencontre de nos
 futurs clients. Le lean appelle cette pratique écouter « la voix du
-client »^[^3^](#sdfootnote3sym)^ Notre mission : comprendre comment,
+client »[^voixduclient] Notre mission : comprendre comment,
 aujourd'hui, les touristes trouvent leur bons plans.
+
+[^voixduclient]: La voix du client  est une pratique lean qui permet
+de capturer les attentes du client. Cf. la section « Principe lean » de
+ce chapitre
 
 Profitons de notre situation, en plein cœur de Paris, pour rencontrer
 des touristes avides d'astuces de parisiens.
 
-3.3Désillusion {.western style="margin-bottom: 0.35cm; line-height: 115%; page-break-after: avoid"}
---------------
+### Désillusion
 
 Deux heures plus tard, nous voilà de retours. Dépités.
 
@@ -421,22 +421,16 @@ trouver des bons plans locaux, puisqu’ils n’en cherchent pas. Les plans
 locaux, ça ne les intéresse pas. Ce qui a de la valeur pour eux, c'est
 de trouver le bon chemin pour aller voir la Tour Eiffel. »
 
-\
-\
-
-\
-\
-
-\
-\
-
-3.4La leçon à tirer {.western style="margin-bottom: 0.35cm; line-height: 115%; page-break-after: avoid"}
--------------------
+### La leçon à tirer
 
 L'histoire de cette idée géniale se termine ici. Mais pas celle de notre
 équipe d'entrepreneurs : quelques minutes ont suffi pour trouver une
 nouvelle idée géniale. Mais cette fois-ci, en commençant par une visite
-terrain^[^4^](#sdfootnote4sym)^ avant de s'emballer.
+terrain [^visiteterrain] avant de s'emballer.
+
+[^visiteterrain]: visite terrain se réfère à une pratique lean le
+go & see pour se forger ses propres opinions sur le contexte et les
+attentes du client. Cf. la section « Principe lean » de ce chapitre.
 
 Voilà une belle fin, puisqu'au cours de cette histoire, aucun
 développeur n'a dû développer un logiciel inutile. L'entrepreneur a pu
@@ -455,13 +449,9 @@ activités.
 
 Pourtant, aller à la rencontre de ses utilisateurs, actuels ou futurs,
 représente le moyen le plus simple et efficace de bien comprendre la
-voix du client^[^5^](#sdfootnote5sym)^.
+voix du client[^voixduclient].
 
-\
-\
-
-\
-\
+---------------------------------------------------------------------
 
 **Qu’avons-nous fait :**
 
@@ -477,16 +467,13 @@ pas son marché.
 
 **Ce que j’ai appris :**
 
-1.  la manière la plus efficace de valider des hypothèses sur les
+-   la manière la plus efficace de valider des hypothèses sur les
     attentes du client est bien d’aller voir les utilisateurs potentiels
 
-plus vite, ces hypothèses sont confrontées à la réalité du terrain, plus
-nous gagnons du temps sur la création de la valeur.
+-   plus vite, ces hypothèses sont confrontées à la réalité du terrain, plus
+    nous gagnons du temps sur la création de la valeur.
 
-\
-
-\
-\
+---------------------------------------------------------------------
 
 4Scène de crime : la catégorie mystère du projet Condor {.western style="page-break-before: always"}
 =======================================================
@@ -3022,17 +3009,6 @@ Blog Lean et SI
 \
 \
 
-
-[3](#sdfootnote3anc) La voix du client  est une pratique lean qui permet
-de capturer les attentes du client. Cf. la section « Principe lean » de
-ce chapitre
-
-[4](#sdfootnote4anc) La visite terrain se réfère à une pratique lean le
-go & see pour se forger ses propres opinions sur le contexte et les
-attentes du client. Cf. la section « Principe lean » de ce chapitre.
-
-[5](#sdfootnote5anc) La voix du client : cf. la section « Principe
-lean » de ce chapitre.
 
 [6](#sdfootnote6anc)Nous appelons signalisation un incident remonté par
 l'utilisateur
