@@ -288,8 +288,7 @@ Elle cherche également à tirer le meilleur parti de la spécification par
 l'exemple en allant jusqu'à l'automatisation des tests fonctionnels
 (BDD…)
 
-2Scène de crime : apparition mystérieuse au cabinet dentaire {.western style="page-break-before: always"}
-============================================================
+## Scène de crime : apparition mystérieuse au cabinet dentaire
 
 Un réseau de dentistes cherche à s’informatiser pour saisir les données
 de leurs patients, aussi bien dans les établissements d’accueils
@@ -301,12 +300,17 @@ les Macs. Nous avons identifié que ce qui est important pour eux, c’est
 la facilité de prise en main, la convivialité et l’utilisation de la
 souris.
 
-2.1Observ**a**tion sur le terrain {.western}
----------------------------------
+### Observation sur le terrain
 
-Nous réalisons un *go&see*^[^1^](#sdfootnote1sym)^ en nous rendant sur
-le terrain, appelé *gemba*^[^2^](#sdfootnote2sym)^, pour voir comment
+Nous réalisons un *go&see* [^goandsee] en nous rendant sur
+le terrain, appelé *gemba* [^gemba], pour voir comment
 travaille un praticien.
+
+[^goandsee]: *go&see* est une pratique lean : cf.la section
+« Principe lean » de ce chapitre.
+
+[^gemba]: *gemba* désigne l’endroit où les choses se passent.
+Cf. la section « Principe lean » de ce chapitre.
 
 Le praticien interroge le patient sur ses antécédents, ses allergies
 puis, examiner sa dentition, pendant qu’une autre personne saisit au fur
@@ -3047,11 +3051,6 @@ Blog Lean et SI
 \
 \
 
-[1](#sdfootnote1anc) *go&see* est une pratique lean : cf.la section
-« Principe lean » de ce chapitre.
-
-[2](#sdfootnote2anc) *gemba* désigne l’endroit où les choses se passent.
-Cf. la section « Principe lean » de ce chapitre.
 
 [3](#sdfootnote3anc) La voix du client  est une pratique lean qui permet
 de capturer les attentes du client. Cf. la section « Principe lean » de
