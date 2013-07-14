@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd contenu
+pandoc -f markdown -s guide.markdown --toc -o guide.pdf

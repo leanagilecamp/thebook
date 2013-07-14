@@ -1209,7 +1209,7 @@ l’état de la situation pour m’aider à décider.
 
 Les indicateurs se présentent comme suit :
 
-![](guide_html_m55293d30.jpg)![](guide_html_m2c2253a6.gif)
+![](guide_html_m55293d30.jpg)
 
 Nous affichons et faisons vivre ces indicateurs dans notre *open space*.
 La situation est rendue visible. Chaque fois qu’il y a un
@@ -1222,7 +1222,7 @@ menées.
 
 Notre management visuel est organisé de la manière suivante :
 
-![](guide_html_m74f7d0ed.jpg)![](guide_html_1fe592ea.gif)
+![](guide_html_m74f7d0ed.jpg)
 
 \
 \
@@ -1268,7 +1268,6 @@ partenariat.
 \
 \
 
-![](guide_html_227e7a6b.gif)\
 \
 
 \
@@ -1450,9 +1449,6 @@ L'équipe a appris à gérer les obstacles, ce qui lui a permis de
 retrouver sa capacité à produire. Une bonne partie des tâches en attente
 ont pu avancer dans les étapes suivantes du processus.
 
-![](guide_html_22dcb492.gif)\
-\
-
 **Qu’avons-nous fait :**
 
 -   Comprendre ensemble :
@@ -1593,12 +1589,6 @@ plutôt que sur de nouvelles spécifications :
 
 ![](guide_html_308de9ef.png)
 
-\
-\
-
-![](guide_html_694a402b.gif)\
-\
-
 **Qu’avons-nous fait :**
 
 -   Comprendre ensemble :
@@ -1646,8 +1636,7 @@ Laisser l’équipe trouver d’elle-même les solutions à ses problème
 12.1Qu'est-ce que le management visuel lean apporte à une équipe agile ? {.western style="margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2"}
 ------------------------------------------------------------------------
 
-![](guide_html_1c1d1267.png) {.western style="font-weight: normal"}
-----------------------------
+![](guide_html_1c1d1267.jpg)
 
 *Du management visuel agile au management visuel lean*
 
@@ -1767,7 +1756,7 @@ L’équipe affiche aussi une matrice de compétences de tous ses membres,
 ainsi qu’un programme de formation, l’objectif de développement des
 compétences étant clair pour chacun.
 
-![Group 7](guide_html_1d3c340b.gif)
+![Group 7](guide_html_1d3c340b.png)
 
 12.4Voir ensemble {.western style="margin-left: 0.75cm; text-indent: -0.75cm; margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2; page-break-before: always"}
 -----------------
@@ -1864,7 +1853,7 @@ Deux exemples d’indicateurs :
 
 Liste des problèmes :
 
-![Group 5](guide_html_m4bd51fdf.gif)
+![Group 5](guide_html_m4bd51fdf.png)
 
 12.5Agir ensemble {.western style="margin-left: 0.75cm; text-indent: -0.75cm; margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2; page-break-before: always"}
 -----------------
@@ -2322,7 +2311,7 @@ le rétablissement de la confiance avec notre client.
 \
 \
 
-**Q![](guide_html_m68ee9199.gif)u’avons-nous fait :**
+**Qu’avons-nous fait :**
 
 -   Protéger immédiatement le client, avant d’entamer le cycle
     Plan-Do-Check-Act ;
@@ -2487,12 +2476,6 @@ Au-delà des bénéfices pour ce projet précis, j’observe que
 l’enchaînement des cycles Plan-Do-Check-Act fait monter en compétence
 mon équipe et que les autres projets se passent mieux.
 
-\
-\
-
-![](guide_html_dc491f0.gif)\
-\
-
 **Qu’avons-nous fait :**
 
 -   Protéger immédiatement le client, avant d’entamer le cycle
@@ -2631,7 +2614,7 @@ code existant et cela me permet d’aller deux fois plus vite.
 \
 \
 
-**Q![](guide_html_m1110019f.gif)u’avons-nous fait :**
+**Qu’avons-nous fait :**
 
 -   Convertir une plainte client en un écart quantifié.
 
@@ -2669,7 +2652,7 @@ méthode d’apprentissage venue des Etats-Unis pour les éliminer, une
 sorte de TDD (*Test-Driven Development*) pour lutter contre les bugs qui
 limitent nos raisonnements : le Plan-Do-Check-Act ou PDCA.
 
-![](guide_html_5b30464e.gif)
+![](guide_html_5b30464e.png)
 
 Comme le système mental de chacun est différent, l’apprentissage ne peut
 être qu’individuel. Un cycle Plan-Do-Check-Act est donc porté par une
