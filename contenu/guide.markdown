@@ -475,20 +475,22 @@ pas son marché.
 
 ---------------------------------------------------------------------
 
-4Scène de crime : la catégorie mystère du projet Condor {.western style="page-break-before: always"}
-=======================================================
+## Scène de crime : la catégorie mystère du projet Condor
 
 Un opérateur télécom vend aux entreprises une solution de centre
 d'appels virtuels. Cette solution est développée par notre équipe agile
 de sept personnes. Nous avons hérité d'un code de mauvaise qualité que
 nous améliorons progressivement. Cependant, nous sommes confrontés à
-environ deux signalisations^[^6^](#sdfootnote6sym)^ par jour de nos
+environ deux signalisations [^signalisation] par jour de nos
 utilisateurs finaux. Cela provoque une tension avec le management, notre
 commanditaire est furieux, et les relations avec les exploitants sont
 difficiles.
 
-4.1Catégorisation des incidents {.western style="margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2"}
--------------------------------
+[^signalisation]: Nous appelons "signalisation" un incident remonté par
+l'utilisateur.
+
+
+### Catégorisation des incidents
 
 Je décide de prendre le cas au sérieux. Pour cela, je commence par lire
 les tickets d'incidents dans l'outil de *ticketing* du SAV. Il y a
@@ -496,13 +498,9 @@ beaucoup de types de tickets différents. Je les compte et les
 catégorise. Cela constitue un bulletin de santé que j'affiche sur le mur
 à l'entrée de notre *War Room*.
 
-Bulletin de santé condor ![](guide_html_m5fb5178c.jpg)
+![Bulletin de santé condor !](condor_bulletin_de_sante.jpg)
 
-\
-\
-
-4.2Analyse du problème {.western style="margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2; page-break-before: always"}
-----------------------
+### Analyse du problème
 
 Les trois catégories les plus volumineuses sont :
 
@@ -520,8 +518,7 @@ qualité logicielle. Par ailleurs, je me rends compte qu'il y a peu de
 réponses à ces tickets : je trouve des informations de type « formation
 utilisateur » et des demandes d'évolution.
 
-4.3Identifier l'origine {.western style="margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2"}
------------------------
+### Identifier l'origine
 
 Désarçonnés par le flou de ces tickets mystère, nous décidons d'avancer
 sur notre problème en nous donnant les moyens d'identifier l'origine des
@@ -541,8 +538,7 @@ sources différentes.
 Nous faisons alors diminuer drastiquement la catégorie mystère de 30% à
 5%.
 
-4.4Gestion du timeout {.western style="margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2"}
----------------------
+### Gestion du timeout
 
 Maintenant que nous voyons plus clair, un motif important de
 signalisation semble liée au protocole de communication avec le serveur
@@ -555,8 +551,7 @@ place un mécanisme de gestion de *timeout*. Cela demande d'ajouter une
 couche de simulation du temps pour la compatibilité avec les tests
 automatiques.
 
-4.5Point d'étape {.western style="margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2"}
-----------------
+### Point d'étape
 
 L'équipe est satisfaite car elle a fait diminuer les signalisations
 liées à la perte d'appel. Elle évite à des personnes de payer 30 minutes
@@ -566,8 +561,7 @@ Comme certains tickets sont toujours inexpliqués, nous décidons
 d'envoyer un binôme en observation chez le client ayant le trafic le
 plus élevé.
 
-4.6Observation chez le client {.western style="margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2; page-break-before: always"}
------------------------------
+### Observation chez le client
 
 Accueillis dans une atmosphère tendue, nous allons observer les agents
 du centre d'appel avec leur superviseur.
@@ -603,20 +597,16 @@ Nous partons dans un climat plus détendu : les agents sont contents
 d'avoir été écoutés et nous sommes soulagés d'avoir supprimé trois
 causes de signalisation.
 
-\
-\
+--------------------------------------------------------------------------
 
-\
-\
-
-**Qu’avons-nous fait** **:**
+**Qu’avons-nous fait :**
 
 -   commencé par visualiser notre problème ;
 
 -   protégé le client en écoutant et en prenant au sérieux ses
     plaintes ;
 
--   nous rendre sur le *gemba* en lisant les tickets de support puis en
+-   nous rendre sur le *gemba* [^gemba] en lisant les tickets de support puis en
     allant voir l'utilisateur en action.
 
 **Le résultat :**
@@ -634,6 +624,8 @@ c'est aussi un gain de motivation.
 En sortant du périmètre de l'équipe pour aller voir le client, nous
 avons pu aboutir à la résolution définitive d'un grand nombre de
 problèmes qui paraissaient hors de notre portée.
+
+--------------------------------------------------------------------------
 
 5Principes lean {.western style="page-break-before: always"}
 ===============
@@ -3009,9 +3001,6 @@ Blog Lean et SI
 \
 \
 
-
-[6](#sdfootnote6anc)Nous appelons signalisation un incident remonté par
-l'utilisateur
 
 [7](#sdfootnote7anc) Attention toutefois sur ce dernier point : l’équipe
 doit rester vigilante à ne pas asservir l’humain à la machine. La vision
