@@ -489,11 +489,9 @@ problèmes qui paraissaient hors de notre portée.
 
 --------------------------------------------------------------------------
 
-5Principes lean {.western style="page-break-before: always"}
-===============
+## Principes lean
 
-5.1Comprendre le besoin profond du client {.western style="margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2"}
------------------------------------------
+### Comprendre le besoin profond du client
 
 L’expérience montre un écart fréquent entre ce que le client exprime et
 ce qui le satisfait réellement. Cette difficulté s’explique de plusieurs
@@ -527,20 +525,14 @@ Chacun de ces clients a ses propres attentes, qu’il faut identifier et
 satisfaire. Le lean offre une structure pour guider cette exploration,
 basée sur cinq axes :
 
-![](guide_html_7dc82022.jpg)
-
-*Les cinq attentes du client*
-
-\
-\
+![Les cinq attentes du client](les_5_attentes_du_client.jpg)
 
 Les pratiques qui suivent constituent un bon point de départ pour
 entamer ce travail de détective.
 
-5.2Se faire sa propre opinion en allant observer le client sur le terrain {.western style="margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2"}
--------------------------------------------------------------------------
+### Se faire sa propre opinion en allant observer le client sur le terrain
 
-![](guide_html_4769454d.png)
+![gemba : le terrain où l'action se passe](gemba.png)
 
 Le véritable besoin du client ne se déniche pas dans une salle de
 réunion. Il faut aller le trouver sur le terrain, là où l’action se
@@ -592,8 +584,7 @@ un « go&talk ». L’observateur découvre par exemple que le commanditaire
 est sensible à telle ligne précise dans un reporting comportant des
 centaines de page.
 
-5.3Définir le problème à résoudre et la façon de mesurer le succès {.western style="margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2; page-break-before: always"}
-------------------------------------------------------------------
+### Définir le problème à résoudre et la façon de mesurer le succès
 
 Au-delà des fonctionnalités élémentaires, le lean pose la question du
 problème global auquel le projet doit apporter une solution pour
@@ -626,8 +617,7 @@ Cette démarche est directement basée sur la technique du
 Plan-Do-Check-Act (PDCA) présentée au chapitre « De "L'amélioration
 continue" à "Trouver les leviers de l'amélioration" ».
 
-5.4Expérimenter pour valider ses préférences {.western style="margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2"}
---------------------------------------------
+### Expérimenter pour valider ses préférences
 
 Chaque fonctionnalité est porteuse d’incertitude. Il se peut que :
 
@@ -644,8 +634,7 @@ observations terrain après les livraisons. Il s’agit de la phase de
 « Check » de la résolution de projet, qui peut être appliquée à la fin
 de chaque itération.
 
-5.5Prendre très au sérieux chaque réclamation client {.western style="margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2; page-break-before: always"}
-----------------------------------------------------
+### Prendre très au sérieux chaque réclamation client
 
 Chacune des réclamations des clients est une opportunité
 d’apprentissage, car elle pointe soit sur un élément que l’équipe n’a
@@ -667,8 +656,7 @@ démarche de résolution de problèmes. L’exemple « La catégorie mystère d
 projet Condor » présente une équipe qui choisit de traiter chaque
 signalisation utilisateur comme un problème de qualité.
 
-5.6Valeur et gaspillages {.western style="margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2"}
-------------------------
+### Valeur et gaspillages
 
 Tout ce travail d’investigation et d’analyse a pour objectif de trouver
 la valeur pour le client. C’est seulement une fois qu’elle est clarifiée
@@ -693,30 +681,27 @@ comme autant d’opportunités de libérer le temps précieux de ces
 collaborateurs. Deux de ces pratiques principales sont présentées dans
 les sections suivantes.
 
-6Premiers pas {.western style="page-break-before: always"}
-=============
+## Premiers pas
 
 Pour renforcer votre compréhension des attentes de vos clients, nous
 proposons ces exercices :
 
-6.1Allez observer le client sur le terrain {.western style="margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2"}
-------------------------------------------
+### Allez observer le client sur le terrain
 
 Pour votre projet actuel, allez voir trois utilisateurs distincts sur
 leurs lieux de travail
 
 1.  Pour chacun des utilisateurs, observez pour comprendre :
 
--   Que cherche-t-il à faire ?
+    -   Que cherche-t-il à faire ?
 
--   En quoi la structure actuelle pose un problème ?
+    -   En quoi la structure actuelle pose un problème ?
 
 2.  Qu’apprenez-vous de nouveau sur leur contexte ?
 
--   La solution qui est prévue résout-elle vraiment leur problème ?
+    -   La solution qui est prévue résout-elle vraiment leur problème ?
 
-6.2Clarifiez le problème et mesurez le succès {.western style="margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2"}
----------------------------------------------
+### Clarifiez le problème et mesurez le succès
 
 Pour votre projet actuel, menez l’investigation pour répondre à ces
 questions :
@@ -727,8 +712,7 @@ questions :
 -   Exprimez-le en termes de délais, qualité et coût pour l’utilisateur
     et pour le commanditaire.
 
-6.3Expérimentez pour valider les préférences du client {.western style="margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2"}
-------------------------------------------------------
+### Expérimentez pour valider les préférences du client
 
 Prenez les *stories* livrées de votre dernière itération et posez-vous
 ces questions :
@@ -741,8 +725,7 @@ ces questions :
 Allez mener l’observation. Qu’avez-vous appris ? Quels sont les
 impacts ?
 
-6.4Regardez les réclamations {.western style="margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2"}
-----------------------------
+### Regardez les réclamations
 
 Prenez les trois dernières réclamations client. Pour chacune, menez ces
 investigations :
@@ -755,50 +738,11 @@ investigations :
 -   Comment pouvez-vous vous assurer que ce problème ne survienne à
     nouveau ?
 
-7Aller plus loin {.western style="margin-left: 0.76cm; text-indent: -0.76cm; page-break-before: always"}
-================
+## Aller plus loin
 
-7.1Le lean au service du client {.western style="margin-left: 0.75cm; text-indent: -0.75cm; margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2"}
--------------------------------
+### Le lean au service du client
 
 Jim WOMACK et Dan JONES – Edition Vuibert
 
-![](guide_html_1edfc8ab.jpg)
-
-\
-\
-
-\
-
-\
-
-\
-\
-
-\
-\
-
-\
-\
-
-\
-\
-
-\
-\
-
-\
-\
-
-\
-\
-
-\
-\
-
-\
-\
-
-\
-\
+![](livre_le_lean_au_service_du_client.jpg)
 
