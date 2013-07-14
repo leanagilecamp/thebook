@@ -137,7 +137,10 @@ pour le client pendant la durée de vie du site d’e-commerce. Je veux
 savoir sur quoi je dois porter une attention particulière afin de
 satisfaire totalement mon client. Je décide de ne pas décider à sa place
 et de lui poser la question. Pour cela, je m’appuie sur l’outil « Voix
-Du Client »^[^8^](#sdfootnote8sym)^ .
+Du Client » [^principesclient]
+
+[^principesclient]: Cf. Section [« Principes Lean » du chapitre
+« Attentes du Client »](#principes-lean)
 
 Il ressort de ce questionnement trois points clefs :
 
@@ -162,7 +165,7 @@ Il ressort de ce questionnement trois points clefs :
 
 A partir de ce constat, je construis avec l’équipe un ensemble
 d’indicateurs clefs, afin de nous concentrer sur le véritable
-challenge^[^9^](#sdfootnote9sym)^ permettant de satisfaire pleinement
+challenge [^principesclient] permettant de satisfaire pleinement
 notre client. Assisté par ces indicateurs, je veux connaître chaque jour
 l’état de la situation pour m’aider à décider.
 
@@ -186,25 +189,28 @@ l’état de la situation pour m’aider à décider.
 
 Les indicateurs se présentent comme suit :
 
-![](guide_html_m55293d30.jpg)
+![](indicateur_disponibilite.jpg)
 
 Nous affichons et faisons vivre ces indicateurs dans notre *open space*.
 La situation est rendue visible. Chaque fois qu’il y a un
-problème^[^10^](#sdfootnote10sym)^ (exemple : plainte client car le
+problème [^principesleviers] (exemple : plainte client car le
 service est lent -\> 8 secondes pour passer commande au lieu de 2
 secondes), les indicateurs sont mis à jour. Tous les matins, nous
 faisons un point sur la situation. Si un problème est survenu la veille,
 c’est l’occasion pour nous de partager et d’apprendre sur les actions
 menées.
 
+[^principesleviers]: Cf. Section [« Principes Lean » du chapitre
+« Leviers de l’amélioration »](#principes-lean-2)
+
 Notre management visuel est organisé de la manière suivante :
 
-![](guide_html_m74f7d0ed.jpg)
+![](structure_management_visuel.jpg)
 
 \
 \
 
-![](guide_html_edd7b90.jpg)
+![](photo_management_visuel.jpg)
 
 L'exploitation de ces informations me permet aujourd’hui de juger avec
 l’équipe de l’importance des problèmes. L’équipe travaille plus
@@ -236,7 +242,7 @@ partenariat.
         est connu
 
     -   Préparer la résolution de problème définitive via le
-        PDCA^[^11^](#sdfootnote11sym)^
+        PDCA [^principesleviers]
 
 -   Un site e.commerce avec un haut niveau de fiabilité
 
@@ -286,7 +292,7 @@ délai de trois mois, sans retard, en assurant une qualité acceptable du
 point de vue du client final. Elle doit également parvenir à livrer des
 lots intermédiaires toutes les deux semaines pour rassurer le client.
 
-Ce challenge^[^12^](#sdfootnote12sym)^ se traduit tout d'abord par
+Ce challenge [^principesclient] se traduit tout d'abord par
 l'affichage d'un objectif de production pour la première itération :
 
 ![](guide_html_4539b42a.png)
@@ -294,15 +300,23 @@ l'affichage d'un objectif de production pour la première itération :
 *Objectif de production*
 
 L'équipe analyse les principales étapes de son flux de
-production^[^13^](#sdfootnote13sym)^, puis représente son activité sous
+production [^principesvisuel], puis représente son activité sous
 la forme d’un tableau visuel.
 
-![](guide_html_52b8653e.png)
+[^principesvisuel]: Cf. Section [« Principes Lean » du chapitre
+« Management visuel »](#principes-lean-1)
 
-*Tableau représentant le flux de production*
+
+![Tableau représentant le flux de production](tableau_flux.png)
 
 L'enjeu de l'itération en cours consiste à sortir toutes les pièces
-présentes sur le tableau[^14^](#sdfootnote14sym).
+présentes sur le tableau[^ameliorationpossible].
+
+[^ameliorationpossible]: Une amélioration possible consisterait à
+clarifier l’objectif de la journée, pour mettre en place un système
+complet de flux tiré. Cependant à ce stade, l'information permet déjà à
+l'équipe de commencer à identifier ses principaux problèmes.
+
 
 ### Révéler les problèmes
 
@@ -329,7 +343,7 @@ son management visuel. Au cours de ce travail d'analyse, elle fait une
 découverte surprenante : là où l'équipe technique voit 15 questions en
 cours, l'équipe fonctionnelle n'en voit de son côté que 2.
 
-La cause racine^[^15^](#sdfootnote15sym)^ du problème se trouve dans la
+La cause racine [^principesleviers] du problème se trouve dans la
 variabilité individuelle d’interprétation du processus. Chacun saisit la
 demande à sa manière, puis, déléguant la responsabilité au système, ne
 se préoccupe plus du suivi du processus de résolution. En particulier,
@@ -337,28 +351,22 @@ les tickets sur lesquels le service destinataire est mal renseigné, ne
 sont pas traités correctement. Ils demeurent en l’état dans le système.
 
 Tout d’abord, l'équipe enrichit son management
-visuel^[^16^](#sdfootnote16sym)^, en rendant visibles, pour chaque
+visuel [^principesvisuel], en rendant visibles, pour chaque
 tâche, les obstacles (questions bloquantes en cours) sous la forme de
 *post-its* rouges :
 
-![](guide_html_649ddd41.png)
-
-*Affichage des obstacles sur les tâches*
+![Affichage des obstacles sur les tâches](post_its_rouges.png)
 
 Ensuite, l'équipe met au point un standard de rédaction d'une fiche de
 demande. Je passe voir chaque collaborateur pour le former à la bonne
 façon de faire. De plus, l’émetteur de la demande devient responsable
 des actions de suivi.
 
-![](guide_html_5a80522b.png)
-
-*Standard de définition d’une demande*
+![Standard de définition d’une demande](post_it_demande.png)
 
 Les obstacles sont matérialisés et suivis sur un tableau dédié :
 
-![](guide_html_67436880.png)
-
-*Tableau de suivi des obstacles*
+![Tableau de suivi des obstacles](tableau_obstacles.png)
 
 Les réunions quotidiennes, qui étaient auparavant centrées sur les
 tâches, font maintenant une large place au traitement des obstacles en
@@ -371,12 +379,7 @@ spécifique où il demeure jusqu’au lendemain. Cela permet à un autre
 équipier, dont une tâche serait en attente de la même demande, de savoir
 qu’il peut reprendre son traitement.
 
-\
-\
-
-![](guide_html_388a37b4.png)
-
-*Panneau des obstacles résolus*
+![Panneau des obstacles résolus](obstacle_resolu.png)
 
 Deux semaines après cette découverte, les questions en attente de
 réponse de la part de la cellule d'analyse fonctionnelle ont toutes été
@@ -403,7 +406,7 @@ ont pu avancer dans les étapes suivantes du processus.
 
     -   Rendre visible les problèmes qui m’empêchent d’avancer sur mes
         tâches par l’intermédiaire des « bacs
-        rouges »^[^17^](#sdfootnote17sym)^
+        rouges » [^principesvisuel]
 
     -   Rendre visible le flux de développement
 
