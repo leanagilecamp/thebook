@@ -1,35 +1,15 @@
-De**Management visuel**
+# De **Management visuel** à **Visualiser le challenge et les problèmes**
 
-\
-\
+## Les pratiques agiles
 
-à**Visualiser le challenge**
-
-**et les problèmes**
-
-\
-\
-
-8 Les pratiques agiles {.western style="page-break-before: always"}
-======================
-
-8.1Favoriser le travail en équipe {.western style="margin-left: 0.75cm; text-indent: -0.75cm; margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2"}
----------------------------------
+### Favoriser le travail en équipe
 
 Dans le bureau d'une équipe de développeurs agiles, personne ne s'étonne
 de voir les murs couverts de *post-its* et de *posters* dessinés à la
 main.
 
-![](guide_html_3a8f385.jpg)
-
-\
-\
-
-*Un affichage mural (radiateur d’information) dans un bureau de
-développeurs*
-
-\
-\
+![Un affichage mural (radiateur d’information) dans un bureau de
+développeurs](affichage_mural.jpg)
 
 Le principe est simple : l'utilisation de l'espace visuel permet
 d'améliorer la qualité et la quantité d'information échangée au sein de
@@ -45,11 +25,7 @@ individus et leurs interactions plus que les processus et les outils ».
 L’affichage mural est alors la réponse adaptée pour la communication
 interne et externe.
 
-\
-\
-
-8.2Encourager l'auto-organisation {.western style="margin-left: 0.75cm; text-indent: -0.75cm; margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2; page-break-before: always"}
----------------------------------
+### Encourager l'auto-organisation
 
 En interne, ces éléments visuels sont des outils avec lesquels les
 développeurs interagissent et à l'aide desquels ils se synchronisent
@@ -65,78 +41,48 @@ Vis-à-vis de l’extérieur, les indicateurs, volontairement simples,
 donnent une vision synthétique de l’état du projet et évitent le
 *reporting* coûteux et inefficace car non partagé.
 
-8.3Quelques exemples {.western style="margin-left: 0.75cm; text-indent: -0.75cm; margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2"}
---------------------
+### Quelques exemples
 
 La culture agile regorge d'exemples que les équipes de développement
 peuvent reprendre à leur propre compte, comme le montrent les spécimens
 suivants.
 
-![](guide_html_m547ee0d7.jpg)
+![tableau kanban](tableau_kanban.jpg)
 
-*tableau kanban*
+![Niko niko](niko_niko.jpg)
 
-![](guide_html_54142367.jpg)
-
-\
-\
-
-*Niko niko*
-
-\
-\
-
-![](guide_html_2d35869e.jpg)
-
-*Burndown chart*
+![Burndown chart](burndown_chart.jpg)
 
 Les équipes plus avancées commencent à créer des affiches sur mesure
 pour répondre à leurs problématiques spécifiques.
 
-![](guide_html_m56cf6e91.jpg)
-
-\
-\
-
-*Un poster sur-mesure*
-
-\
-\
+![Un poster sur-mesure](poster_sur_mesure.jpg)
 
 Puisque la technologie utilisée (papier, feutres et traits à main levée)
 est rudimentaire, il est facile et rapide d'adapter les affichages au
 besoin émergent et d’expérimenter.
 
-![](guide_html_m5c66135e.jpg)
+![Exemples d’affichage d’une équipe créative](affichage_equipe_creative.jpg)
 
-*Exempls d’affichage d’une équipe créative*
-
-\
-\
 
 Les rétrospectives sont des moments privilégiés pour faire évoluer les
 affichages, pour en créer et en supprimer. Tous les formats sont bons,
 tant que les éléments affichés restent utiles et utilisés.
 
-\
-\
-
-8.4Une pratique quotidienne {.western style="margin-left: 0.75cm; text-indent: -0.75cm; margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2"}
----------------------------
+### Une pratique quotidienne
 
 Tous les jours, l'équipe se réunit devant le tableau d'avancement des
 tâches pour une courte réunion d'inspection et d'adaptation. Le support
 visuel matérialise les informations orales fournies rituellement par
 chacun des membres de l'équipe :
 
-depuis hier, j'ai terminé…
+> Depuis hier, j'ai terminé…
 
-d'ici demain, je pense terminer…
+> D'ici demain, je pense terminer…
 
-voici ce qui pourrait constituer un obstacle au fait de terminer…
+> Voici ce qui pourrait constituer un obstacle au fait de terminer…
 
-8.5Une pratique efficace et évolutive {.western style="margin-left: 0.75cm; text-indent: -0.75cm; margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2"}
--------------------------------------
+### Une pratique efficace et évolutive
 
 Les équipes agiles en posture d'amélioration continue sont en
 expérimentation permanente sur leur management visuel. Aujourd'hui, pour
@@ -144,12 +90,9 @@ aller plus loin elles ont recours de plus en plus à l'approche kanban :
 matérialisation des limites sur le travail en cours, définition de
 classes de service…
 
-\
+## Scène de crime : trouver l’indic !
 
-9Scène de crime : trouver l’indic ! {.western style="border-top: none; border-bottom: 1px solid #808080; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.04cm; padding-left: 0cm; padding-right: 0cm; line-height: 115%; widows: 2; orphans: 2; page-break-before: always"}
-===================================
-
-**Le contexte **
+### Le contexte
 
 Une enseigne de la grande distribution s’adresse à l’agence web que je
 dirige pour mettre en ligne son offre traiteur de fin d’année. Le site
@@ -166,12 +109,7 @@ de 95%. Je dois donc offrir à mon client un service de maintenance,
 cependant mes équipes agiles actuelles n’ont aucun cadre de travail pour
 assurer ce nouveau type de prestation.
 
-![](guide_html_3183f42f.jpg)
-
-\
-\
-
-*Radiateur d’informations existant pour gérer les projets web*
+![Radiateur d’informations existant pour gérer les projets web](radiateurs_existants.jpg)
 
 Pendant les 3 années suivantes, nous réussissons au prix de gros efforts
 à tenir nos engagements. En effet, nous devons développer de nouveaux
@@ -185,7 +123,7 @@ peuvent mettre l’entreprise en danger. La pression est donc très
 importante, d’autant que je suis incapable de savoir à tout moment si la
 situation est sous contrôle ou pas.
 
-**La démarche **
+### La démarche
 
 La question qui se pose est de savoir comment être certain que nous
 sommes en train de réussir. C’est à dire assurer un service de
@@ -275,40 +213,7 @@ qui améliore la qualité du service nous permet de renforcer la relation
 de confiance avec notre client qui reconduit chaque année notre
 partenariat.
 
-\
-\
-
-\
-\
-
-\
-\
-
-\
-\
-
-\
-\
-
-\
-\
-
-\
-\
-
-\
-\
-
-\
-\
-
-\
-\
-
-\
-
-\
-\
+--------------------------------------------------------------------------
 
 **Qu’avons-nous fait :**
 
@@ -343,14 +248,11 @@ Peu importe la forme des premiers indicateurs construits tant qu’ils
 montrent la cible et les problèmes, ils s’affineront dans le temps pour
 mieux correspondre à l’attente du client.
 
-\
-\
+--------------------------------------------------------------------------
 
-10Scène de crime : tous coupables ! {.western style="margin-left: 0.76cm; text-indent: -0.76cm; line-height: 115%; widows: 2; orphans: 2; page-break-before: always"}
-===================================
+## Scène de crime : tous coupables
 
-1.  Contexte {.western style="text-indent: 0cm; margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2"}
-    --------
+### Contexte
 
 Suite à la fusion de plusieurs organismes, une grande société de
 services se voit confier la réalisation d’un nouveau système unifié de
@@ -375,8 +277,7 @@ l’équipe demande à changer d’activité.
 J'interviens comme coach agile auprès de l'équipe comportant une
 vingtaine de personnes.
 
-2.  Visualiser le challenge {.western style="text-indent: 0cm; margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2"}
-    -----------------------
+### Visualiser le challenge
 
 L'équipe doit se mettre en capacité de produire le prochain lot dans un
 délai de trois mois, sans retard, en assurant une qualité acceptable du
@@ -401,8 +302,7 @@ la forme d’un tableau visuel.
 L'enjeu de l'itération en cours consiste à sortir toutes les pièces
 présentes sur le tableau[^14^](#sdfootnote14sym).
 
-3.  Révéler les problèmes {.western style="text-indent: 0cm; margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2"}
-    ---------------------
+### Révéler les problèmes
 
 Problème principal : les tâches n’arrivent pas jusqu’à la dernière
 colonne.
@@ -486,6 +386,8 @@ L'équipe a appris à gérer les obstacles, ce qui lui a permis de
 retrouver sa capacité à produire. Une bonne partie des tâches en attente
 ont pu avancer dans les étapes suivantes du processus.
 
+--------------------------------------------------------------------------
+
 **Qu’avons-nous fait :**
 
 -   Comprendre ensemble :
@@ -518,19 +420,16 @@ tâches à l’heure
 L’équipe communique et travaille plus efficacement avec les analystes
 fonctionnels
 
-11Scène de crime : le *burdown*était rouge {.western style="margin-left: 0.76cm; text-indent: -0.76cm; line-height: 115%; widows: 2; orphans: 2; page-break-before: always"}
-==========================================
+--------------------------------------------------------------------------
 
-11.1Contexte {.western style="margin-left: 0.75cm; text-indent: -0.75cm; margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2"}
-------------
+## Scène de crime : le *burdown*était rouge
+
+### Contexte
 
 Comme dans beaucoup d'équipes agiles nous avons un *burndown chart*
 d'itération :
 
 ![](guide_html_m1faa3c92.jpg)
-
-\
-\
 
 Nous rencontrons un problème^[^18^](#sdfootnote18sym)^ de tenue des
 délais qui se matérialise sprint après sprint par un reste à faire de 10
@@ -538,19 +437,14 @@ délais qui se matérialise sprint après sprint par un reste à faire de 10
 
 ![](guide_html_59bbf712.png)
 
-\
-\
-
-11.2Recherche de cause {.western style="margin-left: 0.75cm; text-indent: -0.75cm; margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2"}
-----------------------
+### Recherche de cause
 
 Peut-être que nous ne consacrons pas le temps prévu initialement à
 réaliser nos sprints. Certains membres de l'équipe interviennent en
 effet sur plusieurs activités (management, réunions transverses…). En
 tant que *Team Leader*, je n'échappe pas à cet éparpillement.
 
-11.3Enrichissement du management visuel {.western style="margin-left: 0.75cm; text-indent: -0.75cm; margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2; page-break-before: always"}
----------------------------------------
+### Enrichissement du management visuel
 
 Pour clarifier la situation, nous enrichissons notre management visuel
 en ajoutant un graphique des jours consommés, copie quasi-conforme de
@@ -566,8 +460,7 @@ l'itération autant de jours qu'elle le pensait. L'équipe croyait
 disposer d'une capacité de 100 jours avant l'itération, mais n'a pu en
 fournir réellement que 80.
 
-11.4Action : suivi des écarts {.western style="margin-left: 0.75cm; text-indent: -0.75cm; margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2"}
------------------------------
+### Action : suivi des écarts
 
 Il faut maintenant agir. Je trace, sprint après sprint, la différence
 entre les jours consommés et les jours planifiés.
@@ -578,8 +471,7 @@ Sur les 24 derniers sprints, j'observe une forte variabilité. Je pense
 que les membres de l'équipe n'ont aucun moyen de détecter un écart en
 cours de sprint.
 
-11.5Consommé individuel {.western style="margin-left: 0.75cm; text-indent: -0.75cm; margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2"}
------------------------
+### Consommé individuel
 
 J’en discute avec l'équipe et nous décidons de tracer jour après jour le
 consommé de chaque personne.
@@ -591,16 +483,12 @@ Quand Romain dit "je suis intervenu sur telle tâche toute la journée",
 le développeur surligne en fluo une journée supplémentaire consommée sur
 la ligne de Romain.
 
-\
-\
-
 ![](guide_html_542a22e0.jpg)
 
 Ce suivi permet d'alerter Romain: "attention, il ne reste que 2 jours et
 il te reste 1,5 jours à consacrer au sprint".
 
-11.6L'information affichée est exploitée {.western style="margin-left: 0.75cm; text-indent: -0.75cm; margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2; page-break-before: always"}
-----------------------------------------
+### L'information affichée est exploitée
 
 Chaque membre de l'équipe est maintenant en mesure de suivre au jour le
 jour un éventuel écart de son implication dans le sprint. Par exemple,
@@ -625,6 +513,8 @@ s’améliorer drastiquement en se focalisant sur les stories à valider
 plutôt que sur de nouvelles spécifications :
 
 ![](guide_html_308de9ef.png)
+
+----------------------------------------
 
 **Qu’avons-nous fait :**
 
@@ -664,21 +554,15 @@ plutôt que sur de nouvelles spécifications :
 
 Laisser l’équipe trouver d’elle-même les solutions à ses problème
 
-\
-\
+----------------------------------------
 
-12Principes lean {.western style="page-break-before: always"}
-================
+## Principes lean {.western style="page-break-before: always"}
 
-12.1Qu'est-ce que le management visuel lean apporte à une équipe agile ? {.western style="margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2"}
-------------------------------------------------------------------------
+### Qu'est-ce que le management visuel lean apporte à une équipe agile ? {.western style="margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2"}
 
 ![](guide_html_1c1d1267.jpg)
 
 *Du management visuel agile au management visuel lean*
-
-\
-\
 
 Le management visuel lean permet de franchir un palier sur trois
 sujets :
@@ -701,8 +585,7 @@ sujets :
 -   Communiquer avec vos managers sur un plan d’égalité et ainsi mieux
     vous faire entendre.
 
-12.2Les objectifs {.western style="margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2; page-break-before: always"}
------------------
+### Les objectifs
 
 Le management visuel fournit en temps réel l’information et le
 *feedback* objectif nécessaires à la compréhension de l’activité de
@@ -717,11 +600,8 @@ Il est basé sur trois axes :
 
 ![](guide_html_194642db.png)
 
-\
-\
 
-12.3Comprendre ensemble {.western style="margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2"}
------------------------
+### Comprendre ensemble
 
 La construction et l’utilisation du management visuel amènent l’équipe à
 développer une compréhension commune de :
@@ -734,7 +614,7 @@ développer une compréhension commune de :
 
 -   les rôles et les compétences de chacun ;
 
-### 12.3.1Le client {.western style="line-height: 115%; widows: 2; orphans: 2"}
+#### Le client
 
 L’équipe commence par identifier clairement ses
 clients.^[^19^](#sdfootnote19sym)^
@@ -749,7 +629,7 @@ commanditaire). Ils ont réalisé que leur contrat ne reflétait pas leurs
 réelles attentes. S’ils respectaient les 95% de disponibilité du site,
 pas de pénalité pour l’équipe, mais une image affectée pour le client.
 
-### 12.3.2Le challenge et la performance {.western style="line-height: 115%; widows: 2; orphans: 2"}
+#### Le challenge et la performance
 
 L’équipe définit sa « condition cible » et la traduit sous la forme
 d’indicateurs de performance. Ces derniers montrent la qualité de ce que
@@ -775,7 +655,7 @@ suivants :
 -   La satisfaction client (l’équipe peut avoir l’impression que tout va
     bien alors que le client n’est pas entièrement satisfait)
 
-### 12.3.3Le processus {.western style="line-height: 115%; widows: 2; orphans: 2"}
+#### Le processus
 
 L’équipe définit clairement les activités à valeur ajoutée pour le
 client et les étapes par lesquelles elle doit passer pour livrer le
@@ -783,7 +663,7 @@ service ou le produit requis. L’objectif est de s’aligner et de rester
 focalisé sur ce qui est important pour le client, tout en facilitant le
 travail de chaque collaborateur.
 
-### 12.3.4L’équipe {.western style="line-height: 115%; widows: 2; orphans: 2"}
+#### L’équipe
 
 Chaque personne doit être capable d’exprimer clairement son rôle et sa
 place dans l’équipe. Ceci lui permet d’interagir avec elle sans
@@ -795,8 +675,7 @@ compétences étant clair pour chacun.
 
 ![Group 7](guide_html_1d3c340b.png)
 
-12.4Voir ensemble {.western style="margin-left: 0.75cm; text-indent: -0.75cm; margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2; page-break-before: always"}
------------------
+### Voir ensemble
 
 Dès que l’équipe est claire sur la direction à prendre et qu’elle est
 prête à mesurer sa performance au jour le jour, elle doit rendre visible
@@ -809,10 +688,7 @@ le flux de ses activités comprenant l’objectif du jour et la
 distribution des tâches, ainsi que la performance. L’objectif est d’être
 alerté immédiatement en cas d’anomalie afin de réagir rapidement.
 
-\
-\
-
-### 12.4.1Flux d’activité {.western style="line-height: 115%; widows: 2; orphans: 2"}
+#### Flux d’activité
 
 Typiquement, les équipes agiles utilisent des *taskboards* pour
 organiser leurs *sprints* et visualiser le flux des tâches.
@@ -858,13 +734,7 @@ L’image ci-dessous représente trois bannettes :
 
 ![](guide_html_m217147a.png)
 
-\
-\
-
-\
-\
-
-### 12.4.2Le mur de la performance {.western style="line-height: 115%; widows: 2; orphans: 2"}
+#### Le mur de la performance
 
 L’équipe construit ses indicateurs de performance pour savoir à tout
 moment si elle répond bien aux attentes de ses clients. Elle les met à
@@ -892,8 +762,7 @@ Liste des problèmes :
 
 ![Group 5](guide_html_m4bd51fdf.png)
 
-12.5Agir ensemble {.western style="margin-left: 0.75cm; text-indent: -0.75cm; margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2; page-break-before: always"}
------------------
+### Agir ensemble
 
 Le management visuel favorise l’auto-organisation de l’équipe afin
 qu’elle puisse réagir rapidement aux problèmes et adapter son
@@ -919,17 +788,12 @@ sur le mur et les traite les uns après les autres. Suivant la nature du
 problème, l’équipe peut se reconfigurer et affecter certains de ses
 membres spécifiquement à son analyse et sa résolution.
 
-\
-\
-
 Le sujet de la résolution de problèmes sera détaillé dans le prochain
 chapitre, « Les leviers de l’amélioration ».
 
-13Premiers pas {.western style="margin-left: 0.76cm; text-indent: -0.76cm; line-height: 115%; widows: 2; orphans: 2; page-break-before: always"}
-==============
+## Premiers pas
 
-13.1Comprendre ensemble {.western style="margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2"}
------------------------
+### Comprendre ensemble
 
 Allez voir votre client, votre manager et votre équipe pour comprendre
 leurs critères de succès :
@@ -942,8 +806,7 @@ leurs critères de succès :
 Après avoir rencontré, interrogé, observé vos clients, écrivez sur
 papier la liste de ces critères. Ils définissent votre challenge.
 
-13.2Voir ensemble {.western style="margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2"}
------------------
+### Voir ensemble
 
 Mettez-vous devant votre management visuel et voyez avec l’ensemble de
 l’équipe :
@@ -961,8 +824,7 @@ l’équipe :
 
 Reprenez et ré-itérez sur la construction de votre management visuel.
 
-13.3Agir ensemble {.western style="margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2"}
------------------
+### Agir ensemble
 
 Tous les jours, posez-vous ces questions :
 
@@ -978,23 +840,15 @@ Tous les jours, posez-vous ces questions :
 Quelle est la dernière chose que vous avez apprise grâce à votre
 management visuel ?
 
-14Aller plus loin {.western style="margin-left: 0.76cm; text-indent: -0.76cm; line-height: 115%; widows: 2; orphans: 2; page-break-before: always"}
-=================
+## Aller plus loin
 
-14.1The Visual Factory {.western lang="en-US" style="margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2"}
-----------------------
+### The Visual Factory
 
 Michel GREIF – Edition Productivity Press
 
 ![](guide_html_2f589b7d.jpg)
 
-\
-\
-
 Version française disponible en ebook
-
-\
-\
 
 Aller à l'essentiel :
 
@@ -1004,50 +858,15 @@ Aller à l'essentiel :
 -   Chapitre 6 « Process Indicators » pour comprendre les indicateurs de
     performance à ne pas confondre avec des indicateurs d’activité
 
-14.2Creating a Lean Culture {.western lang="en-US" style="margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2"}
----------------------------
+### Creating a Lean Culture
 
 David MANN – Edition CRC Press
 
 ![](guide_html_509321d4.jpg)
 
-\
-\
-
-\
-\
-
 Shingo Prize : la plus haute distinction des livres lean
 
 Aller à l'essentiel :
 
-4.  Chapitre 4 « Visual Controls » pour retrouver des exemples de
+-   Chapitre 4 « Visual Controls » pour retrouver des exemples de
     management visuel
-
-\
-\
-
-\
-\
-
-\
-\
-
-\
-\
-
-\
-\
-
-\
-\
-
-\
-\
-
-\
-\
-
-\
-\
-
