@@ -611,9 +611,14 @@ Quelques exemples :
     temps pour approuver une demande de crédit
 
 -   Eliminer des gaspillages : productivité des
-    utilisateurs^[^7^](#sdfootnote7sym)^
+    utilisateurs [^attention]
 
 -   Réduire les irritants : taux de perte des visiteurs sur un site web
+
+[^attention]: Attention toutefois sur ce dernier point : l’équipe
+doit rester vigilante à ne pas asservir l’humain à la machine. La vision
+lean considère la technologie comme un outil mis au service de
+l’intelligence humaine.
 
 Cette démarche est directement basée sur la technique du
 Plan-Do-Check-Act (PDCA) présentée au chapitre « De "L'amélioration
