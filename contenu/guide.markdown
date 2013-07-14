@@ -1,6 +1,4 @@
-% Petit guide
-  de management lean
-  à l'usage des équipes agiles
+% Petit guide de management lean à l'usage des équipes agiles
 % Collectifs d'auteurs
 % 10 juillet 2013
 
@@ -10,8 +8,9 @@
 
 sous la houlette bienveillante de Régis Medina
 
-![](guide_html_5c9ec119.png)\
-\
+[![license CC BY-NC-ND 3.0](cc_by-nc-nd.png)](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.fr)
+
+Cette œuvre est mise à disposition selon les termes de la [Licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 non transposé](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.fr).
 
 Version 1.0 – 10 juillet 2013
 
