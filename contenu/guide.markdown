@@ -325,15 +325,9 @@ assistante qui doit saisir les données au fur et à mesure de l'examen.
 Or, pour aller plus vite, cette assistante n’utilise que les touches du
 clavier : pas une minute à perdre pour enchaîner ces dix vacations.
 
-![](guide_html_m39c8395e.jpg)
+![Contexte d’utilisation du logiciel](dentiste_contexte.jpg)
 
-*Contexte d’utilisation du logiciel*
-
-\
-\
-
-2.2Vérification de l'observation {.western}
---------------------------------
+### Vérification de l'observation
 
 Ce que nous avons observé change notre perception de l’usage de cette
 application.
@@ -342,31 +336,28 @@ Une fois rentrés, nous menons une expérimentation en navigant uniquement
 avec les tabulations du clavier. C’est une catastrophe ! L’utilisateur
 est baladé de haut en bas, le faisant tourner en girouette.
 
-![](guide_html_m1d7bdb61.jpg)
+![Nouvelle navigation](dentiste_nouvelle_navigation.jpg)
 
-2.3Action corrective {.western style="margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2"}
---------------------
+### Action corrective
 
 L’équipe change la navigation pour que les tabulations suivent l’ordre
 dans lequel l’assistante effectue la saisie.
 
-2.4Le mot de l'assistante : merci *Go&See* {.western style="margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2"}
-------------------------------------------
+### Le mot de l'assistante : merci *Go&See*
 
 Sans cette visite au cabinet, là où les choses se passent, nous
 n'aurions pas détecté les attentes ergonomiques spécifiques de
 l'assistante. Le logiciel l’aide maintenant correctement pour remplir sa
 mission.
 
-\
-\
+-------------------------------------------------------------------------
 
 **Qu’avons-nous fait :**
 
 -   aller voir le client, sur son lieu de travail, pour mieux comprendre
     son contexte ;
 
--   confronter nos hypothèses avec la réalité du *gemba *;
+-   confronter nos hypothèses avec la réalité du *gemba*;
 
 -   adapter l’outil à l’usage dans son contexte
 
@@ -383,10 +374,7 @@ Toute hypothèse sur le client doit être confrontée à la réalité du
 *gemba*. C’est une excellente pratique pour identifier la valeur et les
 préférences du client.
 
-\
-
-\
-\
+-------------------------------------------------------------------------
 
 3 Scène de crime : vie et mort d'une idée géniale {.western style="page-break-before: always"}
 =================================================
