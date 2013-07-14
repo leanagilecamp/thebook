@@ -1,4 +1,6 @@
 #!/bin/bash
 
 cd contenu
-pandoc -f markdown -s guide.markdown --toc -o guide.pdf
+set -x
+pandoc -f markdown --toc -s `ls *.markdown | sort`  -t html5 -o guide.pdf
+
