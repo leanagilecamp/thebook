@@ -241,7 +241,7 @@ lumineuse pour signaler tout dysfonctionnement au plus tôt et
 s’accompagne d’un arrêt immédiat. Dans le cas des machines et des
 outils, l’allumage du andon est automatique en cas d’anomalie. En
 informatique, cela évoque le concept du 
-[http://martinfowler.com/ieeeSoftware/failFast.pdf](Fail Fast)
+[Fail Fast](http://martinfowler.com/ieeeSoftware/failFast.pdf)
 
 ![](guide_html_1c46dee4.jpg)
 
