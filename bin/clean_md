@@ -1,0 +1,20 @@
+#!/bin/bash
+# -*- coding: UTF8 -*-
+if [ $# -ne 1 ]
+then
+  echo "Usage: `basename $0` markdown/directory" 
+  exit 1
+fi
+DIRECTORY=$1
+TARGET_DIR=tmp
+
+function clean_md {
+  file=$1
+  cat $file | sed 's/\\newpage//' > $TARGET_DIR/$(basename $file)  
+}
+
+mkdir -p $TARGET_DIR
+for file in $DIRECTORY/*.markdown 
+do
+  clean_md $file
+done
