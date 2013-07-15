@@ -1,0 +1,11 @@
+#!/bin/bash
+# -*- coding: UTF8 -*-
+
+BIN_DIR=`dirname $0`
+CONTENU_DIR=$BIN_DIR/../contenu
+
+$BIN_DIR/clean_md $CONTENU_DIR
+cp $CONTENU_DIR/*.png $CONTENU_DIR/*.jpg tmp
+
+cd tmp
+pandoc -f markdown --toc -s `ls *.markdown | sort`  -o guide.epub
