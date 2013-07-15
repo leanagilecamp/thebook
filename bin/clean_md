@@ -12,6 +12,7 @@ function clean_md {
   file=$1
   cat $file \
 	| sed 's/^\\$//' \
+	| sed 's/{.western.*}//' \
 	| sed 's/\\newpage//' > $TARGET_DIR/$(basename $file)  
 }
 
