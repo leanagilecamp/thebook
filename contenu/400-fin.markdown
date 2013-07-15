@@ -10,6 +10,8 @@ que nous progressions tous ensemble :
 
 [http://www.leanagilecamp.fr](http://www.leanagilecamp.fr/)
 
+\newpage
+
 # Livres de référence
 
 ## Le management lean
@@ -25,6 +27,7 @@ Edition Pearson
 
 ![](guide_html_m44286ac1.jpg)
 
+\newpage
 
 # Ressources de référence
 
