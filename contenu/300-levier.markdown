@@ -1,17 +1,10 @@
 \newpage
 
-De**L’amélioration continue**
+# De **L’amélioration continue** à **Trouver les leviers de l’amélioration**
 
-\
-\
+## Les pratiques agiles
 
-à**Trouver les leviers de l’amélioration**
-
-15Les pratiques agiles
-======================
-
-15.1Au plus profond de la culture agile
----------------------------------------
+### Au plus profond de la culture agile
 
 Des principes favorisant l'identification des actions d'amélioration
 sont embarqués au plus profond de la culture agile.
@@ -29,8 +22,7 @@ n'est pas satisfait, l’équipe cherche un moyen d'améliorer la situation.
 Les temps rétrospectifs : En réservant du temps pour réfléchir, l'équipe
 crée l'espace nécessaire pour le choix d'actions d'améliorations.
 
-15.2Les domaines privilégiés d'amélioration
--------------------------------------------
+### Les domaines privilégiés d'amélioration
 
 Au fil des années, la communauté agile s'est constituée un riche
 catalogue de pratiques favorisant l'amélioration.
@@ -42,7 +34,7 @@ inefficientes. C'est la raison pour laquelle on peut trouver des
 pratiques agiles dans ces différents domaines. En voici quelques
 exemples significatifs.
 
-### 15.2.1L'organisation du travail
+#### L'organisation du travail
 
 Comme le mécanicien qui sait repérer les anomalies dans le bruit
 répétitif du moteur, l'équipe identifie les effets des changements
@@ -52,12 +44,9 @@ rythme du travail. Cette idée est reproduite de manière fractale
 jusqu'aux gestes du développement : la construction d'un programme est
 aussi une résolution successive de micro-problèmes.
 
-\
-\
-
 ![](guide_html_601d0c42.png)
 
-### 15.2.2Les trucs de geeks
+#### Les trucs de geeks
 
 Le *refactoring*, les tests automatiques sont des leviers techniques
 d'amélioration du produit logiciel. Le développement piloté par les
@@ -75,7 +64,7 @@ de la hauteur dans les solutions conçues et son expertise technique.
 L'expert métier peut apporter au novice ses explications des concepts et
 techniques du projet.
 
-### 15.2.3La communication interpersonnelle
+#### La communication interpersonnelle
 
 La qualité de la communication représente un axe majeur d'amélioration.
 Pour exploiter les bénéfices de la communication orale, il est conseillé
@@ -90,8 +79,7 @@ humaines et du coaching d'équipe (Virginia Satir, Ecole de Palo Alto,
 Core protocols, psychologie sociale) afin de guider les équipes dans
 l'amélioration de leur efficacité.
 
-15.3Trouver des leviers sur mesure
-----------------------------------
+### Trouver des leviers sur mesure
 
 Le travail en équipe auto organisée constitue un des principes
 fondamentaux de la culture agile ("The best architectures, requirements,
@@ -104,7 +92,9 @@ un levier d'amélioration. Chaque levier consiste à introduire ou ajuster
 une pratique issue du catalogue cité précédemment, ou une action
 concoctée sur mesure.
 
-L![](guide_html_12c2101.jpg)a diversité des points de vue de chaque
+![](guide_html_12c2101.jpg)L
+
+La diversité des points de vue de chaque
 individu est le gage du potentiel d'amélioration de l'équipe. Celle-ci
 doit s'efforcer d'exploiter au mieux cette richesse en partageant les
 informations pertinentes dont chacun a pu disposer individuellement. Une
@@ -125,11 +115,9 @@ coûteuse ou en dehors du champ d'action.
 - elle remporte l'adhésion : C'est l’action qui fait consensus parmi les
 participants qui est choisie.
 
-16Scène de crime : la mise en production qui ne devait pas échouer
-==================================================================
+## Scène de crime : la mise en production qui ne devait pas échouer
 
-16.1L'odeur du napalm au petit matin
-------------------------------------
+### L'odeur du napalm au petit matin
 
 Un opérateur majeur propose un service grand public de télévision et
 vidéo à la demande. Il sert 40 millions d’accès par mois grâce à 250 000
@@ -147,9 +135,6 @@ C’est pourquoi l’équipe système n’ose pas rouvrir le service au public.
 
 ![](guide_html_f0baa44.png)
 
-\
-\
-
 Je vais voir l’ingénieur système pour l’aider à rétablir le service au
 plus tôt.
 
@@ -163,8 +148,7 @@ recrée immédiatement à la main. Il redémarre les consommateurs et une
 minute plus tard le monitoring repasse au vert. Le service est ré-ouvert
 et le trafic reprend.
 
-16.2Une situation client dramatique
------------------------------------
+### Une situation client dramatique
 
 Où en sommes-nous ? La version cible n’est toujours pas en production.
 Le pôle exploitation client est passé en incident majeur (plus de 2h
@@ -179,15 +163,16 @@ assurer cette grosse évolution, il faut effectuer 4 mises en production.
 En comptant 19 jours de préavis pour chacune, il faudrait 3 mois au lieu
 des 2 semaines voulues par le marketing.
 
-\
-\
 
-16.3Les 5 pourquoi
-------------------
+### Les 5 pourquoi
 
 Une fois le service rétabli, je pars mener une enquête minutieuse, dans
-l’esprit des "5 pourquoi" du lean^[^20^](#sdfootnote20sym)^ pour éviter
+l’esprit des "5 pourquoi" du lean [^cinqpourquoi] pour éviter
 la réapparition de l’incident.
+
+[^cinqpourquoi]: Les 5 pourquoi du lean : Cf. la section
+[« Principes Lean » du chapitre « Leviers de l’amélioration »](#principes-lean-2)
+
 
 Pourquoi le lien symbolique n’a pas été créé ? Le script *shell*
 d’installation maintenu par l’équipe système n’a pas créé ce lien
@@ -202,10 +187,13 @@ Pourquoi ? Cette instruction se réfère à un chemin inexistant.
 Pourquoi ? Ce script a été mal modifié lors d’une mise à jour du système
 de *monitoring*.
 
-**Une cause profonde**^**[^21^](#sdfootnote21sym)**^**a été
+**Une cause profonde [^causeprofonde] a été
 identifiée** : une maladresse lors d’un changement technique.
 
-### 16.3.1L’échec des procédures qualité
+[^causeprofonde]: Cause profonde en lean : Cf. la section
+[« Principes Lean » du chapitre « Leviers de l’amélioration »](#principes-lean-2)
+
+#### L’échec des procédures qualité
 
 Pourtant, dans mon entreprise, il existe un standard pour se prémunir de
 ce genre de maladresse, à savoir la répétition systématique en
@@ -218,7 +206,7 @@ sont différents de ceux en production : ils n’ont pas été modifiés.
 **Une autre cause profonde a été identifiée **: un écart entre les
 environnements.
 
-### 16.3.2Comment fatiguer son ingénieur système ?
+#### Comment fatiguer son ingénieur système ?
 
 Une autre question subsiste : pourquoi un ingénieur système, pourtant
 talentueux, a-t-il dû attendre l’arrivée d’un développeur pour recréer
@@ -231,45 +219,31 @@ Pourquoi ? Les logs de l’application partaient vers la sortie standard
 (à cause du lien symbolique manquant) et le script d’exploitation
 ignorait la sortie standard.
 
-\
-\
-
 ![](guide_html_m2a9242be.jpg)
 
-\
-\
+### Prévenir plutôt que guérir
 
-\
-\
-
-\
-\
-
-\
-\
-
-16.4Prévenir plutôt que guérir
-------------------------------
-
-L’arbre de causalité^[^22^](#sdfootnote22sym)^ indique trois causes
+L’arbre de causalité [^arbredecause] indique trois causes
 racines, en dehors de notre champ d’action.
+
+[^arbredecause]: l’arbre de cause : l’enchaînement cause et
+conséquence est représenté sous forme arborescente. Cf : la section
+[« Principes Lean » du chapitre « Leviers de l’amélioration »](#principes-lean-2)
 
 ![](guide_html_778dd0f.jpg)
 
-\
-\
-
 Nous modifions notre code pour qu’il adresse à l’ingénieur système un
 message explicite en cas de dysfonctionnement. En terme lean, nous
-ajoutons un *andon*^*[^23^](#sdfootnote23sym)*^.
+ajoutons un *andon* [^andon].
 
-\
-\
+[^andon]: un andon en lean : Le andon désigne une alerte
+lumineuse pour signaler tout dysfonctionnement au plus tôt et
+s’accompagne d’un arrêt immédiat. Dans le cas des machines et des
+outils, l’allumage du andon est automatique en cas d’anomalie. En
+informatique, cela évoque le concept du 
+[http://martinfowler.com/ieeeSoftware/failFast.pdf](Fail Fast)
 
 ![](guide_html_1c46dee4.jpg)
-
-\
-\
 
 Comme nous avons la main sur le script d’exploitation, nous le modifions
 pour rediriger la sortie standard, jusque-là ignorée, vers les logs
@@ -294,8 +268,7 @@ reproduire.
 J’ai la satisfaction d’avoir posé la première pierre du long chemin vers
 le rétablissement de la confiance avec notre client.
 
-\
-\
+--------------------------------------------------------------------------
 
 **Qu’avons-nous fait :**
 
@@ -324,18 +297,16 @@ qui, à elle seule, évitera de nouveaux incidents.
 En tant que développeur, j’ai appris qu’il faut que j’anticipe aussi le
 cas où le système de log n’arrive pas à s’initialiser.
 
-\
-\
+--------------------------------------------------------------------------
 
-\
-\
-
-17Scène de crime : du rififi dans mes sprints
-=============================================
+## Scène de crime : du rififi dans mes sprints
 
 Chaque année, mon équipe agile doit assurer la maintenance d’un site web
 marchand en plus de son activité de développement. Cette activité
-ponctuelle perturbe les sprints en cours.^[^24^](#sdfootnote24sym)^
+ponctuelle perturbe les sprints en cours.[^trouvezlindic]
+
+[^trouvezlindic]: Cette situation est également décrite dans la section 
+[« Trouvez l'indic !» du chapitre « Management Visuel »](#scène-de-crime-trouvez-lindic)
 
 L’équipe met tout d'abord en place un management visuel pour :
 
@@ -346,16 +317,10 @@ L’équipe met tout d'abord en place un management visuel pour :
 
 -   être capable de réagir en fonction de la criticité des problèmes.
 
-\
-\
-
 ![](guide_html_1489f423.jpg)
 
-\
-\
 
-17.1Du management visuel au Plan-Do-Check-Act (PDCA)
-----------------------------------------------------
+### Du management visuel au Plan-Do-Check-Act (PDCA)
 
 Même si la situation semble s’améliorer, des problèmes déjà corrigés
 reviennent d’année en année (espace disque insuffisant, fiabilité des
@@ -369,9 +334,10 @@ problèmes identifiés soient corrigés définitivement ?
 Je décide de mettre en œuvre la technique du Plan-Do-Check-Act (PDCA).
 
 Sur le management visuel, chaque problème figure sous forme d'un
-post-it. \
+post-it.
+
 Un membre de l’équipe est chargé d’analyser le problème en profondeur en
-utilisant la technique des "**5 pourquoi**"^[^25^](#sdfootnote25sym)^.
+utilisant la technique des "**5 pourquoi**" [^cinqpourquoi].
 Cette technique simple permet de trouver la cause racine du problème.
 
 Ensuite, l'équipier propose une contre-mesure pour supprimer cette
@@ -380,8 +346,7 @@ de l'efficacité de la contre-mesure. Suivant le résultat de la
 vérification, les procédures sont adaptées pour intégrer la nouvelle
 pratique.
 
-17.2Le service de prise de commande ne répond pas dans les temps.
------------------------------------------------------------------
+### Le service de prise de commande ne répond pas dans les temps.
 
 Le service de prise de commande répond en 8 secondes au lieu de 2
 secondes. Le système de monitoring remonte une alerte sur la console de
@@ -440,11 +405,7 @@ disque demeure suffisant pour que l’application fonctionne correctement.
 Après vérification du résultat des actions, la procédure d’installation
 des serveurs de prise de commande est mise à jour.
 
-\
-\
-
-17.3Résultats
--------------
+### Résultats
 
 ![](guide_html_3e39b8d9.jpg)
 
@@ -461,6 +422,8 @@ garantissant la satisfaction de notre client.
 Au-delà des bénéfices pour ce projet précis, j’observe que
 l’enchaînement des cycles Plan-Do-Check-Act fait monter en compétence
 mon équipe et que les autres projets se passent mieux.
+
+---------------------------------------------------------------------
 
 **Qu’avons-nous fait :**
 
@@ -479,9 +442,6 @@ Nous avons diminué significativement le volume d’incidents.
 
 Nous avons un standard corrigé qui nous protège de la récurrence.
 
-\
-\
-
 **Ce que j’ai appris :**
 
 Mon équipe a acquis des compétences en administration système.
@@ -490,14 +450,9 @@ J’ai désormais une expérience personnelle de l’alignement de
 l’entreprise sur la satisfaction client par le développement des
 compétences.
 
-\
-\
+---------------------------------------------------------------------
 
-\
-\
-
-18Scène de crime : joue-la courte et précise
-============================================
+## Scène de crime : joue-la courte et précise
 
 Notre client est mécontent car l'équipe de développement dont je fais
 partie met deux fois plus de temps qu’il ne souhaite sur les gros
@@ -505,11 +460,7 @@ projets.
 
 ![](guide_html_m32460f2d.jpg)
 
-\
-\
-
-18.1Première hypothèse
-----------------------
+### Première hypothèse
 
 Pour comprendre où gagner du temps, le ScrumMaster propose de visualiser
 le problème. Il met une feuille au mur, chaque développeur qui constate
@@ -526,8 +477,7 @@ Je réalise que ce n’est pas surprenant. Les gens sont sensibles à ce qui
 sort de l’ordinaire, mais ne remarquent pas les freins dont ils ont
 l’habitude.
 
-18.2Deuxième hypothèse
-----------------------
+### Deuxième hypothèse
 
 Mon ScrumMaster a une nouvelle intuition : l’équipe passe trop de temps
 à faire du *refactoring*. Je trouve pour ma part que l’écriture des
@@ -540,12 +490,9 @@ Pour éclaircir ce mystère, pendant plusieurs sprints, je note à chaque
 
 ![](guide_html_521f0537.jpg) ![](guide_html_m1d1acf80.jpg)
 
-\
-\
-
 Astuce Lean :
 
-5.  Préparer un modèle vierge pour assurer une meilleure pertinence des
+1.  Préparer un modèle vierge pour assurer une meilleure pertinence des
     observations récoltées
 
 Constats : les tests d’acceptance automatisés ne représentent que 5,5%
@@ -559,8 +506,7 @@ contraire aurait été étonnant dans une équipe de développement. Mais
 cela ne fait que déplacer le problème : où passe notre temps quand nous
 programmons ?
 
-18.3Troisième expérimentation
------------------------------
+### Troisième expérimentation
 
 Je lance une troisième expérimentation : l’investigation pendant le
 *pair-programming*.
@@ -569,9 +515,6 @@ Pendant 20 demi-journées, le copilote note le temps passé à la minute
 près.
 
 ![](guide_html_779dcb8f.jpg)
-
-\
-\
 
 Avant de faire cette expérimentation, nous pensions passer beaucoup de
 temps dans la rédaction des tests unitaires. D’ailleurs, des confrères
@@ -591,14 +534,7 @@ l'existant. Désormais, quand j'ignore où intervenir pour réaliser ma
 tâche, je demande systématiquement par quelle classe rentrer dans le
 code existant et cela me permet d’aller deux fois plus vite.
 
-\
-\
-
-\
-\
-
-\
-\
+-----------------------------------
 
 **Qu’avons-nous fait :**
 
@@ -623,14 +559,11 @@ J’ai appris un geste qui accélère ma vitesse de développement.
 
 J’ai appris une méthode pour identifier un potentiel d’accélération.
 
-\
-\
+-----------------------------------
 
-19Principes lean
-================
+## Principes lean
 
-19.1Aux origines
-----------------
+### Aux origines
 
 Le père du lean est convaincu que chacun est rempli d’impressions, de
 préjugés, d’opinions, qui sont autant d’idées fausses. Il utilise une
@@ -657,19 +590,18 @@ clair dans sa tête », le praticien du lean est avide de faits : combien
 de fois le client n’a-t-il pas été clair ? Allons voir l’ingénieur
 système pour savoir ce qui s’est effectivement passé.
 
-19.2Qu'est-ce que le Plan-Do-Check-Act apporte à une équipe agile ?
--------------------------------------------------------------------
+### Qu'est-ce que le Plan-Do-Check-Act apporte à une équipe agile ?
 
 Le lean fournit donc une méthode pour affronter des problèmes complexes
 comme :
 
-6.  ceux qui reviennent nous hanter et que nous n'arrivons pas vraiment
+1.  ceux qui reviennent nous hanter et que nous n'arrivons pas vraiment
     à résoudre définitivement. Dans l'exemple « Du rififi dans mes
     sprints », les développeurs dépassent la correction rustine et font
     disparaître toute une classe de problèmes avant même qu'ils ne
     surviennent.
 
-7.  Des problèmes qui sortent de la zone de contrôle de l'équipe. Dans
+2.  Des problèmes qui sortent de la zone de contrôle de l'équipe. Dans
     l'exemple « La mise en production qui ne devait pas échouer », le
     développeur trouve la force de traverser les barrières entre
     production et développement pour creuser jusqu'au coeur de
@@ -688,16 +620,15 @@ pas testées.
 
 Enfin, le Plan-Do-Check-Act évite d’investir sur des fausses pistes.
 
-19.3Comment faire en pratique ?
--------------------------------
+### Comment faire en pratique ?
 
 A chaque pas d’un Plan-Do-Check-Act, la méthode préconise que le porteur
 présente ce qu’il a compris à un expert du sujet et à des acteurs du
 problème, pour détecter d’éventuelles idées fausses.
 
-### 19.3.1Plan
+#### Plan
 
-#### 19.3.1.1Définir le problème
+##### Définir le problème
 
 Dans l’exemple « Joue-la courte et précise », le client se plaint d’une
 dérive des délais. Le membre de l’équipe pense qu’il surestime cette
@@ -705,36 +636,47 @@ dérive. Le lean transforme cette affirmation en un problème en le
 visualisant sous la forme d’un écart quantifié entre une attente et un
 constat. Le porteur se rend compte que les délais sont généralement deux
 fois plus longs que le client ne le souhaiterait dans le cas des grosses
-épiques^[^26^](#sdfootnote26sym)^ :
+épiques [^epique] :
+
+[^epique]: Une épique est un ensemble fonctionnel cohérent
+de User Stories.
 
 ![](guide_html_m12fedf01.jpg)
 
-#### 19.3.1.2Qualifier l’impact
+##### Qualifier l’impact
 
 Comment juger si le problème mérite l’énergie que le porteur va lui
 consacrer ? Un bon problème aura un impact significatif pour le client
 ou l’entreprise (financièrement ou en terme de stratégie).
 
-#### 19.3.1.3Comprendre la situation
+##### Comprendre la situation
 
 Pour contrer les croyances erronées, le porteur observe, compte, examine
 des instances du problème. Cette pratique s’appelle le *Go&See* ou
-« aller sur le *gemba* »^[^27^](#sdfootnote27sym)^. Elle répond aux
+« aller sur le *gemba* » [^goandsee2]. Elle répond aux
 questions « A quelle étape, à quel endroit, le problème survient-il ? »
 et « Quel est le potentiel d’amélioration ? ».
+
+[^goandsee2]: Le chapitre « [De Satisfaire le client à
+Comprendre son attente](#de-satisfaire-le-client-à-comprendre-son-attente) » présente aussi cette pratique, mais le
+périmètre restreint du client.
 
 ![](guide_html_72d67483.jpg)
 
 Pour aider à voir le potentiel d’amélioration, le lean met à disposition
 des outils, qui sont autant de grilles de lecture pour affuter le
 regard. Le plus connu de ces outils conceptuels est la notion des 7
-gaspillages^[^28^](#sdfootnote28sym)^, c’est-à-dire 7 façons différentes
+gaspillages [^gaspillages], c’est-à-dire 7 façons différentes
 de gaspiller le temps précieux d’une personne. Le tableau ci-dessous
 donne quelques exemples de ces familles dans le contexte du projet de
 développement agile.
 
-\
-\
+[^gaspillages]: Le chapitre «[De Satisfaire le client à
+Comprendre son attente](#de-satisfaire-le-client-à-comprendre-son-attente) » introduit la notion de
+gaspillage par opposition à la création de valeur. La notion présentée
+ici est plus restreinte, en l’appliquant spécifiquement au temps de ceux
+qui créent de la valeur.
+
 
 **Type de gaspillage**
 
@@ -787,10 +729,7 @@ Ecrire du code qui n’est jamais utilisé.
 
 Réaliser une *User Story* plus tôt que nécessaire.
 
-\
-\
-
-#### 19.3.1.4Trouver les causes racines
+##### Trouver les causes racines
 
 Le porteur va jusqu’à la cause racine. Dans l’exemple « Du rififi dans
 mes sprints », poser plusieurs fois la question « pourquoi » amène à
@@ -809,14 +748,12 @@ d’arbre.
 
 ![](guide_html_m5baee55f.jpg)
 
-\
-\
 
 Des hypothèses sont ainsi formulées et testées. Dans l’exemple « Joue-la
 courte et précise », la croyance « une équipe extreme programming passe
 la moitié de son temps à écrire des tests » est invalidée.
 
-#### 19.3.1.5Formuler puis choisir des contre-mesures
+##### Formuler puis choisir des contre-mesures
 
 Une fois les causes bien comprises, le porteur fait un exercice de
 pensée divergente : il imagine un maximum de contre-mesures pour
@@ -832,16 +769,16 @@ d’apporter une petite contribution. Il réussit ainsi sa journée à double
 titre : en rétablissant le système le matin et en améliorant le
 *feedback* de l’application le soir.
 
-#### 19.3.1.6Formuler la méthode de Check
+##### Formuler la méthode de Check
 
 Le porteur explique comment il va vérifier factuellement si sa
 contre-mesure fonctionne.
 
-### 19.3.2Do
+#### Do
 
 La phase Do correspond à la mise en œuvre de la contre-mesure choisie.
 
-### 19.3.3Check
+#### Check
 
 Le Check est la vérification factuelle de l’impact de la contre-mesure,
 comme prévu durant le Plan. Un Check peut être soit OK, si les objectifs
@@ -850,7 +787,7 @@ visés sont atteints. Sinon il est KO.
 Dans l’exemple « Du rififi dans mes sprints », l’équipe mesure une
 diminution de 37% des incidents. Son Check est OK.
 
-### 19.3.4Act
+#### Act
 
 Durant la phase Act, le porteur pérennise les enseignements qu’il tire
 de ses expérimentations. Dans l’exemple précédent, l’équipe corrige la
@@ -860,93 +797,70 @@ Que le Check soit OK ou KO, il y a toujours quelque chose à apprendre
 d’une expérimentation bien menée. Le plus beau succès est de pouvoir se
 dire « J’étais persuadé de X, en fait, j’avais tort ! ».
 
-20Premiers pas
-==============
+## Premiers pas
 
 La résolution de problème est une technique puissante mais à manier avec
 précaution. C'est pourquoi nous vous invitons à suivre scrupuleusement
 les 7 étapes qui suivent.
 
-1.  ### Choisir un sujet
+### Choisir un sujet
 
 Choisissez un sujet qui est important pour vous. Posez-vous la question
 de la dernière difficulté majeure que vous avez rencontrée ou du
 problème qui revient le plus souvent.
 
-2.  ### Formuler le problème
+### Formuler le problème
 
 Formulez-le sous forme d'écart entre :
 
-8.  ce que vous constatez
+1.  ce que vous constatez
 
-9.  ce que vous voudriez à la place.
+2.  ce que vous voudriez à la place.
 
-3.  ### Identifier l'impact
+### Identifier l'impact
 
 Répondez à la question : Pourquoi est-ce important ?
 
 Vérifiez qu'il y a un impact significatif pour le client ou pour
-l'entreprise. (cf. chapitre « De Satisfaire le client à Comprendre le
-client »).
+l'entreprise. (cf. chapitre « [De Satisfaire le client à Comprendre le
+client](#de-satisfaire-le-client-à-comprendre-son-attente) »).
 
-4.  ### Définir l'écart au standard 
+### Définir l'écart au standard 
 
 Quand ce problème se manifeste, qu'est-ce que vous observez ?
 
-5.  ### Chercher les causes racines
+### Chercher les causes racines
 
 Qu'est-ce qui provoque ce problème ? Énumérez toutes les hypothèses qui
 vous semblent plausibles.
 
 L'important est de trouver des hypothèses testables.
 
-6.  ### Vérifier les hypothèses
+### Vérifier les hypothèses
 
 Trouvez le moyen le plus simple et rapide de confirmer vos hypothèses.
 
-7.  ### Définir le résultat attendu
+### Définir le résultat attendu
 
 Avant d'entreprendre les actions correctives, définissez où, quand et
 comment vous pourrez vérifier qu'elles auront porté leurs fruits.
 
-\
-\
+## Aller plus loin
 
-21Aller plus loin
-=================
-
-21.1Toyota Kata
----------------
+### Toyota Kata
 
 Mike Rother – Edition McGraw-Hill
 
-\
-\
-
 ![](guide_html_a072c96.jpg)
 
-\
-\
-
-21.2Managing to learn
----------------------
+### Managing to learn
 
 John Shook – Edition Lean Enterprise Institute, Inc.
 
-\
-\
-
 ![](guide_html_m4a784967.jpg)
 
-\
-\
-
-21.3Understanding A3 thinking
------------------------------
+### Understanding A3 thinking
 
 Durward K. Sobek II., Art Smalley – Edition Productivity Press
-
-\
-\
 
 ![](guide_html_555a76da.png)

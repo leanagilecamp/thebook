@@ -92,7 +92,7 @@ aller plus loin elles ont recours de plus en plus à l'approche kanban :
 matérialisation des limites sur le travail en cours, définition de
 classes de service…
 
-## Scène de crime : trouver l’indic !
+## Scène de crime : trouvez l’indic !
 
 ### Le contexte
 
@@ -436,7 +436,7 @@ d'itération :
 
 ![](guide_html_m1faa3c92.jpg)
 
-Nous rencontrons un problème^[^18^](#sdfootnote18sym)^ de tenue des
+Nous rencontrons un problème [^principesleviers] de tenue des
 délais qui se matérialise sprint après sprint par un reste à faire de 10
 à 20% en fin de sprint :
 
@@ -622,7 +622,7 @@ développer une compréhension commune de :
 #### Le client
 
 L’équipe commence par identifier clairement ses
-clients.^[^19^](#sdfootnote19sym)^
+clients.[^principesclient]
 
 Dans un deuxième temps, elle définit les besoins et les critères de
 satisfaction de ses clients : où est la valeur dans ce qu’elle délivre ?
