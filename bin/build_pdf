@@ -2,5 +2,5 @@
 
 cd contenu
 set -x
-pandoc -f markdown --toc -s `ls *.markdown | sort`  -o guide.pdf
+pandoc -f markdown --toc-depth 2 -s `ls *.markdown | sort`  -o guide.pdf
 
