@@ -503,7 +503,7 @@ participer ou pas en connaissant pleinement son impact sur le sprint.
 Le reste à faire en fin d’itération, qui était totalement imprédictible
 et chaotique devient d’une exceptionnelle stabilité :
 
-![](guide_html_m2af8ce47.png)![](guide_html_m2af8ce47.png)
+![](guide_html_m2af8ce47.png)
 
 Par contre, nous n’arrivons pas encore à tenir 100% de nos engagements
 du sprint. En effet les tâches de développement s’accumulent dans la
