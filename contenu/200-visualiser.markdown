@@ -561,9 +561,9 @@ Laisser l’équipe trouver d’elle-même les solutions à ses problème
 
 ----------------------------------------
 
-## Principes lean {.western style="page-break-before: always"}
+## Principes lean
 
-### Qu'est-ce que le management visuel lean apporte à une équipe agile ? {.western style="margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2"}
+### Qu'est-ce que le management visuel lean apporte à une équipe agile ?
 
 ![](guide_html_1c1d1267.jpg)
 

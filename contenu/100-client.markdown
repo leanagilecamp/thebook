@@ -240,7 +240,7 @@ préférences du client.
 
 -------------------------------------------------------------------------
 
-## Scène de crime : vie et mort d'une idée géniale {.western style="page-break-before: always"}
+## Scène de crime : vie et mort d'une idée géniale
 
 ### Une idée géniale
 

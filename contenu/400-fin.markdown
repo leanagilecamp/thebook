@@ -16,12 +16,12 @@ que nous progressions tous ensemble :
 \
 \
 
-1.   {.western style="text-indent: 0cm; margin-bottom: 0cm; line-height: 115%; page-break-after: avoid"}
+1.  
 
-22Livres de référence {.western style="margin-left: 0.76cm; text-indent: -0.76cm; page-break-before: always"}
+22Livres de référence
 =====================
 
-22.1Le management lean {.western lang="en-US"}
+22.1Le management lean
 ----------------------
 
 Michael Ballé, Godefroy Beauvallet – Edition Pearson
@@ -30,7 +30,7 @@ Michael Ballé, Godefroy Beauvallet – Edition Pearson
 
 \
 
-22.2La pratique du lean management dans l’IT {.western}
+22.2La pratique du lean management dans l’IT
 --------------------------------------------
 
 Marie-Pia Ignace, Christian Ignace, Régis Medina et Antoine Contal –
@@ -40,7 +40,7 @@ Edition Pearson
 
 \
 
-23Ressources de référence {.western}
+23Ressources de référence
 =========================
 
 Glossaire lean

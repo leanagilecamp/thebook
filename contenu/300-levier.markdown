@@ -7,10 +7,10 @@ De**L’amélioration continue**
 
 à**Trouver les leviers de l’amélioration**
 
-15Les pratiques agiles {.western align="LEFT" style="margin-left: 0.76cm; text-indent: -0.76cm; page-break-before: always"}
+15Les pratiques agiles
 ======================
 
-15.1Au plus profond de la culture agile {.western align="LEFT" style="margin-left: 0.75cm; text-indent: -0.75cm"}
+15.1Au plus profond de la culture agile
 ---------------------------------------
 
 Des principes favorisant l'identification des actions d'amélioration
@@ -29,7 +29,7 @@ n'est pas satisfait, l’équipe cherche un moyen d'améliorer la situation.
 Les temps rétrospectifs : En réservant du temps pour réfléchir, l'équipe
 crée l'espace nécessaire pour le choix d'actions d'améliorations.
 
-15.2Les domaines privilégiés d'amélioration {.western align="LEFT" style="margin-left: 0.75cm; text-indent: -0.75cm"}
+15.2Les domaines privilégiés d'amélioration
 -------------------------------------------
 
 Au fil des années, la communauté agile s'est constituée un riche
@@ -42,7 +42,7 @@ inefficientes. C'est la raison pour laquelle on peut trouver des
 pratiques agiles dans ces différents domaines. En voici quelques
 exemples significatifs.
 
-### 15.2.1L'organisation du travail {.western align="LEFT"}
+### 15.2.1L'organisation du travail
 
 Comme le mécanicien qui sait repérer les anomalies dans le bruit
 répétitif du moteur, l'équipe identifie les effets des changements
@@ -57,7 +57,7 @@ aussi une résolution successive de micro-problèmes.
 
 ![](guide_html_601d0c42.png)
 
-### 15.2.2Les trucs de geeks {.western align="LEFT" style="page-break-before: always"}
+### 15.2.2Les trucs de geeks
 
 Le *refactoring*, les tests automatiques sont des leviers techniques
 d'amélioration du produit logiciel. Le développement piloté par les
@@ -75,7 +75,7 @@ de la hauteur dans les solutions conçues et son expertise technique.
 L'expert métier peut apporter au novice ses explications des concepts et
 techniques du projet.
 
-### 15.2.3La communication interpersonnelle {.western align="LEFT"}
+### 15.2.3La communication interpersonnelle
 
 La qualité de la communication représente un axe majeur d'amélioration.
 Pour exploiter les bénéfices de la communication orale, il est conseillé
@@ -90,7 +90,7 @@ humaines et du coaching d'équipe (Virginia Satir, Ecole de Palo Alto,
 Core protocols, psychologie sociale) afin de guider les équipes dans
 l'amélioration de leur efficacité.
 
-15.3Trouver des leviers sur mesure {.western align="LEFT" style="margin-left: 0.75cm; text-indent: -0.75cm"}
+15.3Trouver des leviers sur mesure
 ----------------------------------
 
 Le travail en équipe auto organisée constitue un des principes
@@ -125,10 +125,10 @@ coûteuse ou en dehors du champ d'action.
 - elle remporte l'adhésion : C'est l’action qui fait consensus parmi les
 participants qui est choisie.
 
-16Scène de crime : la mise en production qui ne devait pas échouer {.western align="LEFT" style="margin-left: 0.76cm; text-indent: -0.76cm; page-break-before: always"}
+16Scène de crime : la mise en production qui ne devait pas échouer
 ==================================================================
 
-16.1L'odeur du napalm au petit matin {.western align="LEFT" style="margin-left: 0.75cm; text-indent: -0.75cm"}
+16.1L'odeur du napalm au petit matin
 ------------------------------------
 
 Un opérateur majeur propose un service grand public de télévision et
@@ -163,7 +163,7 @@ recrée immédiatement à la main. Il redémarre les consommateurs et une
 minute plus tard le monitoring repasse au vert. Le service est ré-ouvert
 et le trafic reprend.
 
-16.2Une situation client dramatique {.western style="margin-left: 0.75cm; text-indent: -0.75cm; margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2"}
+16.2Une situation client dramatique
 -----------------------------------
 
 Où en sommes-nous ? La version cible n’est toujours pas en production.
@@ -182,7 +182,7 @@ des 2 semaines voulues par le marketing.
 \
 \
 
-16.3Les 5 pourquoi {.western style="margin-left: 0.75cm; text-indent: -0.75cm; margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2"}
+16.3Les 5 pourquoi
 ------------------
 
 Une fois le service rétabli, je pars mener une enquête minutieuse, dans
@@ -205,7 +205,7 @@ de *monitoring*.
 **Une cause profonde**^**[^21^](#sdfootnote21sym)**^**a été
 identifiée** : une maladresse lors d’un changement technique.
 
-### 16.3.1L’échec des procédures qualité {.western style="line-height: 115%; widows: 2; orphans: 2"}
+### 16.3.1L’échec des procédures qualité
 
 Pourtant, dans mon entreprise, il existe un standard pour se prémunir de
 ce genre de maladresse, à savoir la répétition systématique en
@@ -218,7 +218,7 @@ sont différents de ceux en production : ils n’ont pas été modifiés.
 **Une autre cause profonde a été identifiée **: un écart entre les
 environnements.
 
-### 16.3.2Comment fatiguer son ingénieur système ? {.western style="line-height: 115%; widows: 2; orphans: 2"}
+### 16.3.2Comment fatiguer son ingénieur système ?
 
 Une autre question subsiste : pourquoi un ingénieur système, pourtant
 talentueux, a-t-il dû attendre l’arrivée d’un développeur pour recréer
@@ -248,7 +248,7 @@ ignorait la sortie standard.
 \
 \
 
-16.4Prévenir plutôt que guérir {.western style="margin-left: 0.75cm; text-indent: -0.75cm; margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2"}
+16.4Prévenir plutôt que guérir
 ------------------------------
 
 L’arbre de causalité^[^22^](#sdfootnote22sym)^ indique trois causes
@@ -330,7 +330,7 @@ cas où le système de log n’arrive pas à s’initialiser.
 \
 \
 
-17Scène de crime : du rififi dans mes sprints {.western align="LEFT" style="margin-left: 0.76cm; text-indent: -0.76cm; page-break-before: always"}
+17Scène de crime : du rififi dans mes sprints
 =============================================
 
 Chaque année, mon équipe agile doit assurer la maintenance d’un site web
@@ -354,7 +354,7 @@ L’équipe met tout d'abord en place un management visuel pour :
 \
 \
 
-17.1Du management visuel au Plan-Do-Check-Act (PDCA) {.western style="margin-left: 0.75cm; text-indent: -0.75cm; margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2; page-break-before: always"}
+17.1Du management visuel au Plan-Do-Check-Act (PDCA)
 ----------------------------------------------------
 
 Même si la situation semble s’améliorer, des problèmes déjà corrigés
@@ -380,7 +380,7 @@ de l'efficacité de la contre-mesure. Suivant le résultat de la
 vérification, les procédures sont adaptées pour intégrer la nouvelle
 pratique.
 
-17.2Le service de prise de commande ne répond pas dans les temps. {.western style="margin-left: 0.75cm; text-indent: -0.75cm; margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2"}
+17.2Le service de prise de commande ne répond pas dans les temps.
 -----------------------------------------------------------------
 
 Le service de prise de commande répond en 8 secondes au lieu de 2
@@ -443,7 +443,7 @@ des serveurs de prise de commande est mise à jour.
 \
 \
 
-17.3Résultats {.western style="margin-left: 0.75cm; text-indent: -0.75cm; margin-bottom: 0.35cm; line-height: 115%; widows: 2; orphans: 2"}
+17.3Résultats
 -------------
 
 ![](guide_html_3e39b8d9.jpg)
@@ -496,7 +496,7 @@ compétences.
 \
 \
 
-18Scène de crime : joue-la courte et précise {.western align="LEFT" style="margin-left: 0.76cm; text-indent: -0.76cm; page-break-before: always"}
+18Scène de crime : joue-la courte et précise
 ============================================
 
 Notre client est mécontent car l'équipe de développement dont je fais
@@ -508,7 +508,7 @@ projets.
 \
 \
 
-18.1Première hypothèse {.western align="LEFT" style="margin-left: 0.75cm; text-indent: -0.75cm; margin-bottom: 0.35cm; line-height: 0.49cm"}
+18.1Première hypothèse
 ----------------------
 
 Pour comprendre où gagner du temps, le ScrumMaster propose de visualiser
@@ -526,7 +526,7 @@ Je réalise que ce n’est pas surprenant. Les gens sont sensibles à ce qui
 sort de l’ordinaire, mais ne remarquent pas les freins dont ils ont
 l’habitude.
 
-18.2Deuxième hypothèse {.western align="LEFT" style="margin-left: 0.75cm; text-indent: -0.75cm; margin-bottom: 0.35cm; line-height: 0.49cm"}
+18.2Deuxième hypothèse
 ----------------------
 
 Mon ScrumMaster a une nouvelle intuition : l’équipe passe trop de temps
@@ -559,7 +559,7 @@ contraire aurait été étonnant dans une équipe de développement. Mais
 cela ne fait que déplacer le problème : où passe notre temps quand nous
 programmons ?
 
-18.3Troisième expérimentation {.western align="LEFT" style="margin-left: 0.75cm; text-indent: -0.75cm; margin-bottom: 0.35cm; line-height: 0.49cm"}
+18.3Troisième expérimentation
 -----------------------------
 
 Je lance une troisième expérimentation : l’investigation pendant le
@@ -626,10 +626,10 @@ J’ai appris une méthode pour identifier un potentiel d’accélération.
 \
 \
 
-19Principes lean {.western align="LEFT" style="margin-left: 0.76cm; text-indent: -0.76cm; page-break-before: always"}
+19Principes lean
 ================
 
-19.1Aux origines {.western align="LEFT" style="margin-left: 0.75cm; text-indent: -0.75cm; margin-bottom: 0.35cm; line-height: 115%"}
+19.1Aux origines
 ----------------
 
 Le père du lean est convaincu que chacun est rempli d’impressions, de
@@ -657,7 +657,7 @@ clair dans sa tête », le praticien du lean est avide de faits : combien
 de fois le client n’a-t-il pas été clair ? Allons voir l’ingénieur
 système pour savoir ce qui s’est effectivement passé.
 
-19.2Qu'est-ce que le Plan-Do-Check-Act apporte à une équipe agile ? {.western align="LEFT" style="margin-left: 0.75cm; text-indent: -0.75cm; margin-bottom: 0.35cm; line-height: 115%"}
+19.2Qu'est-ce que le Plan-Do-Check-Act apporte à une équipe agile ?
 -------------------------------------------------------------------
 
 Le lean fournit donc une méthode pour affronter des problèmes complexes
@@ -688,16 +688,16 @@ pas testées.
 
 Enfin, le Plan-Do-Check-Act évite d’investir sur des fausses pistes.
 
-19.3Comment faire en pratique ? {.western align="LEFT" style="margin-left: 0.75cm; text-indent: -0.75cm; margin-bottom: 0.35cm; line-height: 115%; page-break-before: always"}
+19.3Comment faire en pratique ?
 -------------------------------
 
 A chaque pas d’un Plan-Do-Check-Act, la méthode préconise que le porteur
 présente ce qu’il a compris à un expert du sujet et à des acteurs du
 problème, pour détecter d’éventuelles idées fausses.
 
-### 19.3.1Plan {.western style="line-height: 115%; page-break-inside: auto; widows: 2; orphans: 2"}
+### 19.3.1Plan
 
-#### 19.3.1.1Définir le problème {.western}
+#### 19.3.1.1Définir le problème
 
 Dans l’exemple « Joue-la courte et précise », le client se plaint d’une
 dérive des délais. Le membre de l’équipe pense qu’il surestime cette
@@ -709,13 +709,13 @@ fois plus longs que le client ne le souhaiterait dans le cas des grosses
 
 ![](guide_html_m12fedf01.jpg)
 
-#### 19.3.1.2Qualifier l’impact {.western}
+#### 19.3.1.2Qualifier l’impact
 
 Comment juger si le problème mérite l’énergie que le porteur va lui
 consacrer ? Un bon problème aura un impact significatif pour le client
 ou l’entreprise (financièrement ou en terme de stratégie).
 
-#### 19.3.1.3Comprendre la situation {.western}
+#### 19.3.1.3Comprendre la situation
 
 Pour contrer les croyances erronées, le porteur observe, compte, examine
 des instances du problème. Cette pratique s’appelle le *Go&See* ou
@@ -790,7 +790,7 @@ Réaliser une *User Story* plus tôt que nécessaire.
 \
 \
 
-#### 19.3.1.4Trouver les causes racines {.western style="page-break-before: always"}
+#### 19.3.1.4Trouver les causes racines
 
 Le porteur va jusqu’à la cause racine. Dans l’exemple « Du rififi dans
 mes sprints », poser plusieurs fois la question « pourquoi » amène à
@@ -816,7 +816,7 @@ Des hypothèses sont ainsi formulées et testées. Dans l’exemple « Joue-la
 courte et précise », la croyance « une équipe extreme programming passe
 la moitié de son temps à écrire des tests » est invalidée.
 
-#### 19.3.1.5Formuler puis choisir des contre-mesures {.western}
+#### 19.3.1.5Formuler puis choisir des contre-mesures
 
 Une fois les causes bien comprises, le porteur fait un exercice de
 pensée divergente : il imagine un maximum de contre-mesures pour
@@ -832,16 +832,16 @@ d’apporter une petite contribution. Il réussit ainsi sa journée à double
 titre : en rétablissant le système le matin et en améliorant le
 *feedback* de l’application le soir.
 
-#### 19.3.1.6Formuler la méthode de Check {.western}
+#### 19.3.1.6Formuler la méthode de Check
 
 Le porteur explique comment il va vérifier factuellement si sa
 contre-mesure fonctionne.
 
-### 19.3.2Do {.western style="line-height: 115%; page-break-inside: auto; widows: 2; orphans: 2"}
+### 19.3.2Do
 
 La phase Do correspond à la mise en œuvre de la contre-mesure choisie.
 
-### 19.3.3Check {.western style="line-height: 115%; page-break-inside: auto; widows: 2; orphans: 2"}
+### 19.3.3Check
 
 Le Check est la vérification factuelle de l’impact de la contre-mesure,
 comme prévu durant le Plan. Un Check peut être soit OK, si les objectifs
@@ -850,7 +850,7 @@ visés sont atteints. Sinon il est KO.
 Dans l’exemple « Du rififi dans mes sprints », l’équipe mesure une
 diminution de 37% des incidents. Son Check est OK.
 
-### 19.3.4Act {.western style="line-height: 115%; page-break-inside: auto; widows: 2; orphans: 2"}
+### 19.3.4Act
 
 Durant la phase Act, le porteur pérennise les enseignements qu’il tire
 de ses expérimentations. Dans l’exemple précédent, l’équipe corrige la
@@ -860,20 +860,20 @@ Que le Check soit OK ou KO, il y a toujours quelque chose à apprendre
 d’une expérimentation bien menée. Le plus beau succès est de pouvoir se
 dire « J’étais persuadé de X, en fait, j’avais tort ! ».
 
-20Premiers pas {.western align="LEFT" style="margin-left: 0.76cm; text-indent: -0.76cm; page-break-before: always"}
+20Premiers pas
 ==============
 
 La résolution de problème est une technique puissante mais à manier avec
 précaution. C'est pourquoi nous vous invitons à suivre scrupuleusement
 les 7 étapes qui suivent.
 
-1.  ### Choisir un sujet {.western align="LEFT" style="margin-top: 0.42cm; page-break-inside: auto"}
+1.  ### Choisir un sujet
 
 Choisissez un sujet qui est important pour vous. Posez-vous la question
 de la dernière difficulté majeure que vous avez rencontrée ou du
 problème qui revient le plus souvent.
 
-2.  ### Formuler le problème {.western align="LEFT" style="margin-top: 0.42cm; page-break-inside: auto"}
+2.  ### Formuler le problème
 
 Formulez-le sous forme d'écart entre :
 
@@ -881,7 +881,7 @@ Formulez-le sous forme d'écart entre :
 
 9.  ce que vous voudriez à la place.
 
-3.  ### Identifier l'impact {.western align="LEFT" style="margin-top: 0.42cm; page-break-inside: auto"}
+3.  ### Identifier l'impact
 
 Répondez à la question : Pourquoi est-ce important ?
 
@@ -889,22 +889,22 @@ Vérifiez qu'il y a un impact significatif pour le client ou pour
 l'entreprise. (cf. chapitre « De Satisfaire le client à Comprendre le
 client »).
 
-4.  ### Définir l'écart au standard  {.western align="LEFT" style="margin-top: 0.42cm; page-break-inside: auto"}
+4.  ### Définir l'écart au standard 
 
 Quand ce problème se manifeste, qu'est-ce que vous observez ?
 
-5.  ### Chercher les causes racines {.western align="LEFT" style="margin-top: 0.42cm; page-break-inside: auto"}
+5.  ### Chercher les causes racines
 
 Qu'est-ce qui provoque ce problème ? Énumérez toutes les hypothèses qui
 vous semblent plausibles.
 
 L'important est de trouver des hypothèses testables.
 
-6.  ### Vérifier les hypothèses {.western align="LEFT" style="margin-top: 0.42cm; page-break-inside: auto"}
+6.  ### Vérifier les hypothèses
 
 Trouvez le moyen le plus simple et rapide de confirmer vos hypothèses.
 
-7.  ### Définir le résultat attendu {.western align="LEFT" style="margin-top: 0.42cm; page-break-inside: auto"}
+7.  ### Définir le résultat attendu
 
 Avant d'entreprendre les actions correctives, définissez où, quand et
 comment vous pourrez vérifier qu'elles auront porté leurs fruits.
@@ -912,10 +912,10 @@ comment vous pourrez vérifier qu'elles auront porté leurs fruits.
 \
 \
 
-21Aller plus loin {.western align="LEFT" style="margin-left: 0.76cm; text-indent: -0.76cm; page-break-before: always"}
+21Aller plus loin
 =================
 
-21.1Toyota Kata {.western}
+21.1Toyota Kata
 ---------------
 
 Mike Rother – Edition McGraw-Hill
@@ -928,7 +928,7 @@ Mike Rother – Edition McGraw-Hill
 \
 \
 
-21.2Managing to learn {.western}
+21.2Managing to learn
 ---------------------
 
 John Shook – Edition Lean Enterprise Institute, Inc.
@@ -941,7 +941,7 @@ John Shook – Edition Lean Enterprise Institute, Inc.
 \
 \
 
-21.3Understanding A3 thinking {.western lang="en-US"}
+21.3Understanding A3 thinking
 -----------------------------
 
 Durward K. Sobek II., Art Smalley – Edition Productivity Press
