@@ -1,0 +1,31 @@
+#!/bin/bash
+
+if [ $# -ne 1 ]
+then
+  echo "Usage: `basename $0` <path-to-lab-dropbox>"  >&2
+  exit 1
+fi
+
+targetdir=$1
+
+if [ ! -d ${targetdir}/YY-Site ] ; then
+  echo "$targetdir should have a subdiretory YY-Site" >&2
+  exit 2
+fi
+
+targetdir=${targetdir}/YY-Site
+
+bookfilename=Petit_Guide_de_Lean_Management_a_l_Usage_des_Equipes_Agiles-v1
+
+publish() {
+  ext=$1
+  src=output/guide.${ext}
+  dest=${targetdir}/${bookfilename}.${ext}
+  if [ -f ${src} ] ; then
+    cp ${src} ${dest}
+  fi
+}
+
+#publish pdf
+publish epub
+publish azw3
