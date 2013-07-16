@@ -5,7 +5,9 @@ BIN_DIR=`dirname $0`
 CONTENU_DIR=$BIN_DIR/../contenu
 
 $BIN_DIR/clean_md $CONTENU_DIR
-cp $CONTENU_DIR/*.png $CONTENU_DIR/*.jpg tmp
+cp $CONTENU_DIR/*.png $CONTENU_DIR/*.jpg $CONTENU_DIR/*.xml tmp
+
+convert $CONTENU_DIR/cover.svg tmp/cover.png
 
 cd tmp
-pandoc -f markdown --toc -s `ls *.markdown | sort`  -o guide.epub
+pandoc -f markdown --epub-cover-image=cover.png --epub-metadata=metadata.xml -s `ls *.markdown | sort`  -o guide.epub
