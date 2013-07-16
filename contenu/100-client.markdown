@@ -74,7 +74,7 @@ adaptations nécessaires pour se rapprocher de la satisfaction du besoin.
 
 #### Itérations et approche empirique
 
-Les équipes agiles adoptent ainsi un processus basé sur des itérations
+Les équipes agiles adoptent ainsi un processus qui s'appuie sur des itérations
 courtes (deux à quatre semaines en Scrum). Elles mettent en œuvre une
 approche empirique reposant sur une succession rapide et régulière
 d'essais-erreurs-corrections.
