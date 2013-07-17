@@ -1,5 +1,6 @@
 #!/bin/bash
 
+mkdir -p output
 cd contenu
 set -x
 pandoc -f markdown --toc-depth 2 --chapter --template ../bin/template.tex `ls *.markdown | sort` -o ../output/guide.pdf

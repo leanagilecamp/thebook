@@ -1,5 +1,6 @@
 #!/bin/bash
+mkdir -p output
 cd contenu
 set -x
-pandoc -f markdown --toc-depth 2 -s `ls *.markdown | sort`  -t html5 -o guide.html 
+pandoc -f markdown --toc-depth 2 -s `ls *.markdown | sort`  -t html5 -o ../output/guide.html 
 
