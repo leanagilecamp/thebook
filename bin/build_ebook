@@ -12,6 +12,6 @@ convert $CONTENU_DIR/cover.svg tmp/cover.png
 cd tmp
 pandoc -f markdown --epub-cover-image=cover.png --epub-metadata=metadata.xml -s `ls *.markdown | sort`  -o ../output/guide.epub
 cd ../output
-#ebook-convert guide.epub guide.mobi --cover=../tmp/cover.png
+ebook-convert guide.epub guide.mobi --cover=../tmp/cover.png
 ebook-convert guide.epub guide.azw3 --cover=../tmp/cover.png
 

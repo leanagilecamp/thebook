@@ -29,3 +29,4 @@ publish() {
 #publish pdf
 publish epub
 publish azw3
+publish mobi
