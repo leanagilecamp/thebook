@@ -34,6 +34,8 @@ principes :
 -   "Les utilisateurs ou leurs représentants et les développeurs doivent
     travailler ensemble quotidiennement tout au long du projet."
 
+![Satisfaire le client](satisfaire_le_client.jpg)
+
 L'équipe de réalisation et le client adoptent une posture
 d'apprentissage à la fois du processus et du produit. Postulat de
 l'agilité : le besoin n'est pas complètement identifiable en amont de la
@@ -60,7 +62,7 @@ davantage cette importance de l'orientation produit en répartissant les
 responsabilités anciennement confiées au chef de projet vers un nouveau
 triumvirat : équipe - ScrumMaster et Product Owner.
 
-![Le Trimvirat Agile](guide_html_m527ed61.jpg)
+![Le Triumvirat Agile](triumvirat_agile.jpg)
 
 ### La mise en pratique quotidienne
 
