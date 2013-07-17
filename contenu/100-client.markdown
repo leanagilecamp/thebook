@@ -453,7 +453,7 @@ Plus tard dans l'après-midi, une opératrice redirige un appel vers
 l'hôtel de Roissy. Une personne de l'équipe de développement qui nous
 assiste à distance précise que l'appel est perdu. Nous allons voir la
 configuration de l'application et réalisons que le numéro de l'hôtel est
-erroné. Voilà l'explication des erreurs de type RouteSelectFailure. Nous
+erroné. Voilà l'explication des erreurs de type *RouteSelectFailure*. Nous
 avions longtemps privilégié la fausse piste des problèmes de standard
 chez le client.
 
