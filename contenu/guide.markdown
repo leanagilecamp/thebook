@@ -1,8 +1,5 @@
 ![](guide_html_m321d0f48.gif)![](guide_html_m738c659a.gif)![](guide_html_7458787e.gif)![](guide_html_26c5db3.gif)![](guide_html_m13ae841d.gif)![](guide_html_m316e1db.gif)\
-\
 
-\
-\
 
 Petit guide
 
@@ -10,44 +7,26 @@ de management lean
 
 à l'usage des équipes agiles
 
-\
-\
 
-\
-\
 
-\
-\
 
 ![](guide_html_mc3d1e40.png)
 
-\
-\
 
-\
-\
 
-\
-\
 
 écrit par un collectif de dix auteurs
 
 sous la houlette bienveillante de Régis Medina
 
 ![](guide_html_5c9ec119.png)\
-\
 
 Version 1.01 – 27 juillet 2013**Collectif d’auteurs**
 
-\
-\
 
 ![](guide_html_6d08b30b.png)
 
-\
-\
 
-\
 
 web
 
@@ -113,34 +92,17 @@ Bruno Thomas
 
 @barre\_thomas
 
-\
 
-\
 
-\
 
-\
-\
 
 **Avant-propos**
 
-\
-\
 
-\
-\
 
-\
-\
 
-\
-\
 
-\
-\
 
-\
-\
 
 Les pratiques présentées dans ce guide ouvrent la voie vers une vision
 différente de l’organisation. Une vision basée sur une conviction :
@@ -169,8 +131,6 @@ Michael Ballé. Nous vous le transmettons à notre tour, en espérant qu’il
 vous apportera les mêmes moments de satisfaction, les incroyables
 déclics qui vous feront prendre de la hauteur.
 
-\
-\
 
 Régis Medina
 
@@ -248,8 +208,6 @@ Mais voilà : il reste encore des sources de frustrations. Les autres
 changement, les clients se plaignent. Il doit bien exister des moyens
 d'améliorer les choses, mais comment les trouver ?
 
-\
-\
 
 En vous entraînant aux pratiques lean sélectionnées dans ce livre, vous
 apprendrez à :
@@ -266,8 +224,6 @@ vous pouvez être fiers.
 Ces nouvelles compétences vous apporteront le savoir-faire nécessaire
 pour insuffler les changements vitaux au sein des organisations.
 
-\
-\
 
 Ce livre se structure autour de trois apprentissages fondamentaux. Pour
 chacun d'entre eux, des praticiens agiles vous racontent comment, en
@@ -281,8 +237,6 @@ histoires présentées.
 Enfin, des préconisations de premiers pas vous guident vers la mise en
 pratique.
 
-\
-\
 
 Ce livre est né de du désir de praticiens agiles ayant expérimenté le
 management lean de partager les richesses surprenantes de ce nouveau
@@ -293,8 +247,6 @@ voyage initiatique. Notre promesse : ça en vaut la peine !
 
 **Structure du livre**
 
-\
-\
 
 Ce guide comprend trois chapitres :
 
@@ -304,8 +256,6 @@ Ce guide comprend trois chapitres :
 
 -   « Trouver les leviers de l’amélioration »
 
-\
-\
 
 Chaque chapitre est organisé de la façon suivante :
 
@@ -322,39 +272,19 @@ Chaque chapitre est organisé de la façon suivante :
 
 -   Des références de lecture pour aller plus loin.
 
-\
-\
 
 Bonne lecture et du succès dans vos expérimentations !
 
-\
-\
 
-\
-\
 
-\
-\
 
-\
-\
 
-\
-\
 
-\
-\
 
-\
-\
 
-\
-\
 
 **De Satisfaire le client**
 
-\
-\
 
 **à Comprendre son attente**
 
@@ -475,8 +405,6 @@ contribuant à diffuser la compréhension du produit à réaliser.
 
 *User stories*
 
-\
-\
 
 ### 1.3.5Le logiciel opérationnel
 
@@ -520,8 +448,6 @@ Elle cherche également à tirer le meilleur parti de la spécification par
 l'exemple en allant jusqu'à l'automatisation des tests fonctionnels (BDD
 pour « *Behaviour Driven Development *», etc.)
 
-\
-\
 
 Les sections qui suivent décrivent les expériences de quelques
 praticiens agiles qui ont mis en œuvre des pratiques lean pour mieux
@@ -566,8 +492,6 @@ clavier : pas une minute à perdre pour enchaîner ces dix vacations.
 
 *Contexte d’utilisation du logiciel*
 
-\
-\
 
 2.2Vérification de l'observation
 --------------------------------
@@ -597,11 +521,7 @@ n'aurions pas détecté les attentes ergonomiques spécifiques de
 l'assistante. Le logiciel l’aide maintenant correctement pour remplir sa
 mission.
 
-\
-\
 
-\
-\
 
 **Qu’avons-nous fait**
 
@@ -625,10 +545,7 @@ Toute hypothèse sur le client doit être confrontée à la réalité du
 *gemba*. C’est une excellente pratique pour identifier la valeur et les
 préférences du client.
 
-\
 
-\
-\
 
 3 Scène de crime : vie et mort d'une idée géniale
 =================================================
@@ -702,11 +619,7 @@ Pourtant, aller à la rencontre de ses utilisateurs, actuels ou futurs,
 représente le moyen le plus simple et efficace de bien comprendre
 l’attente du client.
 
-\
-\
 
-\
-\
 
 **Qu’avons-nous fait**
 
@@ -728,10 +641,7 @@ du client est d’aller voir les utilisateurs potentiels
 Plus vite nous confrontons ces hypothèses à la réalité du terrain, plus
 nous gagnons du temps sur la création de la valeur.
 
-\
 
-\
-\
 
 4Scène de crime : la catégorie mystère du projet Condor
 =======================================================
@@ -861,11 +771,7 @@ Nous partons dans un climat plus détendu : les agents sont contents
 d'avoir été écoutés et nous sommes soulagés d'avoir supprimé trois
 causes de signalisation.
 
-\
-\
 
-\
-\
 
 **Qu’avons-nous fait**
 
@@ -948,8 +854,6 @@ basée sur cinq axes :
 
 *Les cinq attentes du client*
 
-\
-\
 
 Les pratiques qui suivent constituent un bon point de départ pour
 entamer ce travail de détective.
@@ -1186,54 +1090,26 @@ Jim WOMACK et Dan JONES – Edition Vuibert
 
 ![livre lean au service du client](guide_html_1edfc8ab.jpg)
 
-\
-\
 
-\
 
-\
 
-\
-\
 
-\
-\
 
-\
-\
 
-\
-\
 
-\
-\
 
-\
-\
 
-\
-\
 
-\
-\
 
-\
-\
 
-\
-\
 
 **De Management visuel**
 
-\
-\
 
 **à Visualiser le challenge**
 
 **et les problèmes**
 
-\
-\
 
 8 Les pratiques agiles
 ======================
@@ -1264,8 +1140,6 @@ individus et leurs interactions plus que les processus et les outils ».
 L’affichage mural est alors la réponse adaptée pour la communication
 interne et externe.
 
-\
-\
 
 8.2Encourager l'auto-organisation
 ---------------------------------
@@ -1299,8 +1173,6 @@ suivants.
 
 *Niko niko*
 
-\
-\
 
 ![](guide_html_m154f8625.png)
 
@@ -1352,8 +1224,6 @@ Les sections qui suivent présentent les expérimentations d’équipes
 agiles qui ont souhaité faire évoluer leur management visuel en
 l’observant sous un angle lean.
 
-\
-\
 
 9Scène de crime : trouver l’indic !
 ===================================
@@ -1487,14 +1357,8 @@ qui améliore la qualité du service nous permet de renforcer la relation
 de confiance avec notre client qui reconduit chaque année notre
 partenariat.
 
-\
-\
 
-\
-\
 
-\
-\
 
 **Qu’avons-nous fait**
 
@@ -1531,8 +1395,6 @@ Peu importe la forme des premiers indicateurs construits tant qu’ils
 montrent la cible et les problèmes, ils s’affineront dans le temps pour
 mieux correspondre à l’attente du client.
 
-\
-\
 
 10Scène de crime : tous coupables !
 ===================================
@@ -1639,7 +1501,6 @@ des actions de suivi.
 
 *Standard de définition d’une demande*
 
-\
 
 Les obstacles sont matérialisés et suivis sur un tableau dédié :
 
@@ -1672,11 +1533,7 @@ L'équipe a appris à gérer les obstacles, ce qui lui a permis de
 retrouver sa capacité à produire. Une bonne partie des tâches en attente
 ont pu avancer dans les étapes suivantes du processus.
 
-\
-\
 
-\
-\
 
 **Qu’avons-nous fait**
 
@@ -1783,8 +1640,6 @@ Quand Romain dit "je suis intervenu sur telle tâche toute la journée",
 le développeur surligne en fluo une journée supplémentaire consommée sur
 la ligne de Romain.
 
-\
-\
 
 ![management\_visuel\_consomme\_individuel\_prenoms\_en\_clair](guide_html_542a22e0.jpg)
 
@@ -1829,11 +1684,7 @@ de nouvelles spécifications :
 
 *Evolution du reste à faire à la suite d’une action d’amélioration*
 
-\
-\
 
-\
-\
 
 **Qu’avons-nous fait**
 
@@ -1873,8 +1724,6 @@ de nouvelles spécifications :
 
 Laisser l’équipe trouver d’elle-même les solutions à ses problèmes paie.
 
-\
-\
 
 12Principes lean
 ================
@@ -2243,13 +2092,9 @@ Michel GREIF – Edition Productivity Press
 
 ![](guide_html_2f589b7d.jpg)
 
-\
-\
 
 Version française disponible en ebook
 
-\
-\
 
 Aller à l'essentiel :
 
@@ -2266,11 +2111,7 @@ David MANN – Edition CRC Press
 
 ![](guide_html_509321d4.jpg)
 
-\
-\
 
-\
-\
 
 Shingo Prize : la plus haute distinction des livres lean
 
@@ -2279,37 +2120,17 @@ Aller à l'essentiel :
 -   Chapitre 4 « Visual Controls » pour retrouver des exemples de
     management visuel
 
-\
-\
 
-\
-\
 
-\
-\
 
-\
-\
 
-\
-\
 
-\
-\
 
-\
-\
 
-\
-\
 
-\
-\
 
 **De L’amélioration continue**
 
-\
-\
 
 **à Trouver les leviers de l’amélioration**
 
@@ -2359,8 +2180,6 @@ rythme du travail. Cette idée est reproduite de manière fractale
 jusqu'aux gestes du développement : la construction d'un programme est
 aussi une résolution successive de micro-problèmes.
 
-\
-\
 
 ![](guide_html_601d0c42.png)
 
@@ -2413,7 +2232,6 @@ une pratique issue du catalogue cité précédemment, ou une action
 concoctée sur mesure.
 
 ![](guide_html_7120bcc2.png)\
-\
 
 La diversité des points de vue de chaque individu est le gage du
 potentiel d'amélioration de l'équipe. Celle-ci doit s'efforcer
@@ -2436,8 +2254,6 @@ trop coûteuse ou en dehors du champ d'action.
 - **elle remporte l'adhésion** : C'est l’action qui fait consensus parmi
 les participants qui est choisie.
 
-\
-\
 
 Les sections suivantes illustrent les retours d’expérience de praticiens
 agiles qui ont essayé des pratiques lean sur leurs projets pour aller
@@ -2465,8 +2281,6 @@ C’est pourquoi l’équipe système n’ose pas rouvrir le service au public.
 
 ![](guide_html_f0baa44.png)
 
-\
-\
 
 Je vais voir l’ingénieur système pour l’aider à rétablir le service au
 plus tôt.
@@ -2497,8 +2311,6 @@ assurer cette grosse évolution, il faut effectuer 4 mises en production.
 En comptant 19 jours de préavis pour chacune, il faudrait 3 mois au lieu
 des 2 semaines voulues par le marketing.
 
-\
-\
 
 16.3Les 5 pourquoi
 ------------------
@@ -2559,8 +2371,6 @@ racines, en dehors de notre champ d’action.
 
 ![AVSP - arbre causal](guide_html_778dd0f.jpg)
 
-\
-\
 
 Nous modifions notre code pour qu’il adresse à l’ingénieur système un
 message explicite en cas de dysfonctionnement. En terme lean, nous
@@ -2592,11 +2402,7 @@ reproduire.
 J’ai la satisfaction d’avoir posé la première pierre du long chemin vers
 le rétablissement de la confiance avec notre client.
 
-\
-\
 
-\
-\
 
 **Qu’avons-nous fait**
 
@@ -2625,11 +2431,7 @@ qui, à elle seule, évitera de nouveaux incidents.
 En tant que développeur, j’ai appris qu’il faut que j’anticipe aussi le
 cas où le système de log n’arrive pas à s’initialiser.
 
-\
-\
 
-\
-\
 
 17Scène de crime : du rififi dans mes sprints
 =============================================
@@ -2647,13 +2449,9 @@ voir la nature des dysfonctionnements ;
 
 être capable de réagir en fonction de la criticité des problèmes.
 
-\
-\
 
 ![du\_rififi\_dans\_mes\_sprints\_suivi\_pbs](guide_html_1489f423.jpg)
 
-\
-\
 
 17.1Du management visuel au Plan-Do-Check-Act (PDCA)
 ----------------------------------------------------
@@ -2744,17 +2542,12 @@ disque demeure suffisant pour que l’application fonctionne correctement.
 Après vérification du résultat des actions, la procédure d’installation
 des serveurs de prise de commande est mise à jour.
 
-\
-\
 
 ![du\_rififi\_dans\_mes\_sprints\_suivi\_pbs2](guide_html_3e39b8d9.jpg)
 
 *Suivi des problèmes*
 
-\
-\
 
-\
 
 17.3Résultats
 -------------
@@ -2774,11 +2567,7 @@ Au-delà des bénéfices pour ce projet précis, j’observe que
 l’enchaînement des cycles Plan-Do-Check-Act fait monter en compétence
 mon équipe et que les autres projets se passent mieux.
 
-\
-\
 
-\
-\
 
 **Qu’avons-nous fait**
 
@@ -2805,11 +2594,7 @@ J’ai désormais une expérience personnelle de l’alignement de
 l’entreprise sur la satisfaction client par le développement des
 compétences.
 
-\
-\
 
-\
-\
 
 18Scène de crime : joue-la courte et précise
 ============================================
@@ -2854,8 +2639,6 @@ Pour éclaircir ce mystère, pendant plusieurs sprints, je note à chaque
 
 ![](guide_html_521f0537.jpg) ![](guide_html_m1d1acf80.jpg)
 
-\
-\
 
 Astuce : préparer un modèle vierge pour assurer une meilleure pertinence
 des observations récoltées
@@ -2882,10 +2665,7 @@ près.
 
 ![](guide_html_779dcb8f.jpg)
 
-\
-\
 
-\
 
 Avant de faire cette expérimentation, nous pensions passer beaucoup de
 temps dans la rédaction des tests unitaires. D’ailleurs, des confrères
@@ -2905,14 +2685,8 @@ l'existant. Désormais, quand j'ignore où intervenir pour réaliser ma
 tâche, je demande systématiquement par quelle classe rentrer dans le
 code existant et cela me permet d’aller deux fois plus vite.
 
-\
-\
 
-\
-\
 
-\
-\
 
 **Qu’avons-nous fait**
 
@@ -2937,8 +2711,6 @@ J’ai appris un geste qui accélère ma vitesse de développement.
 
 J’ai appris une méthode pour identifier un potentiel d’accélération.
 
-\
-\
 
 19Principes lean
 ================
@@ -3052,8 +2824,6 @@ de gaspiller le temps précieux d’une personne. Le tableau ci-dessous
 donne quelques exemples de ces familles dans le contexte du projet de
 développement agile.
 
-\
-\
 
 Type de gaspillage
 
@@ -3108,8 +2878,6 @@ système de gestion de configuration.
 
 Transmettre des informations d’un développeur à l’autre.
 
-\
-\
 
 #### 19.3.1.4Trouver les causes racines
 
@@ -3229,8 +2997,6 @@ Trouvez le moyen le plus simple et rapide de confirmer vos hypothèses.
 Avant d'entreprendre les actions correctives, définissez où, quand et
 comment vous pourrez vérifier qu'elles auront porté leurs fruits.
 
-\
-\
 
 21Aller plus loin
 =================
@@ -3240,41 +3006,29 @@ comment vous pourrez vérifier qu'elles auront porté leurs fruits.
 
 Mike Rother – Edition McGraw-Hill
 
-\
-\
 
 ![](guide_html_a072c96.jpg)
 
-\
-\
 
 21.2Managing to learn
 ---------------------
 
 John Shook – Edition Lean Enterprise Institute, Inc.
 
-\
-\
 
 ![](guide_html_m4a784967.jpg)
 
-\
-\
 
 21.3Understanding A3 thinking
 -----------------------------
 
 Durward K. Sobek II., Art Smalley – Edition Productivity Press
 
-\
-\
 
 ![](guide_html_555a76da.png)
 
 **Conclusion**
 
-\
-\
 
 Le lean est une pratique. La valeur de ce guide réside dans les
 « premiers pas », les exercices que nous avons sélectionnés pour vous.
@@ -3287,8 +3041,6 @@ nous retrouver :
 
 [http://www.leanagilecamp.fr](http://www.leanagilecamp.fr)
 
-\
-\
 
 1.  
 
@@ -3302,7 +3054,6 @@ Michael Ballé, Godefroy Beauvallet – Edition Pearson
 
 ![](guide_html_m73c80f2a.png)
 
-\
 
 22.2La pratique du lean management dans l’IT
 --------------------------------------------
@@ -3312,7 +3063,6 @@ Edition Pearson
 
 ![livre la pratique du lean IT](guide_html_m44286ac1.jpg)
 
-\
 
 23Ressources de référence
 =========================
@@ -3325,11 +3075,7 @@ Blog Lean et SI
 
 [http://leansi.wp.mines-telecom.fr/](http://leansi.wp.mines-telecom.fr/)
 
-\
-\
 
-\
-\
 
 [1](#sdfootnote1anc)^^ Le *go&see* est une pratique lean : cf.la
 section « Principe lean » de ce chapitre.
