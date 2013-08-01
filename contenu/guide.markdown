@@ -358,10 +358,10 @@ Bonne lecture et du succès dans vos expérimentations !
 
 **à Comprendre son attente**
 
-1 Pratiques agiles {.western lang="fr-FR" style="page-break-before: always"}
+1 Pratiques agiles
 ==================
 
-1.1L'inspiration du manifeste {.western}
+1.1L'inspiration du manifeste
 -----------------------------
 
 Le Manifeste
@@ -404,7 +404,7 @@ En agilité, satisfaire le client suppose d’abord de se donner la
 possibilité d'expérimenter, puis de tirer des enseignements du résultat
 des expériences afin de redéfinir les prochains éléments à produire.
 
-1.2Focus produit {.western style="page-break-before: always"}
+1.2Focus produit
 ----------------
 
 La démarche traditionnelle présuppose que le besoin du client peut être
@@ -423,10 +423,10 @@ triumvirat : équipe, Scrum Master et Product Owner.
 
 *Le Triumvirat Agile*
 
-1.3La mise en pratique quotidienne {.western}
+1.3La mise en pratique quotidienne
 ----------------------------------
 
-### 1.3.1Le bon produit ? {.western lang="fr-FR"}
+### 1.3.1Le bon produit ?
 
 Comme nous l'avons rappelé, l'équipe agile s’attèle en priorité au défi
 de livrer rapidement et régulièrement des fonctionnalités au client.
@@ -434,14 +434,14 @@ Cela permet de confronter son attente à la réalisation. Ensemble, ils
 inspectent le travail réalisé, puis décident des adaptations nécessaires
 pour se rapprocher de la satisfaction du besoin.
 
-### 1.3.2Itérations et approche empirique {.western lang="fr-FR"}
+### 1.3.2Itérations et approche empirique
 
 Les équipes agiles adoptent ainsi un processus basé sur des itérations
 courtes (deux à quatre semaines en Scrum). Elles mettent en œuvre une
 approche empirique reposant sur une succession rapide et régulière
 d'essais-erreurs-corrections.
 
-### 1.3.3Spécifier en favorisant la communication {.western lang="fr-FR"}
+### 1.3.3Spécifier en favorisant la communication
 
 Dans l'objectif de pouvoir livrer rapidement, les exigences
 fonctionnelles sont découpées en petits éléments qui permettront une
@@ -456,7 +456,7 @@ de *User Stories*. Ces histoires utilisateur combinent une concision
 imposée (doit tenir sur une carte) et la détermination de tests
 d'acceptation par le client (doit être testable).
 
-### 1.3.4Comment maximiser la valeur ? {.western lang="fr-FR"}
+### 1.3.4Comment maximiser la valeur ?
 
 Pour déterminer le contenu fonctionnel de la prochaine itération,
 l'équipe agile collabore avec le client en vue de maximiser la valeur
@@ -478,7 +478,7 @@ contribuant à diffuser la compréhension du produit à réaliser.
 \
 \
 
-### 1.3.5Le logiciel opérationnel {.western lang="fr-FR"}
+### 1.3.5Le logiciel opérationnel
 
 Le manifeste insiste sur l'importance de la production d'un logiciel
 opérationnel : "Un logiciel opérationnel est la principale mesure
@@ -492,7 +492,7 @@ l'adéquation de la production au besoin. Les participants obtiennent des
 informations qui sont exploitées lors de la planification du contenu de
 la prochaine itération.
 
-### 1.3.6Le bon produit et le maximum de valeur ? {.western lang="fr-FR" style="page-break-before: always"}
+### 1.3.6Le bon produit et le maximum de valeur ?
 
 Seule la mise à disposition des éléments finalisés auprès des
 utilisateurs finaux permet de déterminer si l'équipe a construit le bon
@@ -503,7 +503,7 @@ en mesure de mettre en production immédiatement les éléments validés
 lors de la revue (*Continuous delivery*), éliminant jusqu'au besoin de
 définir des versions (*releases*).
 
-1.4"Nous découvrons comment mieux développer des logiciels par la pratique" {.western}
+1.4"Nous découvrons comment mieux développer des logiciels par la pratique"
 ---------------------------------------------------------------------------
 
 La communauté agile explore de plus en plus le concept du *Right
@@ -527,7 +527,7 @@ Les sections qui suivent décrivent les expériences de quelques
 praticiens agiles qui ont mis en œuvre des pratiques lean pour mieux
 comprendre les attentes de leur client.
 
-2Scène de crime : apparition mystérieuse au cabinet dentaire {.western lang="fr-FR" style="page-break-before: always"}
+2Scène de crime : apparition mystérieuse au cabinet dentaire
 ============================================================
 
 Un réseau de dentistes cherche à s’informatiser pour saisir les données
@@ -540,7 +540,7 @@ les Macs ». Nous avons identifié ce qui est important pour eux : la
 facilité de prise en main, la convivialité et l’utilisation de la
 souris.
 
-2.1Observ**a**tion sur le terrain {.western}
+2.1Observ**a**tion sur le terrain
 ---------------------------------
 
 Nous réalisons un *go&see*[^1^](#sdfootnote1sym) en nous rendant sur le
@@ -569,7 +569,7 @@ clavier : pas une minute à perdre pour enchaîner ces dix vacations.
 \
 \
 
-2.2Vérification de l'observation {.western}
+2.2Vérification de l'observation
 --------------------------------
 
 Ce que nous avons observé change notre perception de l’usage de cette
@@ -579,7 +579,7 @@ Une fois rentrés, nous menons une expérimentation en navigant uniquement
 avec les tabulations du clavier. C’est une catastrophe ! L’utilisateur
 est baladé de haut en bas, le faisant tourner en girouette.
 
-2.3Action corrective {.western}
+2.3Action corrective
 --------------------
 
 L’équipe change la navigation pour que les tabulations suivent l’ordre
@@ -589,7 +589,7 @@ dans lequel l’assistante effectue la saisie.
 
 *Nouveau schéma de navigation au clavier*
 
-2.4Le mot de l'assistante : merci *Go&See* {.western}
+2.4Le mot de l'assistante : merci *Go&See*
 ------------------------------------------
 
 Sans cette visite au cabinet, là où les choses se passent, nous
@@ -630,10 +630,10 @@ préférences du client.
 \
 \
 
-3 Scène de crime : vie et mort d'une idée géniale {.western lang="fr-FR" style="page-break-before: always"}
+3 Scène de crime : vie et mort d'une idée géniale
 =================================================
 
-3.1Une idée géniale {.western}
+3.1Une idée géniale
 -------------------
 
 Lors d'un atelier regroupant des créateurs de *startups*, les
@@ -653,7 +653,7 @@ ces astuces ? Combien peut-on vendre ce guide ? etc.
 Tout le monde est motivé, prêt à attaquer le développement du site web
 et de l'application mobile correspondante.
 
-3.2Aller voir vos clients {.western}
+3.2Aller voir vos clients
 -------------------------
 
 L'animateur intervient en nous demandant d'aller à la rencontre de nos
@@ -664,7 +664,7 @@ aujourd'hui, les touristes trouvent leur bons plans.
 Profitons de notre situation, en plein cœur de Paris, pour rencontrer
 des touristes avides d'astuces de Parisiens.
 
-3.3Désillusion {.western}
+3.3Désillusion
 --------------
 
 Deux heures plus tard, nous voilà de retour, dépités.
@@ -675,7 +675,7 @@ trouver des bons plans locaux, puisqu’ils n’en cherchent pas. Les plans
 locaux, ça ne les intéresse pas. Ce qui a de la valeur pour eux, c'est
 de trouver le bon chemin pour aller voir la Tour Eiffel. »
 
-3.4La leçon à tirer {.western}
+3.4La leçon à tirer
 -------------------
 
 L'histoire de cette idée géniale se termine ici. Mais pas celle de notre
@@ -733,7 +733,7 @@ nous gagnons du temps sur la création de la valeur.
 \
 \
 
-4Scène de crime : la catégorie mystère du projet Condor {.western lang="fr-FR" style="page-break-before: always"}
+4Scène de crime : la catégorie mystère du projet Condor
 =======================================================
 
 Un opérateur télécom vend aux entreprises une solution de centre
@@ -745,7 +745,7 @@ utilisateurs finaux. Cela provoque une tension avec le management, notre
 commanditaire est furieux, et les relations avec les exploitants sont
 difficiles.
 
-4.1Catégorisation des incidents {.western}
+4.1Catégorisation des incidents
 -------------------------------
 
 Je décide de prendre le cas au sérieux. Pour cela, je commence par lire
@@ -758,7 +758,7 @@ catégorise. Cela constitue un bulletin de santé que j'affiche sur le mur
 
 *Bulletin de santé du projet Condor*
 
-4.2Analyse du problème {.western style="page-break-before: always"}
+4.2Analyse du problème
 ----------------------
 
 Les trois catégories les plus volumineuses sont :
@@ -777,7 +777,7 @@ liées à la qualité logicielle. Par ailleurs, je me rends compte que de
 nombreux tickets sont restés sans réponse : ils étaient abandonnés dans
 l’outil.
 
-4.3Identifier l'origine {.western}
+4.3Identifier l'origine
 -----------------------
 
 Désarçonnés par le flou de ces tickets mystère, nous décidons d'avancer
@@ -799,7 +799,7 @@ sources différentes.
 Nous faisons alors diminuer drastiquement la catégorie mystère de 30% à
 5%.
 
-4.4Gestion du timeout {.western}
+4.4Gestion du timeout
 ---------------------
 
 Maintenant que nous voyons plus clair, un motif important de
@@ -813,7 +813,7 @@ place un mécanisme de gestion de *timeout*. Cela demande d'ajouter une
 couche de simulation du temps pour la compatibilité avec les tests
 automatiques.
 
-4.5Point d'étape {.western}
+4.5Point d'étape
 ----------------
 
 L'équipe est satisfaite car elle a fait diminuer les signalisations
@@ -824,7 +824,7 @@ Comme certains tickets sont toujours inexpliqués, nous décidons
 d'envoyer un binôme en observation chez le client ayant le trafic le
 plus élevé.
 
-4.6Observation chez le client {.western style="page-break-before: always"}
+4.6Observation chez le client
 -----------------------------
 
 Accueillis dans une atmosphère tendue, nous allons observer les agents
@@ -893,10 +893,10 @@ En sortant du périmètre de l'équipe pour aller voir le client, nous
 avons pu aboutir à la résolution définitive d'un grand nombre de
 problèmes qui paraissaient hors de notre portée.
 
-5Principes lean {.western lang="fr-FR" style="page-break-before: always"}
+5Principes lean
 ===============
 
-5.1Comprendre le besoin profond du client {.western}
+5.1Comprendre le besoin profond du client
 -----------------------------------------
 
 La démarche d’amélioration du lean commence par la définition d’un
@@ -954,7 +954,7 @@ basée sur cinq axes :
 Les pratiques qui suivent constituent un bon point de départ pour
 entamer ce travail de détective.
 
-5.2Se faire sa propre opinion en allant observer le client sur le terrain {.western}
+5.2Se faire sa propre opinion en allant observer le client sur le terrain
 -------------------------------------------------------------------------
 
 ![](guide_html_7990966a.png)
@@ -1007,7 +1007,7 @@ un « *go&talk *». L’observateur découvre par exemple que le
 commanditaire est sensible à telle ligne précise dans un reporting
 comportant des centaines de pages.
 
-5.3Définir le problème à résoudre et la façon de mesurer le succès {.western style="page-break-before: always"}
+5.3Définir le problème à résoudre et la façon de mesurer le succès
 ------------------------------------------------------------------
 
 Plutôt que de définir l’attente du client sous la forme d’une solution à
@@ -1047,7 +1047,7 @@ d’amélioration, et de vérifier que les idées d’amélioration mises en
 d’amélioration du lean, basée sur la technique du Plan-Do-Check-Act
 (PDCA) présentée plus loin dans ce guide[^7^](#sdfootnote7sym).
 
-5.4Expérimenter pour valider ses préférences {.western}
+5.4Expérimenter pour valider ses préférences
 --------------------------------------------
 
 Chaque fonctionnalité est porteuse d’incertitude. Il se peut que :
@@ -1065,7 +1065,7 @@ observations terrain après les livraisons. Il s’agit de la phase de
 « Check » de la résolution de problèmes, qui peut être appliquée à la
 fin de chaque itération.
 
-5.5Prendre très au sérieux chaque réclamation client {.western style="page-break-before: always"}
+5.5Prendre très au sérieux chaque réclamation client
 ----------------------------------------------------
 
 Chacune des réclamations des clients est une opportunité
@@ -1088,7 +1088,7 @@ démarche de résolution de problèmes. L’exemple « La catégorie mystère d
 projet Condor » présente une équipe qui choisit de traiter chaque
 signalisation utilisateur comme un problème de qualité.
 
-5.6Valeur et gaspillages {.western}
+5.6Valeur et gaspillages
 ------------------------
 
 Tout ce travail d’investigation et d’analyse a pour objectif de trouver
@@ -1114,13 +1114,13 @@ comme autant d’opportunités de libérer le temps précieux de ces
 collaborateurs. Deux de ces pratiques principales sont présentées dans
 les chapitres suivants.
 
-6Premiers pas {.western lang="fr-FR" style="page-break-before: always"}
+6Premiers pas
 =============
 
 Pour renforcer votre compréhension des attentes de vos clients, nous
 proposons ces exercices :
 
-6.1Allez observer le client sur le terrain {.western}
+6.1Allez observer le client sur le terrain
 ------------------------------------------
 
 Pour votre projet actuel, allez voir trois utilisateurs distincts sur
@@ -1136,7 +1136,7 @@ leurs lieux de travail
 
 -   La solution qui est prévue résout-elle vraiment leur problème ?
 
-6.2Clarifiez le problème et mesurez le succès {.western}
+6.2Clarifiez le problème et mesurez le succès
 ---------------------------------------------
 
 Pour votre projet actuel, menez l’investigation pour répondre à ces
@@ -1148,7 +1148,7 @@ questions :
 -   Exprimez-le en termes de délais, qualité et coût pour l’utilisateur
     et pour le commanditaire.
 
-6.3Expérimentez pour valider les préférences du client {.western}
+6.3Expérimentez pour valider les préférences du client
 ------------------------------------------------------
 
 Prenez les *stories* livrées de votre dernière itération et posez-vous
@@ -1162,7 +1162,7 @@ ces questions :
 Allez mener l’observation. Qu’avez-vous appris ? Quels sont les
 impacts ?
 
-6.4Regardez les réclamations {.western}
+6.4Regardez les réclamations
 ----------------------------
 
 Prenez les trois dernières réclamations client. Pour chacune, menez ces
@@ -1176,10 +1176,10 @@ investigations :
 -   Comment pouvez-vous vous assurer que ce problème ne survienne à
     nouveau ?
 
-7Aller plus loin {.western lang="fr-FR" style="page-break-before: always"}
+7Aller plus loin
 ================
 
-7.1Le lean au service du client {.western}
+7.1Le lean au service du client
 -------------------------------
 
 Jim WOMACK et Dan JONES – Edition Vuibert
@@ -1235,10 +1235,10 @@ Jim WOMACK et Dan JONES – Edition Vuibert
 \
 \
 
-8 Les pratiques agiles {.western lang="fr-FR" style="page-break-before: always"}
+8 Les pratiques agiles
 ======================
 
-8.1Favoriser le travail en équipe {.western}
+8.1Favoriser le travail en équipe
 ---------------------------------
 
 Dans le bureau d'une équipe de développeurs agiles, personne ne s'étonne
@@ -1267,7 +1267,7 @@ interne et externe.
 \
 \
 
-8.2Encourager l'auto-organisation {.western style="page-break-before: always"}
+8.2Encourager l'auto-organisation
 ---------------------------------
 
 En interne, ces éléments visuels sont des outils avec lesquels les
@@ -1284,7 +1284,7 @@ Vis-à-vis de l’extérieur, les indicateurs, volontairement simples,
 donnent une vision synthétique de l’état du projet et évitent le
 *reporting* coûteux et inefficace car non partagé.
 
-8.3Quelques exemples {.western}
+8.3Quelques exemples
 --------------------
 
 La culture agile regorge d'exemples que les équipes de développement
@@ -1325,7 +1325,7 @@ Les rétrospectives sont des moments privilégiés pour faire évoluer les
 affichages, pour en créer et en supprimer. Tous les formats sont bons
 tant que les éléments affichés restent utiles et utilisés.
 
-8.4Une pratique quotidienne {.western}
+8.4Une pratique quotidienne
 ---------------------------
 
 Tous les jours, l'équipe se réunit devant le tableau d'avancement des
@@ -1339,7 +1339,7 @@ chacun des membres de l'équipe :
 
 « voici ce qui pourrait constituer un obstacle au fait de terminer… »
 
-8.5Une pratique efficace et évolutive {.western}
+8.5Une pratique efficace et évolutive
 -------------------------------------
 
 Les équipes agiles en posture d'amélioration continue sont en
@@ -1355,10 +1355,10 @@ l’observant sous un angle lean.
 \
 \
 
-9Scène de crime : trouver l’indic ! {.western lang="fr-FR" style="page-break-before: always"}
+9Scène de crime : trouver l’indic !
 ===================================
 
-9.1Le contexte {.western}
+9.1Le contexte
 --------------
 
 Une enseigne de la grande distribution s’adresse à l’agence web que je
@@ -1394,7 +1394,7 @@ l’entreprise en danger. La pression est donc très importante, d’autant
 que je suis incapable de savoir à tout moment si la situation est sous
 contrôle ou pas.
 
-9.2La démarche {.western}
+9.2La démarche
 --------------
 
 La question qui se pose est de savoir comment être certains que nous
@@ -1534,10 +1534,10 @@ mieux correspondre à l’attente du client.
 \
 \
 
-10Scène de crime : tous coupables ! {.western lang="fr-FR" style="page-break-before: always"}
+10Scène de crime : tous coupables !
 ===================================
 
-10.1Contexte {.western}
+10.1Contexte
 ------------
 
 Suite à la fusion de plusieurs organismes, une grande société de
@@ -1563,7 +1563,7 @@ l’équipe demande à changer d’activité.
 J'interviens comme coach agile auprès de l'équipe, qui comporte une
 vingtaine de personnes.
 
-10.2Visualiser le challenge {.western}
+10.2Visualiser le challenge
 ---------------------------
 
 L'équipe doit se mettre en capacité de produire le prochain lot dans un
@@ -1589,7 +1589,7 @@ forme d’un tableau visuel.
 L'enjeu de l'itération en cours consiste à sortir toutes les pièces
 présentes sur le tableau[^13^](#sdfootnote13sym).
 
-1.  Révéler les problèmes {.western}
+1.  Révéler les problèmes
     ---------------------
 
 Problème principal : les tâches n’arrivent pas jusqu’à la dernière
@@ -1710,10 +1710,10 @@ tâches à l’heure.
 L’équipe communique et travaille plus efficacement avec les analystes
 fonctionnels.
 
-11Scène de crime : le *burndown*était rouge {.western lang="fr-FR" style="page-break-before: always"}
+11Scène de crime : le *burndown*était rouge
 ===========================================
 
-11.1Contexte {.western}
+11.1Contexte
 ------------
 
 Comme dans beaucoup d'équipes agiles nous avons un *burndown chart*
@@ -1731,7 +1731,7 @@ en fin de sprint :
 
 *Evolution du « reste à faire » au fil des sprints*
 
-11.2Recherche de cause {.western}
+11.2Recherche de cause
 ----------------------
 
 Peut-être ne consacrons-nous pas le temps prévu initialement à réaliser
@@ -1739,7 +1739,7 @@ nos sprints ? Certains membres de l'équipe interviennent en effet sur
 plusieurs activités (management, réunions transverses…). En tant que
 *Team Leader*, je n'échappe pas à cet éparpillement.
 
-11.3Enrichissement du management visuel {.western style="page-break-before: always"}
+11.3Enrichissement du management visuel
 ---------------------------------------
 
 Pour clarifier la situation, nous enrichissons notre management visuel
@@ -1755,7 +1755,7 @@ l'itération autant de jours qu'elle le pensait. L'équipe croyait
 disposer d'une capacité de 100 jours avant l'itération, mais n'a pu en
 fournir réellement que 80.
 
-11.4Action : suivi des écarts {.western}
+11.4Action : suivi des écarts
 -----------------------------
 
 Il faut maintenant agir. Je trace, sprint après sprint, la différence
@@ -1770,7 +1770,7 @@ Sur les 24 derniers sprints, j'observe une forte variabilité. Je pense
 que les membres de l'équipe n'ont aucun moyen de détecter un écart en
 cours de sprint.
 
-11.5Consommé individuel {.western}
+11.5Consommé individuel
 -----------------------
 
 J’en discute avec l'équipe et nous décidons de tracer jour après jour le
@@ -1793,7 +1793,7 @@ la ligne de Romain.
 Ce suivi permet d'alerter Romain: « Attention, il ne reste que 2 jours
 et il te reste 1,5 jours à consacrer au sprint. »
 
-11.6L'information affichée est exploitée {.western style="page-break-before: always"}
+11.6L'information affichée est exploitée
 ----------------------------------------
 
 Chaque membre de l'équipe est maintenant en mesure de suivre au jour le
@@ -1813,7 +1813,7 @@ du sprint. En effet les tâches de développement s’accumulent dans la
 case « A valider », dernière étape de notre kanban et l’équipe des
 spécifications ne les valide pas toutes avant la fin du sprint.
 
-11.7Suite de l’histoire {.western}
+11.7Suite de l’histoire
 -----------------------
 
 Et les deux équipes se marièrent et eurent beaucoup de stories finies en
@@ -1876,10 +1876,10 @@ Laisser l’équipe trouver d’elle-même les solutions à ses problèmes paie.
 \
 \
 
-12Principes lean {.western lang="fr-FR" style="page-break-before: always"}
+12Principes lean
 ================
 
-12.1Qu'apporte le management visuel lean à une équipe agile ? {.western}
+12.1Qu'apporte le management visuel lean à une équipe agile ?
 -------------------------------------------------------------
 
 Le management visuel est une pratique de base du lean qui poursuit deux
@@ -1913,7 +1913,7 @@ trois sujets :
 -   Communiquer avec ses managers sur des faits clairs et ainsi mieux se
     faire entendre.
 
-12.2Les objectifs {.western style="page-break-before: always"}
+12.2Les objectifs
 -----------------
 
 Le management visuel fournit en temps réel l’information et le
@@ -1933,7 +1933,7 @@ Il est basé sur trois axes :
 
 *Le triangle du management visuel lean*
 
-12.3Comprendre ensemble {.western}
+12.3Comprendre ensemble
 -----------------------
 
 La construction et l’utilisation du management visuel amènent l’équipe à
@@ -1947,7 +1947,7 @@ développer une compréhension commune de :
 
 -   les rôles et les compétences de chacun.
 
-### 12.3.1Le client {.western lang="fr-FR"}
+### 12.3.1Le client
 
 Dans un premier temps, l’équipe commence par identifier clairement ses
 clients[^17^](#sdfootnote17sym). Ensuite, elle définit leurs besoins et
@@ -1962,7 +1962,7 @@ réelles attentes. S’ils respectaient les 95% de disponibilité du site,
 pas de pénalité pour l’équipe, mais une image dégradée du point de vue
 du client.
 
-### 12.3.2Le challenge et la performance {.western lang="fr-FR" style="page-break-before: always"}
+### 12.3.2Le challenge et la performance
 
 L’équipe définit sa « condition cible » et la traduit sous la forme
 d’indicateurs de performance. Ces derniers montrent la qualité de ce que
@@ -1994,7 +1994,7 @@ ajoutés, notamment des indicateurs de succès du produit lui-même :
 disponibilité, taux d’utilisation, taux de rétention des utilisateurs,
 etc.
 
-### 12.3.3Le processus {.western lang="fr-FR"}
+### 12.3.3Le processus
 
 L’équipe définit clairement les activités à valeur ajoutée pour le
 client et les étapes par lesquelles elle doit passer pour livrer le
@@ -2002,7 +2002,7 @@ service ou le produit requis. L’objectif est de s’aligner et de rester
 focalisé sur ce qui est important pour le client, tout en facilitant le
 travail de chaque collaborateur.
 
-### 12.3.4L’équipe {.western lang="fr-FR"}
+### 12.3.4L’équipe
 
 Chaque personne doit être capable d’exprimer clairement son rôle et sa
 place dans l’équipe. Ceci lui permet d’interagir avec les autres sans
@@ -2016,7 +2016,7 @@ compétences étant clair pour chacun.
 
 *Matrice des compétences de l'équipe*
 
-12.4Voir ensemble {.western style="page-break-before: always"}
+12.4Voir ensemble
 -----------------
 
 Dès que l’équipe est claire sur la direction à prendre et qu’elle est
@@ -2030,7 +2030,7 @@ le flux de ses activités comprenant l’objectif du jour et la
 distribution des tâches, ainsi que la performance. L’objectif est d’être
 alerté immédiatement en cas d’anomalie afin de réagir rapidement.
 
-### 12.4.1Voir le flux d’activité et les problèmes {.western lang="fr-FR"}
+### 12.4.1Voir le flux d’activité et les problèmes
 
 Typiquement, les équipes agiles utilisent des *taskboards* pour
 organiser leurs *sprints* et visualiser le flux des tâches.
@@ -2110,7 +2110,7 @@ Dropbox\\Operae\\1-Clients\\13-Projets\\13-2010 Findomestic\\07 2010
 Sede Gestione Frodi\\photos imple et
 bilancio\\244\_0521\\IMGP1115.JPG](guide_html_m217147a.png)
 
-### 12.4.2Le mur de la performance {.western lang="fr-FR" style="page-break-before: always"}
+### 12.4.2Le mur de la performance
 
 L’équipe construit ses indicateurs de performance pour savoir à tout
 moment si elle répond bien aux attentes de ses clients. Elle les met à
@@ -2138,7 +2138,7 @@ représenter un indicateur :
 *Structure d’indicateur type pour le suivi d’une valeur unique qui
 évolue dans le temps*
 
-### 12.4.3Suivi des problèmes {.western lang="fr-FR" style="page-break-before: always"}
+### 12.4.3Suivi des problèmes
 
 L’équipe note les problèmes qu’elle rencontre sur une main courante, qui
 présente plusieurs intérêts :
@@ -2152,7 +2152,7 @@ Penser à vérifier le résultat des actions mises en œuvre
 
 *Tableau de suivi des problèmes*
 
-12.5Agir ensemble {.western style="page-break-before: always"}
+12.5Agir ensemble
 -----------------
 
 Le management visuel favorise l’auto-organisation de l’équipe afin
@@ -2183,10 +2183,10 @@ membres spécifiquement à son analyse et sa résolution.
 La démarche lean de résolution de problèmes est détaillée dans le
 prochain chapitre : « Les leviers de l’amélioration ».
 
-13Premiers pas {.western lang="fr-FR" style="page-break-before: always"}
+13Premiers pas
 ==============
 
-13.1Comprendre ensemble {.western}
+13.1Comprendre ensemble
 -----------------------
 
 Allez voir votre client, votre manager et votre équipe pour comprendre
@@ -2200,7 +2200,7 @@ réussi l’année ?
 Après avoir rencontré, interrogé, observé vos clients, écrivez sur
 papier la liste de ces critères. Ils définissent votre challenge.
 
-13.2Voir ensemble {.western}
+13.2Voir ensemble
 -----------------
 
 Mettez-vous devant votre management visuel et voyez avec l’ensemble de
@@ -2217,7 +2217,7 @@ faire pour contribuer à l’atteinte de l’objectif ?
 
 Les pièces à produire sont-elles visibles ?
 
-13.3Agir ensemble {.western}
+13.3Agir ensemble
 -----------------
 
 Tous les jours, posez-vous ces questions :
@@ -2233,10 +2233,10 @@ L’amélioration est-elle visible ?
 Quelle est la dernière chose que vous avez apprise grâce à votre
 management visuel ?
 
-14Aller plus loin {.western lang="fr-FR" style="page-break-before: always"}
+14Aller plus loin
 =================
 
-14.1The Visual Factory {.western}
+14.1The Visual Factory
 ----------------------
 
 Michel GREIF – Edition Productivity Press
@@ -2259,7 +2259,7 @@ Aller à l'essentiel :
 -   Chapitre 6 « Process Indicators » pour comprendre les indicateurs de
     performance (à ne pas confondre avec des indicateurs d’activité)
 
-14.2Creating a Lean Culture {.western}
+14.2Creating a Lean Culture
 ---------------------------
 
 David MANN – Edition CRC Press
@@ -2313,10 +2313,10 @@ Aller à l'essentiel :
 
 **à Trouver les leviers de l’amélioration**
 
-15Les pratiques agiles {.western lang="fr-FR" style="page-break-before: always"}
+15Les pratiques agiles
 ======================
 
-15.1Au plus profond de la culture agile {.western}
+15.1Au plus profond de la culture agile
 ---------------------------------------
 
 Des principes favorisant l'identification des actions d'amélioration
@@ -2336,7 +2336,7 @@ n'est pas satisfait, l’équipe cherche un moyen d'améliorer la situation.
 l'équipe crée l'espace nécessaire pour le choix d'actions
 d'améliorations.
 
-15.2Les domaines privilégiés d'amélioration {.western}
+15.2Les domaines privilégiés d'amélioration
 -------------------------------------------
 
 Au fil des années, la communauté agile s'est constituée un riche
@@ -2349,7 +2349,7 @@ d'ingénierie inefficientes. C'est la raison pour laquelle on peut
 trouver des pratiques agiles dans ces différents domaines. En voici
 quelques exemples significatifs.
 
-### 15.2.1L'organisation du travail {.western lang="fr-FR"}
+### 15.2.1L'organisation du travail
 
 Comme le mécanicien qui sait repérer les anomalies dans le bruit
 répétitif du moteur, l'équipe identifie les effets des changements
@@ -2364,7 +2364,7 @@ aussi une résolution successive de micro-problèmes.
 
 ![](guide_html_601d0c42.png)
 
-### 15.2.2Les trucs de *geeks* {.western lang="fr-FR" style="page-break-before: always"}
+### 15.2.2Les trucs de *geeks*
 
 Le *refactoring*, les tests automatiques sont des leviers techniques
 d'amélioration du produit logiciel. Le développement piloté par les
@@ -2382,7 +2382,7 @@ neuf peut apporter de la hauteur dans les solutions conçues, ainsi que
 son expertise technique. L'expert métier peut apporter au novice ses
 explications des concepts et techniques du projet.
 
-### 15.2.3La communication interpersonnelle {.western lang="fr-FR"}
+### 15.2.3La communication interpersonnelle
 
 La qualité de la communication représente un axe majeur d'amélioration.
 Pour exploiter les bénéfices de la communication orale, il est conseillé
@@ -2397,7 +2397,7 @@ sciences humaines et du coaching d'équipe (Virginia Satir, Ecole de Palo
 Alto, Core protocols, psychologie sociale) afin de guider les équipes
 dans l'amélioration de leur efficacité.
 
-15.3Trouver des leviers sur mesure {.western}
+15.3Trouver des leviers sur mesure
 ----------------------------------
 
 Le travail en équipe auto-organisée constitue un des principes
@@ -2443,10 +2443,10 @@ Les sections suivantes illustrent les retours d’expérience de praticiens
 agiles qui ont essayé des pratiques lean sur leurs projets pour aller
 plus loin dans l’amélioration.
 
-16Scène de crime : la mise en production qui ne devait pas échouer {.western lang="fr-FR" style="page-break-before: always"}
+16Scène de crime : la mise en production qui ne devait pas échouer
 ==================================================================
 
-16.1L'odeur du napalm au petit matin {.western}
+16.1L'odeur du napalm au petit matin
 ------------------------------------
 
 Un opérateur majeur propose un service grand public de télévision et
@@ -2481,7 +2481,7 @@ recrée immédiatement à la main. Il redémarre les consommateurs et une
 minute plus tard le monitoring repasse au vert. Le service est ré-ouvert
 et le trafic reprend.
 
-16.2Une situation client dramatique {.western}
+16.2Une situation client dramatique
 -----------------------------------
 
 Où en sommes-nous ? La version cible n’est toujours pas en production.
@@ -2500,7 +2500,7 @@ des 2 semaines voulues par le marketing.
 \
 \
 
-16.3Les 5 pourquoi {.western}
+16.3Les 5 pourquoi
 ------------------
 
 Une fois le service rétabli, je pars mener une enquête minutieuse, dans
@@ -2523,7 +2523,7 @@ de *monitoring*.
 **Une cause profonde**[^19^](#sdfootnote19sym)**a été identifiée** : une
 maladresse lors d’un changement technique.
 
-### 16.3.1L’échec des procédures qualité {.western lang="fr-FR"}
+### 16.3.1L’échec des procédures qualité
 
 Pourtant, dans mon entreprise, il existe un standard pour se prémunir de
 ce genre de maladresse, à savoir la répétition systématique en
@@ -2536,7 +2536,7 @@ sont différents de ceux en production : ils n’ont pas été modifiés.
 Une autre cause profonde a été identifiée : un écart entre les
 environnements.
 
-### 16.3.2Comment fatiguer son ingénieur système ? {.western lang="fr-FR"}
+### 16.3.2Comment fatiguer son ingénieur système ?
 
 Une autre question subsiste : pourquoi un ingénieur système, pourtant
 talentueux, a-t-il dû attendre l’arrivée d’un développeur pour recréer
@@ -2551,7 +2551,7 @@ ignorait la sortie standard.
 
 ![](guide_html_77cae31d.png)
 
-16.4Prévenir plutôt que guérir {.western style="page-break-before: always"}
+16.4Prévenir plutôt que guérir
 ------------------------------
 
 L’arbre de causalité[^20^](#sdfootnote20sym) indique trois causes
@@ -2631,7 +2631,7 @@ cas où le système de log n’arrive pas à s’initialiser.
 \
 \
 
-17Scène de crime : du rififi dans mes sprints {.western lang="fr-FR" style="page-break-before: always"}
+17Scène de crime : du rififi dans mes sprints
 =============================================
 
 Chaque année, mon équipe agile doit assurer la maintenance d’un site web
@@ -2655,7 +2655,7 @@ voir la nature des dysfonctionnements ;
 \
 \
 
-17.1Du management visuel au Plan-Do-Check-Act (PDCA) {.western style="page-break-before: always"}
+17.1Du management visuel au Plan-Do-Check-Act (PDCA)
 ----------------------------------------------------
 
 Même si la situation semble s’améliorer, des problèmes déjà corrigés
@@ -2681,7 +2681,7 @@ de l'efficacité de la contre-mesure. Suivant le résultat de la
 vérification, les procédures sont adaptées pour intégrer la nouvelle
 pratique.
 
-17.2Le service de prise de commande ne répond pas dans les temps. {.western}
+17.2Le service de prise de commande ne répond pas dans les temps.
 -----------------------------------------------------------------
 
 Le service de prise de commande répond en 8 secondes au lieu de 2
@@ -2756,7 +2756,7 @@ des serveurs de prise de commande est mise à jour.
 
 \
 
-17.3Résultats {.western style="page-break-before: always"}
+17.3Résultats
 -------------
 
 La pratique du PLAN-DO-CHECK-ACT est appliquée de manière systématique à
@@ -2811,7 +2811,7 @@ compétences.
 \
 \
 
-18Scène de crime : joue-la courte et précise {.western lang="fr-FR" style="page-break-before: always"}
+18Scène de crime : joue-la courte et précise
 ============================================
 
 Notre client est mécontent car l'équipe de développement dont je fais
@@ -2822,7 +2822,7 @@ projets.
 
 *Dépassements de délais sur nos trois derniers grands projets*
 
-18.1Première hypothèse {.western}
+18.1Première hypothèse
 ----------------------
 
 Pour comprendre où gagner du temps, le Scrum Master propose de
@@ -2840,7 +2840,7 @@ Je réalise que ce n’est pas surprenant. Les gens sont sensibles à ce qui
 sort de l’ordinaire, mais ne remarquent pas les freins dont ils ont
 l’habitude.
 
-18.2Deuxième hypothèse {.western}
+18.2Deuxième hypothèse
 ----------------------
 
 Mon Scrum Master a une nouvelle intuition : l’équipe passe trop de temps
@@ -2871,7 +2871,7 @@ contraire aurait été étonnant dans une équipe de développement. Mais
 cela ne fait que déplacer le problème : où passe notre temps quand nous
 programmons ?
 
-18.3Troisième expérimentation {.western}
+18.3Troisième expérimentation
 -----------------------------
 
 Je lance une troisième expérimentation : l’investigation pendant le
@@ -2940,10 +2940,10 @@ J’ai appris une méthode pour identifier un potentiel d’accélération.
 \
 \
 
-19Principes lean {.western lang="fr-FR" style="page-break-before: always"}
+19Principes lean
 ================
 
-19.1Aux origines {.western}
+19.1Aux origines
 ----------------
 
 Le père du lean est convaincu que chacun est rempli d’impressions, de
@@ -2978,7 +2978,7 @@ clair dans sa tête », le praticien du lean est avide de faits :
 « Combien de fois le client n’a-t-il pas été clair ? Allons voir
 l’ingénieur système pour savoir ce qui s’est effectivement passé. »
 
-19.2Qu'apporte le Plan-Do-Check-Act à une équipe agile ? {.western style="page-break-before: always"}
+19.2Qu'apporte le Plan-Do-Check-Act à une équipe agile ?
 --------------------------------------------------------
 
 Le lean fournit donc une méthode pour affronter des problèmes complexes
@@ -3007,16 +3007,16 @@ pas testées.
 
 Enfin, le Plan-Do-Check-Act évite d’investir sur des fausses pistes.
 
-19.3Comment faire en pratique ? {.western style="page-break-before: always"}
+19.3Comment faire en pratique ?
 -------------------------------
 
 A chaque pas d’un Plan-Do-Check-Act, la méthode préconise que le porteur
 présente ce qu’il a compris à un expert du sujet et à des acteurs du
 problème, pour détecter d’éventuelles idées fausses.
 
-### 19.3.1Plan {.western lang="fr-FR"}
+### 19.3.1Plan
 
-#### 19.3.1.1Définir le problème {.western lang="fr-FR"}
+#### 19.3.1.1Définir le problème
 
 Dans l’exemple « Joue-la courte et précise », le client se plaint d’une
 dérive des délais. Le membre de l’équipe pense qu’il surestime cette
@@ -3028,13 +3028,13 @@ fois plus longs que le client ne le souhaiterait dans le cas des grosses
 
 ![idees\_fausses\_delais](guide_html_m12fedf01.jpg)
 
-#### 19.3.1.2Qualifier l’impact {.western lang="fr-FR"}
+#### 19.3.1.2Qualifier l’impact
 
 Comment juger si le problème mérite l’énergie que le porteur va lui
 consacrer ? Un bon problème aura un impact significatif pour le client
 ou l’entreprise (financièrement ou en terme de stratégie).
 
-#### 19.3.1.3Comprendre la situation {.western lang="fr-FR"}
+#### 19.3.1.3Comprendre la situation
 
 Pour contrer les croyances erronées, le porteur observe, compte, examine
 des instances du problème. Cette pratique s’appelle le *Go&See* ou
@@ -3111,7 +3111,7 @@ Transmettre des informations d’un développeur à l’autre.
 \
 \
 
-#### 19.3.1.4Trouver les causes racines {.western lang="fr-FR" style="page-break-before: always"}
+#### 19.3.1.4Trouver les causes racines
 
 Le porteur va jusqu’à la cause racine. Dans l’exemple « Du rififi dans
 mes sprints », poser plusieurs fois la question « pourquoi » amène à
@@ -3136,7 +3136,7 @@ Des hypothèses sont ainsi formulées et testées. Dans l’exemple « Joue-la
 courte et précise », la croyance « une équipe extreme programming passe
 la moitié de son temps à écrire des tests » est invalidée.
 
-#### 19.3.1.5Formuler puis choisir des contre-mesures {.western lang="fr-FR"}
+#### 19.3.1.5Formuler puis choisir des contre-mesures
 
 Une fois les causes bien comprises, le porteur fait un exercice de
 pensée divergente : il imagine un maximum de contre-mesures pour
@@ -3152,16 +3152,16 @@ d’apporter une petite contribution. Il réussit ainsi sa journée à double
 titre : en rétablissant le système le matin et en améliorant le
 *feedback* de l’application le soir.
 
-#### 19.3.1.6Formuler la méthode de Check {.western lang="fr-FR"}
+#### 19.3.1.6Formuler la méthode de Check
 
 Le porteur explique comment il va vérifier factuellement si sa
 contre-mesure fonctionne.
 
-### 19.3.2Do {.western lang="fr-FR"}
+### 19.3.2Do
 
 La phase Do correspond à la mise en œuvre de la contre-mesure choisie.
 
-### 19.3.3Check {.western lang="fr-FR"}
+### 19.3.3Check
 
 Le Check est la vérification factuelle de l’impact de la contre-mesure,
 comme prévu durant le Plan. Un Check peut être soit OK, si les objectifs
@@ -3170,7 +3170,7 @@ visés sont atteints. Sinon il est NOK.
 Dans l’exemple « Du rififi dans mes sprints », l’équipe mesure une
 diminution de 37% des incidents. Son Check est OK.
 
-### 19.3.4Act {.western lang="fr-FR"}
+### 19.3.4Act
 
 Durant la phase Act, le porteur pérennise les enseignements qu’il tire
 de ses expérimentations. Dans l’exemple précédent, l’équipe corrige la
@@ -3180,20 +3180,20 @@ Que le Check soit OK ou NOK, il y a toujours quelque chose à apprendre
 d’une expérimentation bien menée. Le plus beau succès est de pouvoir se
 dire « J’étais persuadé de X, en fait, j’avais tort ! ».
 
-20Premiers pas {.western lang="fr-FR" style="page-break-before: always"}
+20Premiers pas
 ==============
 
 La résolution de problème est une technique puissante mais à manier avec
 précaution. C'est pourquoi nous vous invitons à suivre scrupuleusement
 les 7 étapes qui suivent.
 
-1.  ### Choisir un sujet {.western lang="fr-FR"}
+1.  ### Choisir un sujet
 
 Choisissez un sujet qui est important pour vous. Posez-vous la question
 de la dernière difficulté majeure que vous avez rencontrée ou du
 problème qui revient le plus souvent.
 
-2.  ### Formuler le problème {.western lang="fr-FR"}
+2.  ### Formuler le problème
 
 Formulez-le sous forme d'écart entre :
 
@@ -3201,7 +3201,7 @@ ce que vous constatez
 
 ce que vous voudriez à la place.
 
-3.  ### Identifier l'impact {.western lang="fr-FR"}
+3.  ### Identifier l'impact
 
 Répondez à la question : Pourquoi est-ce important ?
 
@@ -3209,22 +3209,22 @@ Vérifiez qu'il y a un impact significatif pour le client ou pour
 l'entreprise. (cf. chapitre « De Satisfaire le client à Comprendre le
 client »).
 
-4.  ### Définir l'écart au standard  {.western lang="fr-FR"}
+4.  ### Définir l'écart au standard 
 
 Quand ce problème se manifeste, qu’observez-vous ?
 
-5.  ### Chercher les causes racines {.western lang="fr-FR"}
+5.  ### Chercher les causes racines
 
 Qu'est-ce qui provoque ce problème ? Énumérez toutes les hypothèses qui
 vous semblent plausibles.
 
 L'important est de trouver des hypothèses testables.
 
-6.  ### Vérifier les hypothèses {.western lang="fr-FR"}
+6.  ### Vérifier les hypothèses
 
 Trouvez le moyen le plus simple et rapide de confirmer vos hypothèses.
 
-7.  ### Définir le résultat attendu {.western lang="fr-FR"}
+7.  ### Définir le résultat attendu
 
 Avant d'entreprendre les actions correctives, définissez où, quand et
 comment vous pourrez vérifier qu'elles auront porté leurs fruits.
@@ -3232,10 +3232,10 @@ comment vous pourrez vérifier qu'elles auront porté leurs fruits.
 \
 \
 
-21Aller plus loin {.western lang="fr-FR" style="page-break-before: always"}
+21Aller plus loin
 =================
 
-21.1Toyota Kata {.western}
+21.1Toyota Kata
 ---------------
 
 Mike Rother – Edition McGraw-Hill
@@ -3248,7 +3248,7 @@ Mike Rother – Edition McGraw-Hill
 \
 \
 
-21.2Managing to learn {.western}
+21.2Managing to learn
 ---------------------
 
 John Shook – Edition Lean Enterprise Institute, Inc.
@@ -3261,7 +3261,7 @@ John Shook – Edition Lean Enterprise Institute, Inc.
 \
 \
 
-21.3Understanding A3 thinking {.western}
+21.3Understanding A3 thinking
 -----------------------------
 
 Durward K. Sobek II., Art Smalley – Edition Productivity Press
@@ -3290,12 +3290,12 @@ nous retrouver :
 \
 \
 
-1.   {.western}
+1.  
 
-22Livres de référence {.western lang="fr-FR" style="page-break-before: always"}
+22Livres de référence
 =====================
 
-22.1Le management lean {.western}
+22.1Le management lean
 ----------------------
 
 Michael Ballé, Godefroy Beauvallet – Edition Pearson
@@ -3304,7 +3304,7 @@ Michael Ballé, Godefroy Beauvallet – Edition Pearson
 
 \
 
-22.2La pratique du lean management dans l’IT {.western}
+22.2La pratique du lean management dans l’IT
 --------------------------------------------
 
 Marie-Pia Ignace, Christian Ignace, Régis Medina et Antoine Contal –
@@ -3314,7 +3314,7 @@ Edition Pearson
 
 \
 
-23Ressources de référence {.western lang="fr-FR"}
+23Ressources de référence
 =========================
 
 Glossaire lean
