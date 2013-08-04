@@ -684,58 +684,25 @@ gaspillage par opposition à la création de valeur. La notion présentée
 ici est plus restreinte, en l’appliquant spécifiquement au temps de ceux
 qui créent de la valeur.
 
-Type de gaspillage
 
-Exemples
-
-Surproduction
-
-Ecrire du code qui n’est jamais utilisé.
-
-Réaliser une *User Story* plus tôt que nécessaire.
-
-Corrections & retouches
-
-Investigation et correction d’un défaut.
-
-*Refactoring* exactement inverse à celui fait par un autre binôme.
-
-Attente
-
-Attente de la disponibilité de l’environnement de test.
-
-Attente du résultat du *build*.
-
-Lenteur du poste de travail.
-
-Attente d’une information ou d’une décision d’ordre fonctionnel lors de
-la réalisation d’une tâche.
-
-Stock
-
-Maintenance d’un *backlog* de *User Stories* non développées.
-
-Revoir régulièrement les *post-it* sur un poster « Idées
-d’amélioration » sans jamais mettre ces idées en œuvre.
-
-Gestes inutiles
-
-Navigation dans le code.
-
-Redémarrage de l’environnement de développement (IDE).
-
-Etapes inutiles
-
-Deux binômes qui réalisent des tâches qui se chevauchent.
-
-Réaliser une tâche inutile.
-
-Transport
-
-Reporter des modifications entre différentes branches au sein d’un
-système de gestion de configuration.
-
-Transmettre des informations d’un développeur à l’autre.
+| Type de gaspillage      | Exemples
+|---                      |----
+|Surproduction            | Ecrire du code qui n’est jamais utilisé.\
+                            Réaliser une *User Story* plus tôt que nécessaire.
+| Corrections & retouches | Investigation et correction d’un défaut.\
+                            *Refactoring* exactement inverse à celui fait par un autre binôme.
+| Attente                 | Attente de la disponibilité de l’environnement de test. \
+                            Attente du résultat du *build*. \
+                            Lenteur du poste de travail. \
+                            Attente d’une information ou d’une décision d’ordre fonctionnel lors de la réalisation d’une tâche.
+| Stock                   | Maintenance d’un *backlog* de *User Stories* non développées.\
+                            Revoir régulièrement les *post-it* sur un poster « Idées d’amélioration » sans jamais mettre ces idées en œuvre.
+| Gestes inutiles         | Navigation dans le code.\
+                            Redémarrage de l’environnement de développement (IDE).
+| Etapes inutiles         | Deux binômes qui réalisent des tâches qui se chevauchent.\
+                          | Réaliser une tâche inutile. 
+| Transport               | Reporter des modifications entre différentes branches au sein d’un système de gestion de configuration.\
+                            Transmettre des informations d’un développeur à l’autre.
 
 ##### Trouver les causes racines
 
