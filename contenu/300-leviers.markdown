@@ -491,7 +491,9 @@ Cela mérite une deuxième expérimentation.
 Pour éclaircir ce mystère, pendant plusieurs sprints, je note à chaque
 *daily scrum meeting*, sur quoi nous travaillons :
 
-![](images/521f0537.jpg) ![](images/m1d1acf80.jpg)
+![](images/521f0537.jpg)
+
+![](images/m1d1acf80.jpg)
 
   Astuce : préparer un modèle vierge pour assurer une meilleure pertinence
   des observations récoltées
