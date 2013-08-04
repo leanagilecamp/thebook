@@ -23,7 +23,6 @@ Cette œuvre est mise à disposition selon les termes de la [Licence Creative Co
 | **Raphaël Pierquin**    | [ut7.fr](http://ut7.fr/)                         | @perafoo       |
 | **Bruno Thomas**        | [www.barreverte.fr](http://www.barreverte.fr/)   | @bam\_thomas   |
 
-\newpage
 
 # Avant-propos
 
@@ -128,7 +127,6 @@ Chaque chapitre est organisé de la façon suivante :
 
 Bonne lecture et du succès dans vos expérimentations !
 
-\newpage
 
 # De **Satisfaire le client** à **Comprendre son attente**
 
@@ -903,7 +901,6 @@ Jim WOMACK et Dan JONES – Edition Vuibert
 
 ![livre lean au service du client](images/1edfc8ab.jpg)
 
-\newpage
 
 # De **Management visuel** à **Visualiser le challenge et les problèmes**
 
@@ -1840,7 +1837,6 @@ Aller à l'essentiel :
 -   Chapitre 4 « Visual Controls » pour retrouver des exemples de
     management visuel
 
-\newpage
 
 # De **L’amélioration continue** à **Trouver les leviers de l’amélioration**
 
@@ -2713,7 +2709,6 @@ John Shook – Edition Lean Enterprise Institute, Inc.
 Durward K. Sobek II., Art Smalley – Edition Productivity Press
 
 ![](images/555a76da.png)
-\newpage
 
 # Conclusion
 
@@ -2728,7 +2723,6 @@ nous retrouver :
 
 [http://www.leanagilecamp.fr](http://www.leanagilecamp.fr)
 
-\newpage
 
 # Livres de référence
 
@@ -2745,7 +2739,6 @@ Edition Pearson
 
 ![livre la pratique du lean IT](images/m44286ac1.jpg)
 
-\newpage
 
 # Ressources de référence
 
