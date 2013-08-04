@@ -1,0 +1,40 @@
+# Conclusion
+
+Le lean est une pratique. La valeur de ce guide réside dans les
+« premiers pas », les exercices que nous avons sélectionnés pour vous.
+Commencez à les mettre en œuvre dès maintenant, pas après pas, et venez
+partager vos déclics et vos questions avec les autres praticiens pour
+que nous progressions tous ensemble.
+
+Nous posterons sur le site ci-dessous les informations nécessaires pour
+nous retrouver :
+
+[http://www.leanagilecamp.fr](http://www.leanagilecamp.fr)
+
+
+# Livres de référence
+
+## Le management lean
+
+Michael Ballé, Godefroy Beauvallet – Edition Pearson
+
+![](images/m73c80f2a.png)
+
+## La pratique du lean management dans l’IT
+
+Marie-Pia Ignace, Christian Ignace, Régis Medina et Antoine Contal –
+Edition Pearson
+
+![livre la pratique du lean IT](images/m44286ac1.jpg)
+
+
+# Ressources de référence
+
+Glossaire lean
+
+[http://www.lean.enst.fr/wiki/bin/view/Lean/GlossaireLean](http://www.lean.enst.fr/wiki/bin/view/Lean/GlossaireLean)
+
+Blog Lean et SI
+
+[http://leansi.wp.mines-telecom.fr/](http://leansi.wp.mines-telecom.fr/)
+
