@@ -1,12 +1,12 @@
 % Petit guide de management lean à l'usage des équipes agiles
-  ![](logo.png)
+  ![](images/logo.png)
 % écrit par un collectif de dix auteurs
   sous la houlette bienveillante de Régis Medina
 % Version 1.0 – 10 juillet 2013
 
 \newpage
 
-[![license CC BY-NC-ND 3.0](cc_by-nc-nd.png)](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.fr)
+[![license CC BY-NC-ND 3.0](images/cc_by-nc-nd.png)](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.fr)
 
 Cette œuvre est mise à disposition selon les termes de la [Licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 non transposé](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.fr).
 
@@ -164,7 +164,7 @@ principes :
 -   "Les utilisateurs ou leurs représentants et les développeurs doivent
     travailler ensemble quotidiennement tout au long du projet."
 
-![Satisfaire le client](satisfaire_le_client.jpg)
+![Satisfaire le client](images/satisfaire_le_client.jpg)
 
 L'équipe de réalisation et le client adoptent une posture
 d'apprentissage à la fois du processus et du produit. Postulat de
@@ -192,7 +192,7 @@ davantage cette importance de l'orientation produit en répartissant les
 responsabilités anciennement confiées au chef de projet vers un nouveau
 triumvirat : équipe, Scrum Master et Product Owner.
 
-![Le Trimvirat Agile](guide_html_m19905383.png)
+![Le Trimvirat Agile](images/m19905383.png)
 
 ### La mise en pratique quotidienne
 
@@ -241,7 +241,7 @@ estimer. La pratique du *Planning Poker* permet par exemple d'obtenir
 une estimation collective de l'effort de réalisation, tout en
 contribuant à diffuser la compréhension du produit à réaliser.
 
-![User Stories](guide_html_b0e35.png)*
+![User Stories](images/b0e35.png)*
 
 #### Le logiciel opérationnel
 
@@ -276,7 +276,7 @@ Product* en expérimentant des pratiques très diverses (inspiration du
 une représentation visuelle des concepts (Persona, *Impact Mapping*,
 *Story Mapping*, *Empathy Map*…).
 
-![Exploration du « right product »](guide_html_m6d6b88e6.png)
+![Exploration du « right product »](images/m6d6b88e6.png)
 
 Elle cherche également à tirer le meilleur parti de la spécification par
 l'exemple en allant jusqu'à l'automatisation des tests fonctionnels (BDD
@@ -325,7 +325,7 @@ dentiste se révèle erronée.
 Or, pour aller plus vite, cette assistante n’utilise que les touches du
 clavier : pas une minute à perdre pour enchaîner ces dix vacations.
 
-![Contexte d’utilisation du logiciel](guide_html_m4c13c797.png)
+![Contexte d’utilisation du logiciel](images/m4c13c797.png)
 
 ### Vérification de l'observation
 
@@ -341,7 +341,7 @@ est baladé de haut en bas, le faisant tourner en girouette.
 L’équipe change la navigation pour que les tabulations suivent l’ordre
 dans lequel l’assistante effectue la saisie.
 
-![Nouveau schéma de navigation au clavier](dentiste_nouvelle_navigation.jpg)
+![Nouveau schéma de navigation au clavier](images/dentiste_nouvelle_navigation.jpg)
 
 ### Le mot de l'assistante : merci *Go&See*
 
@@ -493,7 +493,7 @@ beaucoup de types de tickets différents. Je les compte et les
 catégorise. Cela constitue un bulletin de santé que j'affiche sur le mur
 à l'entrée de notre *War Room*.
 
-![Bulletin de santé du projet Condor](guide_html_m14ff876e.png)
+![Bulletin de santé du projet Condor](images/m14ff876e.png)
 
 ### Analyse du problème
 
@@ -672,14 +672,14 @@ Chacun de ces clients a ses propres attentes, qu’il faut identifier et
 satisfaire. Le lean offre une structure pour guider cette exploration,
 basée sur cinq axes :
 
-![Les cinq attentes du client](guide_html_33b3c9bf.png)
+![Les cinq attentes du client](images/33b3c9bf.png)
 
 Les pratiques qui suivent constituent un bon point de départ pour
 entamer ce travail de détective.
 
 ### Se faire sa propre opinion en allant observer le client sur le terrain
 
-![](guide_html_7990966a.png)
+![](images/7990966a.png)
 
 Le véritable besoin du client ne se déniche pas dans une salle de
 réunion. Il faut aller le trouver sur le terrain, là où l’action se
@@ -901,7 +901,7 @@ investigations :
 
 Jim WOMACK et Dan JONES – Edition Vuibert
 
-![livre lean au service du client](guide_html_1edfc8ab.jpg)
+![livre lean au service du client](images/1edfc8ab.jpg)
 
 \newpage
 
@@ -916,7 +916,7 @@ de voir les murs couverts de *post-its* et de *posters* dessinés à la
 main.
 
 ![Un affichage mural (radiateur d’information) dans un bureau de
-développeurs](guide_html_m6ccb25f4.png)
+développeurs](images/m6ccb25f4.png)
 
 Le principe est simple : l'utilisation de l'espace visuel permet
 d'améliorer la qualité et la quantité d'information échangée au sein de
@@ -954,22 +954,22 @@ La culture agile regorge d'exemples que les équipes de développement
 peuvent reprendre à leur propre compte, comme le montrent les spécimens
 suivants.
 
-![Tableau kanban](guide_html_md963eae.png)
+![Tableau kanban](images/md963eae.png)
 
-![Niko niko](guide_html_m281c5d9e.png)
+![Niko niko](images/m281c5d9e.png)
 
-![Burndonw chart](guide_html_m154f8625.png)
+![Burndonw chart](images/m154f8625.png)
 
 Les équipes plus avancées commencent à créer des affiches sur mesure
 pour répondre à leurs problématiques spécifiques.
 
-![Un poster sur-mesure](guide_html_m7b2fd6a9.png)
+![Un poster sur-mesure](images/m7b2fd6a9.png)
 
 Puisque la technologie utilisée (papier, feutres et traits à main levée)
 est rudimentaire, il est facile et rapide d'adapter les affichages aux
 besoins qui émergent, et d’expérimenter de nouvelles approches.
 
-![Exemples d’affichage d’une équipe créative](guide_html_157e5bb4.png)
+![Exemples d’affichage d’une équipe créative](images/157e5bb4.png)
 
 Les rétrospectives sont des moments privilégiés pour faire évoluer les
 affichages, pour en créer et en supprimer. Tous les formats sont bons
@@ -1019,7 +1019,7 @@ de 95%. Je dois donc offrir à mon client un service de maintenance,
 cependant mes équipes agiles actuelles n’ont aucun cadre de travail pour
 assurer ce nouveau type de prestation.
 
-![Radiateur d’informations existant pour gérer les projets web](guide_html_3183f42f.jpg)
+![Radiateur d’informations existant pour gérer les projets web](images/3183f42f.jpg)
 
 Pendant les 3 années suivantes, nous réussissons au prix de gros efforts
 à tenir nos engagements. En effet, nous devons développer de nouveaux
@@ -1099,7 +1099,7 @@ m’aider à décider.
 
 Les indicateurs se présentent comme suit :
 
-![Structure de nos indicateurs de performance*](guide_html_5ecaaba3.png)
+![Structure de nos indicateurs de performance*](images/5ecaaba3.png)
 
 Nous affichons et faisons vivre ces indicateurs dans notre *Open Space*.
 La situation est rendue visible. Chaque fois qu’il y a un
@@ -1114,9 +1114,9 @@ pour nous de partager et d’apprendre sur les actions menées.
 
 Notre management visuel est organisé de la manière suivante :
 
-![Structure de notre management visuel](guide_html_35bf1a8a.png)
+![Structure de notre management visuel](images/35bf1a8a.png)
 
-![Management visuel pour une activité de maintenance](guide_html_edd7b90.jpg)
+![Management visuel pour une activité de maintenance](images/edd7b90.jpg)
 
 L'exploitation de ces informations me permet aujourd’hui de juger avec
 l’équipe de l’importance des problèmes. L’équipe travaille plus
@@ -1202,7 +1202,7 @@ lots intermédiaires toutes les deux semaines pour rassurer le client.
 Ce challenge [^principesclient] se traduit tout d'abord par
 l'affichage d'un objectif de production pour la première itération :
 
-![Objectif de production](guide_html_4539b42a.png)
+![Objectif de production](images/4539b42a.png)
 
 L'équipe analyse les principales étapes de son flux de
 production [^principesvisuel], puis représente son activité sous
@@ -1212,7 +1212,7 @@ la forme d’un tableau visuel.
 « Management visuel »](#principes-lean-1)
 
 
-![Tableau représentant le flux de production](tableau_flux.png)
+![Tableau représentant le flux de production](images/tableau_flux.png)
 
 L'enjeu de l'itération en cours consiste à sortir toutes les pièces
 présentes sur le tableau [^ameliorationpossible].
@@ -1260,19 +1260,19 @@ visuel [^principesvisuel], en rendant visibles, pour chaque
 tâche, les obstacles (questions bloquantes en cours) sous la forme de
 *post-its* rouges :
 
-![Affichage des obstacles sur les tâches](guide_html_4d612878.png)
+![Affichage des obstacles sur les tâches](images/4d612878.png)
 
 Ensuite, l'équipe met au point un standard de rédaction d'une fiche de
 demande. Je passe voir chaque collaborateur pour le former à la bonne
 façon de faire. De plus, l’émetteur de la demande devient responsable
 des actions de suivi.
 
-![Standard de définition d’une demande](post_it_demande.png)
+![Standard de définition d’une demande](images/post_it_demande.png)
 
 
 Les obstacles sont matérialisés et suivis sur un tableau dédié :
 
-![Tableau de suivi des obstacles](tableau_obstacles.png)
+![Tableau de suivi des obstacles](images/tableau_obstacles.png)
 
 Les réunions quotidiennes, qui étaient auparavant centrées sur les
 tâches, font maintenant une large place au traitement des obstacles en
@@ -1285,7 +1285,7 @@ spécifique où il demeure jusqu’au lendemain. Cela permet à un autre
 équipier, dont une tâche serait en attente de la même demande, de savoir
 qu’il peut reprendre son traitement.
 
-![Panneau des obstacles résolus](guide_html_293b4e84.png)
+![Panneau des obstacles résolus](images/293b4e84.png)
 
 Deux semaines après cette découverte, les questions en attente de
 réponse de la part de la cellule d'analyse fonctionnelle ont toutes été
@@ -1340,13 +1340,13 @@ fonctionnels.
 Comme dans beaucoup d'équipes agiles nous avons un *burndown chart*
 d'itération :
 
-![Burndown chart d’itération](guide_html_m1faa3c92.jpg)
+![Burndown chart d’itération](images/m1faa3c92.jpg)
 
 Nous rencontrons un problème [^principesleviers] de tenue des
 délais qui se matérialise sprint après sprint par un reste à faire de 10
 à 20% en fin de sprint :
 
-![Evolution du « reste à faire » au fil des sprints](guide_html_59bbf712.png)
+![Evolution du « reste à faire » au fil des sprints](images/59bbf712.png)
 
 ### Recherche de cause
 
@@ -1361,7 +1361,7 @@ Pour clarifier la situation, nous enrichissons notre management visuel
 en ajoutant un graphique des jours consommés, copie quasi-conforme de
 notre *burndown chart* d'itération.
 
-![](guide_html_m7b3d491f.jpg)
+![](images/m7b3d491f.jpg)
 
 *Burndown chart des jours consommés*
 
@@ -1375,7 +1375,7 @@ fournir réellement que 80.
 Il faut maintenant agir. Je trace, sprint après sprint, la différence
 entre les jours consommés et les jours planifiés.
 
-![](guide_html_m840f717.jpg)
+![](images/m840f717.jpg)
 
 *Suivi de la différence entre les jours consommés et les jours
 planifiés*
@@ -1396,7 +1396,7 @@ Quand Romain dit "je suis intervenu sur telle tâche toute la journée",
 le développeur surligne en fluo une journée supplémentaire consommée sur
 la ligne de Romain.
 
-![Suivi du nombre de jours consacré au sprint](guide_html_542a22e0.jpg)
+![Suivi du nombre de jours consacré au sprint](images/542a22e0.jpg)
 
 Ce suivi permet d'alerter Romain: « Attention, il ne reste que 2 jours
 et il te reste 1,5 jours à consacrer au sprint. »
@@ -1411,7 +1411,7 @@ participer ou pas en connaissant pleinement son impact sur le sprint.
 Le reste à faire en fin d’itération, qui était totalement imprédictible
 et chaotique devient d’une exceptionnelle stabilité :
 
-![Suivi du « reste à faire » en fin d’itération](guide_html_m38e7ce62.png)
+![Suivi du « reste à faire » en fin d’itération](images/m38e7ce62.png)
 
 Par contre, nous n’arrivons pas encore à tenir 100% de nos engagements
 du sprint. En effet les tâches de développement s’accumulent dans la
@@ -1429,7 +1429,7 @@ difficiles, mais à partir du sprint .1, elles réussissent à s’améliorer
 drastiquement en se focalisant sur les stories à valider plutôt que sur
 de nouvelles spécifications :
 
-![Evolution du reste à faire à la suite d’une action d’amélioration](guide_html_308de9ef.png)
+![Evolution du reste à faire à la suite d’une action d’amélioration](images/308de9ef.png)
 
 ----------------------------------------
 
@@ -1525,7 +1525,7 @@ Il est basé sur trois axes :
 
 ### Comprendre ensemble
 
-![Le triangle du management visuel lean](guide_html_194642db.png)
+![Le triangle du management visuel lean](images/194642db.png)
 
 La construction et l’utilisation du management visuel amènent l’équipe à
 développer une compréhension commune de :
@@ -1605,7 +1605,7 @@ L’équipe affiche aussi une matrice de compétences de tous ses membres,
 ainsi qu’un programme de formation, l’objectif de développement des
 compétences étant clair pour chacun.
 
-![Matrice des compétences de l'équipe](guide_html_3b8c2085.png)
+![Matrice des compétences de l'équipe](images/3b8c2085.png)
 
 ### Voir ensemble
 
@@ -1647,7 +1647,7 @@ exemple un développeur trouve un endroit du code qui recèle des défauts)
 Chaque problème de qualité est imprimé ou écrit sur une feuille, puis
 placé dans une bannette rouge à proximité du *taskboard* :
 
-![](guide_html_m3ab0e0d9.png)
+![](images/m3ab0e0d9.png)
 
 *Les bacs rouges*
 
@@ -1676,7 +1676,7 @@ place un visuel un peu différent. Ci-dessous, deux possibilités :
     vérifie plusieurs fois par jour si elle les atteint ou pas
     (exemple : création et exécution de tests fonctionnels).
 
-![tableau\_de\_suivi\_de\_production](guide_html_62e17fb.jpg)
+![tableau\_de\_suivi\_de\_production](images/62e17fb.jpg)
 
 2.  Un visuel « physique », lorsqu’il est nécessaire de voir ce qui est
     produit sur papier. Ce visuel peut être utilisé, par exemple, dans
@@ -1697,7 +1697,7 @@ L’image ci-dessous représente trois bannettes :
 ![Description: C:\\Users\\PJannez\\Desktop\\02-operae\\02-DropBox\\My
 Dropbox\\Operae\\1-Clients\\13-Projets\\13-2010 Findomestic\\07 2010
 Sede Gestione Frodi\\photos imple et
-bilancio\\244\_0521\\IMGP1115.JPG](guide_html_m217147a.png)
+bilancio\\244\_0521\\IMGP1115.JPG](images/m217147a.png)
 
 #### Le mur de la performance
 
@@ -1709,7 +1709,7 @@ bon indicateur montre la tendance dans le temps et une cible afin de
 faire émerger les écarts de performance, ce qui forme la définition d’un
 « problème »
 
-![Le « mur de la performance »](guide_html_72ddbd8.jpg)*
+![Le « mur de la performance »](images/72ddbd8.jpg)*
 
 Les indicateurs de type « burndown » peuvent parfaitement être utilisés.
 Ils deviennent un outil d’apprentissage lorsqu’on y annote les causes
@@ -1720,7 +1720,7 @@ chart*. Le modèle générique ci-dessous représente une bonne façon de
 représenter un indicateur :
 
 ![Structure d’indicateur type pour le suivi d’une valeur unique qui
-évolue dans le temps](guide_html_m5bb49d04.png)
+évolue dans le temps](images/m5bb49d04.png)
 
 #### Suivi des problèmes
 
@@ -1732,7 +1732,7 @@ définition
 
 Penser à vérifier le résultat des actions mises en œuvre
 
-![Tableau de suivi des problèmes](guide_html_m5342b3fe.png)
+![Tableau de suivi des problèmes](images/m5342b3fe.png)
 
 ### Agir ensemble
 
@@ -1815,7 +1815,7 @@ management visuel ?
 ### The Visual Factory
 Michel GREIF – Edition Productivity Press
 
-![](guide_html_2f589b7d.jpg)
+![](images/2f589b7d.jpg)
 
 Version française disponible en ebook
 
@@ -1831,7 +1831,7 @@ Aller à l'essentiel :
 
 David MANN – Edition CRC Press
 
-![](guide_html_509321d4.jpg)
+![](images/509321d4.jpg)
 
 Shingo Prize : la plus haute distinction des livres lean
 
@@ -1886,7 +1886,7 @@ rythme du travail. Cette idée est reproduite de manière fractale
 jusqu'aux gestes du développement : la construction d'un programme est
 aussi une résolution successive de micro-problèmes.
 
-![](guide_html_601d0c42.png)
+![](images/601d0c42.png)
 
 #### Les trucs de geeks
 
@@ -1935,7 +1935,7 @@ un levier d'amélioration. Chaque levier consiste à introduire ou ajuster
 une pratique issue du catalogue cité précédemment, ou une action
 concoctée sur mesure.
 
-![](guide_html_7120bcc2.png)\
+![](images/7120bcc2.png)\
 
 La diversité des points de vue de chaque individu est le gage du
 potentiel d'amélioration de l'équipe. Celle-ci doit s'efforcer
@@ -1980,7 +1980,7 @@ problème, le *monitoring* du bus de données et des consommateurs des
 messages de statistiques est toujours rouge, signalant un incident.
 C’est pourquoi l’équipe système n’ose pas rouvrir le service au public.
 
-![](guide_html_f0baa44.png)
+![](images/f0baa44.png)
 
 Je vais voir l’ingénieur système pour l’aider à rétablir le service au
 plus tôt.
@@ -2065,7 +2065,7 @@ Pourquoi ? Les logs de l’application partaient vers la sortie standard
 (à cause du lien symbolique manquant) et le script d’exploitation
 ignorait la sortie standard.
 
-![](guide_html_77cae31d.png)
+![](images/77cae31d.png)
 
 ### Prévenir plutôt que guérir
 
@@ -2076,7 +2076,7 @@ racines, en dehors de notre champ d’action.
 conséquence est représenté sous forme arborescente. Cf : la section
 [« Principes Lean » du chapitre « Leviers de l’amélioration »](#principes-lean-2)
 
-![arbre causal d'un incident de production](guide_html_778dd0f.jpg)
+![arbre causal d'un incident de production](images/778dd0f.jpg)
 
 Nous modifions notre code pour qu’il adresse à l’ingénieur système un
 message explicite en cas de dysfonctionnement. En terme lean, nous
@@ -2090,7 +2090,7 @@ informatique, cela évoque le concept du Fail-Fast (cf
 [http://martinfowler.com/ieeeSoftware/failFast.pdf]
 (http://martinfowler.com/ieeeSoftware/failFast.pdf)).
 
-![Introduction d’un « andon » dans le script](guide_html_6b377e88.png)
+![Introduction d’un « andon » dans le script](images/6b377e88.png)
 
 Comme nous avons la main sur le script d’exploitation, nous le modifions
 pour rediriger la sortie standard, jusque-là ignorée, vers les logs
@@ -2163,7 +2163,7 @@ L’équipe met tout d'abord en place un management visuel pour :
 
 - être capable de réagir en fonction de la criticité des problèmes.
 
-![](guide_html_1489f423.jpg)
+![](images/1489f423.jpg)
 
 
 ### Du management visuel au Plan-Do-Check-Act (PDCA)
@@ -2305,7 +2305,7 @@ Notre client est mécontent car l'équipe de développement dont je fais
 partie met deux fois plus de temps qu’il ne souhaite sur les gros
 projets.
 
-![Dépassements de délais sur nos trois derniers grands projets](guide_html_m32460f2d.jpg)
+![Dépassements de délais sur nos trois derniers grands projets](images/m32460f2d.jpg)
 
 ### Première hypothèse
 
@@ -2335,7 +2335,7 @@ Cela mérite une deuxième expérimentation.
 Pour éclaircir ce mystère, pendant plusieurs sprints, je note à chaque
 *daily scrum meeting*, sur quoi nous travaillons :
 
-![](guide_html_521f0537.jpg) ![](guide_html_m1d1acf80.jpg)
+![](images/521f0537.jpg) ![](images/m1d1acf80.jpg)
 
   Astuce : préparer un modèle vierge pour assurer une meilleure pertinence
   des observations récoltées
@@ -2344,7 +2344,7 @@ Constats : les tests d’acceptance automatisés ne représentent que 5,5%
 de notre temps de travail et le *refactoring* à peine 2%. L’hypothèse du
 Scrum Master et la mienne étaient donc toutes les deux fausses.
 
-![](guide_html_m5c28feb3.jpg)
+![](images/m5c28feb3.jpg)
 
 L’élément qui prend le plus de temps est la programmation, avec 40%. Le
 contraire aurait été étonnant dans une équipe de développement. Mais
@@ -2359,7 +2359,7 @@ Je lance une troisième expérimentation : l’investigation pendant le
 Pendant 20 demi-journées, le copilote note le temps passé à la minute
 près.
 
-![](guide_html_779dcb8f.jpg)
+![](images/779dcb8f.jpg)
 
 Avant de faire cette expérimentation, nous pensions passer beaucoup de
 temps dans la rédaction des tests unitaires. D’ailleurs, des confrères
@@ -2367,7 +2367,7 @@ agilistes nous disent souvent qu’ils passent entre un tiers et la moitié
 du temps à écrire des tests. Or, nous constatons que nous y passons
 moins de 20% :
 
-![](guide_html_mfe0e3be.jpg)
+![](images/mfe0e3be.jpg)
 
 Nous imaginions également perdre beaucoup de temps à comprendre et
 clarifier des spécifications, mais cela ne représente finalement que 4%.
@@ -2421,7 +2421,7 @@ Il utilise une méthode d’apprentissage venue des Etats-Unis pour
 Development*) pour lutter contre les bugs qui limitent nos
 raisonnements : le Plan-Do-Check-Act ou PDCA.
 
-![](guide_html_5b30464e.png)
+![](images/5b30464e.png)
 
 *Le cycle PDCA*
 
@@ -2491,7 +2491,7 @@ fois plus longs que le client ne le souhaiterait dans le cas des grosses
 [^epique]: Une épique est un ensemble fonctionnel cohérent
 de User Stories.
 
-![](guide_html_m12fedf01.jpg)
+![](images/m12fedf01.jpg)
 
 ##### Qualifier l’impact
 Comment juger si le problème mérite l’énergie que le porteur va lui
@@ -2510,7 +2510,7 @@ et « Quel est le potentiel d’amélioration ? ».
 Comprendre son attente](#de-satisfaire-le-client-à-comprendre-son-attente) » présente aussi cette pratique, mais restreint
 au périmètre du client.
 
-![](guide_html_72d67483.jpg)
+![](images/72d67483.jpg)
 
 Pour aider à voir le potentiel d’amélioration, le lean met à disposition
 des outils, qui sont autant de grilles de lecture pour affuter le
@@ -2596,7 +2596,7 @@ accusations.
 Les enchaînements cause-conséquence peuvent être représentés sous forme
 d’arbre.
 
-![Arbre de causalité](guide_html_m589e31d4.png)
+![Arbre de causalité](images/m589e31d4.png)
 
 Des hypothèses sont ainsi formulées et testées. Dans l’exemple « Joue-la
 courte et précise », la croyance « une équipe extreme programming passe
@@ -2700,19 +2700,19 @@ comment vous pourrez vérifier qu'elles auront porté leurs fruits.
 
 Mike Rother – Edition McGraw-Hill
 
-![](guide_html_a072c96.jpg)
+![](images/a072c96.jpg)
 
 ### Managing to learn
 
 John Shook – Edition Lean Enterprise Institute, Inc.
 
-![](guide_html_m4a784967.jpg)
+![](images/m4a784967.jpg)
 
 ### Understanding A3 thinking
 
 Durward K. Sobek II., Art Smalley – Edition Productivity Press
 
-![](guide_html_555a76da.png)
+![](images/555a76da.png)
 \newpage
 
 # Conclusion
@@ -2736,14 +2736,14 @@ nous retrouver :
 
 Michael Ballé, Godefroy Beauvallet – Edition Pearson
 
-![](guide_html_m73c80f2a.png)
+![](images/m73c80f2a.png)
 
 ## La pratique du lean management dans l’IT
 
 Marie-Pia Ignace, Christian Ignace, Régis Medina et Antoine Contal –
 Edition Pearson
 
-![livre la pratique du lean IT](guide_html_m44286ac1.jpg)
+![livre la pratique du lean IT](images/m44286ac1.jpg)
 
 \newpage
 
