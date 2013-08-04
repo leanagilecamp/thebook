@@ -239,7 +239,7 @@ estimer. La pratique du *Planning Poker* permet par exemple d'obtenir
 une estimation collective de l'effort de réalisation, tout en
 contribuant à diffuser la compréhension du produit à réaliser.
 
-![User Stories](images/b0e35.png)*
+![User Stories](images/b0e35.png)
 
 #### Le logiciel opérationnel
 
@@ -1358,9 +1358,7 @@ Pour clarifier la situation, nous enrichissons notre management visuel
 en ajoutant un graphique des jours consommés, copie quasi-conforme de
 notre *burndown chart* d'itération.
 
-![](images/m7b3d491f.jpg)
-
-*Burndown chart des jours consommés*
+![Burndown chart des jours consommés](images/m7b3d491f.jpg)
 
 Notre hypothèse se confirme : une partie de l'équipe n'a pas consacré à
 l'itération autant de jours qu'elle le pensait. L'équipe croyait
@@ -1372,10 +1370,7 @@ fournir réellement que 80.
 Il faut maintenant agir. Je trace, sprint après sprint, la différence
 entre les jours consommés et les jours planifiés.
 
-![](images/m840f717.jpg)
-
-*Suivi de la différence entre les jours consommés et les jours
-planifiés*
+![Suivi de la différence entre les jours consommés et les jours planifiés](images/m840f717.jpg)
 
 Sur les 24 derniers sprints, j'observe une forte variabilité. Je pense
 que les membres de l'équipe n'ont aucun moyen de détecter un écart en
@@ -1573,10 +1568,10 @@ suivants :
     le sprint (90% livré au lieu de 100%) et vont jusqu’à mesurer leur
     propre temps consommé pour y arriver.
 
--   **Productivité :**indicateur clé pour suivre l’amélioration de la
+-   **Productivité** : indicateur clé pour suivre l’amélioration de la
     capacité de l’équipe.
 
--   **Satisfaction client :**l’équipe peut avoir l’impression que tout
+-   **Satisfaction client** :l’équipe peut avoir l’impression que tout
     va bien alors que le client n’est pas entièrement satisfait.
 
 Des indicateurs spécifiques aux objectifs du projet peuvent être
@@ -1634,8 +1629,8 @@ Pour rendre les problèmes visibles, une première pratique lean consiste
 les obstacles de qualité :
 
 Soit des problèmes de qualité en entrée (par exemple une *user
-story*insuffisamment claire ou incohérente avec l’approche du produit,
-ou bien une *user story*qui est en soi une retouche parce qu’elle avait
+story* insuffisamment claire ou incohérente avec l’approche du produit,
+ou bien une *user story* qui est en soi une retouche parce qu’elle avait
 été mal cadrée ou réalisée lors d’un précédent sprint)
 
 Soit des problèmes de qualité rencontrés au cours d’une tâche (par
@@ -1706,7 +1701,7 @@ bon indicateur montre la tendance dans le temps et une cible afin de
 faire émerger les écarts de performance, ce qui forme la définition d’un
 « problème »
 
-![Le « mur de la performance »](images/72ddbd8.jpg)*
+![Le « mur de la performance »](images/72ddbd8.jpg)
 
 Les indicateurs de type « burndown » peuvent parfaitement être utilisés.
 Ils deviennent un outil d’apprentissage lorsqu’on y annote les causes
