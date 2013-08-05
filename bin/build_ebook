@@ -2,16 +2,11 @@
 # -*- coding: UTF8 -*-
 
 mkdir -p output
-BIN_DIR=`dirname $0`
-CONTENU_DIR=$BIN_DIR/../contenu
 
-$BIN_DIR/clean_md $CONTENU_DIR
-cp $CONTENU_DIR/*.png $CONTENU_DIR/*.jpg $CONTENU_DIR/*.xml tmp
+convert contenu/cover.svg output/cover.png
 
-convert $CONTENU_DIR/cover.svg tmp/cover.png
-
-cd tmp
-pandoc -f markdown --epub-cover-image=cover.png --epub-metadata=metadata.xml -s `ls *.markdown | sort`  -o ../output/guide.epub
+cd contenu
+pandoc -f markdown --epub-cover-image=../output/cover.png --epub-metadata=metadata.xml -s `ls *.markdown | sort`  -o ../output/guide.epub
 cd ../output
 ebook-convert guide.epub guide.mobi --cover=../tmp/cover.png
 ebook-convert guide.epub guide.azw3 --cover=../tmp/cover.png
