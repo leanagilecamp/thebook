@@ -42,7 +42,7 @@ rythme du travail. Cette idée est reproduite de manière fractale
 jusqu'aux gestes du développement : la construction d'un programme est
 aussi une résolution successive de micro-problèmes.
 
-![](images/601d0c42.png)
+![XP feedback loops](images/xp_feedback_loops.png)
 
 #### Les trucs de geeks
 
@@ -91,7 +91,7 @@ un levier d'amélioration. Chaque levier consiste à introduire ou ajuster
 une pratique issue du catalogue cité précédemment, ou une action
 concoctée sur mesure.
 
-![](images/7120bcc2.png)\
+![Mad Sad Glad](images/mad_sad_glad.png)\
 
 La diversité des points de vue de chaque individu est le gage du
 potentiel d'amélioration de l'équipe. Celle-ci doit s'efforcer
@@ -136,7 +136,7 @@ problème, le *monitoring* du bus de données et des consommateurs des
 messages de statistiques est toujours rouge, signalant un incident.
 C’est pourquoi l’équipe système n’ose pas rouvrir le service au public.
 
-![](images/f0baa44.png)
+![Dépassement du seuil préconisé de la file](images/alerting_queue_overflow.png)
 
 Je vais voir l’ingénieur système pour l’aider à rétablir le service au
 plus tôt.
@@ -221,7 +221,7 @@ Pourquoi ? Les logs de l’application partaient vers la sortie standard
 (à cause du lien symbolique manquant) et le script d’exploitation
 ignorait la sortie standard.
 
-![](images/77cae31d.png)
+![Perte de la sortie standard](images/sortie_standard_perdue.png)
 
 ### Prévenir plutôt que guérir
 
@@ -232,7 +232,7 @@ racines, en dehors de notre champ d’action.
 conséquence est représenté sous forme arborescente. Cf : la section
 [« Principes Lean » du chapitre « Leviers de l’amélioration »](#principes-lean-2)
 
-![arbre causal d'un incident de production](images/778dd0f.jpg)
+![arbre causal d'un incident de production](images/arbre_causal.jpg)
 
 Nous modifions notre code pour qu’il adresse à l’ingénieur système un
 message explicite en cas de dysfonctionnement. En terme lean, nous
@@ -246,7 +246,7 @@ informatique, cela évoque le concept du Fail-Fast (cf
 [http://martinfowler.com/ieeeSoftware/failFast.pdf]
 (http://martinfowler.com/ieeeSoftware/failFast.pdf)).
 
-![Introduction d’un « andon » dans le script](images/6b377e88.png)
+![Introduction d’un « andon » dans le script](images/avec_ou_sans_andon.png)
 
 Comme nous avons la main sur le script d’exploitation, nous le modifions
 pour rediriger la sortie standard, jusque-là ignorée, vers les logs
@@ -319,7 +319,7 @@ L’équipe met tout d'abord en place un management visuel pour :
 
 - être capable de réagir en fonction de la criticité des problèmes.
 
-![](images/1489f423.jpg)
+![Suivi des problèmes](images/suivi_des_problemes.jpg)
 
 
 ### Du management visuel au Plan-Do-Check-Act (PDCA)
@@ -461,7 +461,7 @@ Notre client est mécontent car l'équipe de développement dont je fais
 partie met deux fois plus de temps qu’il ne souhaite sur les gros
 projets.
 
-![Dépassements de délais sur nos trois derniers grands projets](images/m32460f2d.jpg)
+![Dépassements de délais sur nos trois derniers grands projets](images/depassement_delais.jpg)
 
 ### Première hypothèse
 
@@ -491,9 +491,9 @@ Cela mérite une deuxième expérimentation.
 Pour éclaircir ce mystère, pendant plusieurs sprints, je note à chaque
 *daily scrum meeting*, sur quoi nous travaillons :
 
-![](images/521f0537.jpg)
+![Activités et freins en développement](images/activites_et_freins.jpg)
 
-![](images/m1d1acf80.jpg)
+![Répartition des activités de développement](images/repartition_activites_developpement.jpg)
 
   Astuce : préparer un modèle vierge pour assurer une meilleure pertinence
   des observations récoltées
@@ -502,7 +502,7 @@ Constats : les tests d’acceptance automatisés ne représentent que 5,5%
 de notre temps de travail et le *refactoring* à peine 2%. L’hypothèse du
 Scrum Master et la mienne étaient donc toutes les deux fausses.
 
-![](images/m5c28feb3.jpg)
+![Statistiques de répartition des activités de développement](images/stats_activites_developpement.jpg)
 
 L’élément qui prend le plus de temps est la programmation, avec 40%. Le
 contraire aurait été étonnant dans une équipe de développement. Mais
@@ -517,7 +517,7 @@ Je lance une troisième expérimentation : l’investigation pendant le
 Pendant 20 demi-journées, le copilote note le temps passé à la minute
 près.
 
-![](images/779dcb8f.jpg)
+![Liste des frottements de l'activité de développement](images/frottements_dev.jpg)
 
 Avant de faire cette expérimentation, nous pensions passer beaucoup de
 temps dans la rédaction des tests unitaires. D’ailleurs, des confrères
@@ -525,7 +525,7 @@ agilistes nous disent souvent qu’ils passent entre un tiers et la moitié
 du temps à écrire des tests. Or, nous constatons que nous y passons
 moins de 20% :
 
-![](images/mfe0e3be.jpg)
+![Synthèse de la répatition des activités de développement](images/synthese_activites_developpement.jpg)
 
 Nous imaginions également perdre beaucoup de temps à comprendre et
 clarifier des spécifications, mais cela ne représente finalement que 4%.
@@ -579,7 +579,7 @@ Il utilise une méthode d’apprentissage venue des Etats-Unis pour
 Development*) pour lutter contre les bugs qui limitent nos
 raisonnements : le Plan-Do-Check-Act ou PDCA.
 
-![](images/5b30464e.png)
+![Plan Do Check Act](images/pdca.png)
 
 *Le cycle PDCA*
 
@@ -649,7 +649,7 @@ fois plus longs que le client ne le souhaiterait dans le cas des grosses
 [^epique]: Une épique est un ensemble fonctionnel cohérent
 de User Stories.
 
-![](images/m12fedf01.jpg)
+![Dépassement des délais](images/depassement_delais_petit.jpg)
 
 ##### Qualifier l’impact
 Comment juger si le problème mérite l’énergie que le porteur va lui
@@ -721,7 +721,7 @@ accusations.
 Les enchaînements cause-conséquence peuvent être représentés sous forme
 d’arbre.
 
-![Arbre de causalité](images/m589e31d4.png)
+![Arbre de causalité](images/modele_arbre_causal.png)
 
 Des hypothèses sont ainsi formulées et testées. Dans l’exemple « Joue-la
 courte et précise », la croyance « une équipe extreme programming passe
@@ -825,17 +825,17 @@ comment vous pourrez vérifier qu'elles auront porté leurs fruits.
 
 Mike Rother – Edition McGraw-Hill
 
-![](images/a072c96.jpg)
+![Toyota Kata](images/toyota_kata.jpg)
 
 ### Managing to learn
 
 John Shook – Edition Lean Enterprise Institute, Inc.
 
-![](images/m4a784967.jpg)
+![Managing to learn](images/managing_to_learn.jpg)
 
 ### Understanding A3 thinking
 
 Durward K. Sobek II., Art Smalley – Edition Productivity Press
 
-![](images/555a76da.png)
+![Understanding A3 thinking](images/understanding_a3_thinking.png)
 
