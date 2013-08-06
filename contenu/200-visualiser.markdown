@@ -466,7 +466,7 @@ fournir réellement que 80.
 Il faut maintenant agir. Je trace, sprint après sprint, la différence
 entre les jours consommés et les jours planifiés.
 
-![Suivi de la différence entre les jours consommés et les jours planifiés](images/m840f717.jpg)
+![Suivi de la différence entre les jours consommés et les jours planifiés](images/leBurndownEtaitEnRouge_consomme_fin_iteration.jpg)
 
 Sur les 24 derniers sprints, j'observe une forte variabilité. Je pense
 que les membres de l'équipe n'ont aucun moyen de détecter un écart en
@@ -499,7 +499,7 @@ participer ou pas en connaissant pleinement son impact sur le sprint.
 Le reste à faire en fin d’itération, qui était totalement imprédictible
 et chaotique devient d’une exceptionnelle stabilité :
 
-![Suivi du « reste à faire » en fin d’itération](images/m38e7ce62.png)
+![Suivi du « reste à faire » en fin d’itération](images/leBurndownEtaitEnRouge_reste_a_faire_stabilise.jpg)
 
 Par contre, nous n’arrivons pas encore à tenir 100% de nos engagements
 du sprint. En effet les tâches de développement s’accumulent dans la
