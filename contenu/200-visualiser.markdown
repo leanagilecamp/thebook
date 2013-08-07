@@ -782,10 +782,7 @@ L’image ci-dessous représente trois bannettes :
     comportent des problèmes à résoudre immédiatement pour débloquer
     Julie.
 
-![Description: C:\\Users\\PJannez\\Desktop\\02-operae\\02-DropBox\\My
-Dropbox\\Operae\\1-Clients\\13-Projets\\13-2010 Findomestic\\07 2010
-Sede Gestione Frodi\\photos imple et
-bilancio\\244\_0521\\IMGP1115.JPG](images/m217147a.png)
+![](images/m217147a.png)
 
 #### Le mur de la performance
 

@@ -32,7 +32,6 @@ principes :
 -   "Les utilisateurs ou leurs représentants et les développeurs doivent
     travailler ensemble quotidiennement tout au long du projet."
 
-![Satisfaire le client](images/satisfaire_le_client.jpg)
 
 L'équipe de réalisation et le client adoptent une posture
 d'apprentissage à la fois du processus et du produit. Postulat de

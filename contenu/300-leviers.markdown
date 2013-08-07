@@ -378,15 +378,15 @@ L’équipe applique la technique des "5 pourquoi" :
 
 Le serveur ne répond pas.
 
-? le répertoire "/tmp" est plein.
+- Pourquoi ? le répertoire "/tmp" est plein.
+ 
+-  Pourquoi ? les log binaires prennent toute la place. Ce n’est pas normal 
+que les logs binaires soient présents sur cette machine.
+ 
+- Pourquoi ? la configuration du serveur n’est pas correcte
 
-  ? les log binaires prennent toute la place. Ce n’est pas normal 
-  que les logs binaires soient présents sur cette machine.
-
-    ? la configuration du serveur n’est pas correcte
-
-      ? la procédure d’installation ne précise pas qu’il ne faut 
-      pas activer les logs binaires sur les serveurs en question
+- Pourquoi ? la procédure d’installation ne précise pas qu’il ne faut 
+pas activer les logs binaires sur les serveurs en question
 
 #### Do
 
