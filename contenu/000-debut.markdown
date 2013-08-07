@@ -2,13 +2,17 @@
   ![](images/logo.png)
 % écrit par un collectif de dix auteurs
   sous la houlette bienveillante de Régis Medina
-% Version 1.0 – 10 juillet 2013
+% Version 1.02 – 7 août 2013
 
-\newpage
+----
 
 [![license CC BY-NC-ND 3.0](images/cc_by-nc-nd.png)](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.fr)
 
+
 Cette œuvre est mise à disposition selon les termes de la [Licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 non transposé](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.fr).
+
+\newpage
+![](images/collectif_auteurs.jpg)
 
 | **Les auteurs**         |           **web**                                |   **twitter**  |
 |:------------------------|:-------------------------------------------------|:---------------|
@@ -29,20 +33,20 @@ Cette œuvre est mise à disposition selon les termes de la [Licence Creative Co
 Les pratiques présentées dans ce guide ouvrent la voie vers une vision
 différente de l’organisation. Une vision basée sur une conviction :
 
-Le changement vers une organisation à la fois plus efficace et plus
-respectueuse des personnes est possible. Ce changement naît de la somme
-des apprentissages individuels.
-
-L’amélioration continue, en définitive, est celle des compétences de
-chaque collaborateur. L’apprentissage devient indissociable du travail,
-et le « qui doit faire quoi pour réussir » devient « qui doit apprendre
-à faire quoi pour réussir ».
-
-Cette transformation radicale se construit jour après jour, personne par
-personne, en allant sur le terrain pour aider chaque collaborateur à
-réussir sa journée. Cela amène chacun à créer plus de valeur pour ses
-clients, son entreprise et la société, et trouver ainsi un sens à son
-travail.
+> Le changement vers une organisation à la fois plus efficace et plus
+> respectueuse des personnes est possible. Ce changement naît de la somme
+> des apprentissages individuels.
+> 
+> L’amélioration continue, en définitive, est celle des compétences de
+> chaque collaborateur. L’apprentissage devient indissociable du travail,
+> et le « qui doit faire quoi pour réussir » devient « qui doit apprendre
+> à faire quoi pour réussir ».
+> 
+> Cette transformation radicale se construit jour après jour, personne par
+> personne, en allant sur le terrain pour aider chaque collaborateur à
+> réussir sa journée. Cela amène chacun à créer plus de valeur pour ses
+> clients, son entreprise et la société, et trouver ainsi un sens à son
+> travail.
 
 Le chemin vers cet idéal a été tracé par nos prédécesseurs pendant
 plusieurs décennies, et consigné sous la forme de principes et de
@@ -69,13 +73,13 @@ d'améliorer les choses, mais comment les trouver ?
 En vous entraînant aux pratiques lean sélectionnées dans ce livre, vous
 apprendrez à :
 
-trouver les leviers de l'amélioration qui amèneront vos équipes à un
+-   trouver les leviers de l'amélioration qui amèneront vos équipes à un
 autre niveau de performance ;
 
-résoudre les difficultés que vous rencontrez dans vos relations avec
+-   résoudre les difficultés que vous rencontrez dans vos relations avec
 d'autres équipes ou le management ;
 
-livrer des logiciels qui améliorent la vie de vos utilisateurs et dont
+-   livrer des logiciels qui améliorent la vie de vos utilisateurs et dont
 vous pouvez être fiers.
 
 Ces nouvelles compétences vous apporteront le savoir-faire nécessaire
