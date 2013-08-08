@@ -15,7 +15,7 @@ $(OUTPUT_DIR)/$(BOOK_FILE_NAME).epub: $(OUTPUT_DIR)/cover.png
 	cd contenu && pandoc $(EPUB_FLAGS) $(SOURCE_FILE_NAMES) -o ../$@
 
 $(OUTPUT_DIR)/$(BOOK_FILE_NAME).azw3: $(OUTPUT_DIR)/$(BOOK_FILE_NAME).epub
-	ebook-convert $^ $@
+	ebook-convert $^ $@ --cover=$(OUTPUT_DIR)/cover.png
 
 $(OUTPUT_DIR)/cover.png:
 	mkdir -p $(OUTPUT_DIR)
