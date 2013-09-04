@@ -12,8 +12,9 @@ $(OUTPUT_DIR)/$(BOOK_FILE_NAME).pdf:
 	mkdir -p $(OUTPUT_DIR)
 	cd contenu && pandoc $(PDF_FLAGS) $(SOURCE_FILE_NAMES) -o ../$@
 
-contenu/$(BOOK_FILE_NAME).html:
-	cd contenu && pandoc $(HTML_FLAGS) $(SOURCE_FILE_NAMES) -o ../$@
+$(OUTPUT_DIR)/$(BOOK_FILE_NAME).html:
+	mkdir -p $(OUTPUT_DIR)
+	cd contenu && pandoc $(HTML_FLAGS) $(SOURCE_FILE_NAMES) -o ../$@ && rsync -a images ../$(OUTPUT_DIR) 
 
 $(OUTPUT_DIR)/$(BOOK_FILE_NAME).epub: $(OUTPUT_DIR)/cover.png
 	cd contenu && pandoc $(EPUB_FLAGS) $(SOURCE_FILE_NAMES) -o ../$@
