@@ -2,11 +2,11 @@ SOURCE_FILE_NAMES = *.markdown
 OUTPUT_DIR = output
 BOOK_FILE_NAME = guide
 
-PDF_FLAGS = -f markdown --toc-depth 2 --chapter --template ../bin/template.tex
+PDF_FLAGS = -f markdown --toc-depth 2 --chapter --template ../templates/template.tex
 EPUB_FLAGS = -f markdown --epub-cover-image=../output/cover.png --epub-metadata=metadata.xml
-HTML_FLAGS = --standalone --toc-depth 2 --chapter
+HTML_FLAGS = --standalone --toc-depth 2 --chapter -c $(BOOK_FILE_NAME).css
 
-all: $(OUTPUT_DIR)/$(BOOK_FILE_NAME).pdf $(OUTPUT_DIR)/$(BOOK_FILE_NAME).epub $(OUTPUT_DIR)/$(BOOK_FILE_NAME).azw3 
+all: $(OUTPUT_DIR)/$(BOOK_FILE_NAME).html $(OUTPUT_DIR)/$(BOOK_FILE_NAME).pdf $(OUTPUT_DIR)/$(BOOK_FILE_NAME).epub $(OUTPUT_DIR)/$(BOOK_FILE_NAME).azw3 
 
 $(OUTPUT_DIR)/$(BOOK_FILE_NAME).pdf:
 	mkdir -p $(OUTPUT_DIR)
@@ -14,7 +14,7 @@ $(OUTPUT_DIR)/$(BOOK_FILE_NAME).pdf:
 
 $(OUTPUT_DIR)/$(BOOK_FILE_NAME).html:
 	mkdir -p $(OUTPUT_DIR)
-	cd contenu && pandoc $(HTML_FLAGS) $(SOURCE_FILE_NAMES) -o ../$@ && rsync -a images ../$(OUTPUT_DIR) 
+	cd contenu && pandoc $(HTML_FLAGS) $(SOURCE_FILE_NAMES) -o ../$@ && rsync -a images ../$(OUTPUT_DIR) && cp ../templates/html.css ../$(OUTPUT_DIR)/$(BOOK_FILE_NAME).css
 
 $(OUTPUT_DIR)/$(BOOK_FILE_NAME).epub: $(OUTPUT_DIR)/cover.png
 	cd contenu && pandoc $(EPUB_FLAGS) $(SOURCE_FILE_NAMES) -o ../$@
