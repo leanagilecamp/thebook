@@ -497,9 +497,12 @@ si une réunion transverse imprévue m'est proposée, je choisis d'y
 participer ou pas en connaissant pleinement son impact sur le sprint.
 
 Le reste à faire en fin d’itération, qui était totalement imprédictible
-et chaotique devient d’une exceptionnelle stabilité :
+et chaotique devient d’une exceptionnelle stabilité. Plus exceptionnel
+encore, les jours-homme non consommés se stabilisent au même moment,
+ce qui confirme l'hypothèse d'une corrélation entre les deux phénomènes 
+(voir les courbes du "Suivi des écarts en fin d’itération").
 
-![Suivi du « reste à faire » en fin d’itération](images/leBurndownEtaitEnRouge_reste_a_faire_stabilise.jpg)
+![Suivi des écarts en fin d’itération](images/01_stabilisation_des_deux_courbes.jpg)
 
 Par contre, nous n’arrivons pas encore à tenir 100% de nos engagements
 du sprint. En effet les tâches de développement s’accumulent dans la
