@@ -76,7 +76,7 @@ apprendrez à :
 -   trouver les leviers de l'amélioration qui amèneront vos équipes à un
 autre niveau de performance ;
 
--   résoudre les difficultés que vous rencontrez dans vos relations avec
+-   résoudre les difficultés que vous rencontrez dans vos relations avec
 d'autres équipes ou le management ;
 
 -   livrer des logiciels qui améliorent la vie de vos utilisateurs et dont
