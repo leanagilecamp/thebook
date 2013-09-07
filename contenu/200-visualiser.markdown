@@ -511,12 +511,12 @@ spécifications ne les valide pas toutes avant la fin du sprint.
 
 ### Suite de l’histoire
 
-Et les deux équipes se marièrent et eurent beaucoup de stories finies en
+Les deux équipes se marièrent et eurent beaucoup de stories finies en
 fin de sprint.
 
 Les équipes de spécification et de développement décident de fusionner
 leur management visuel et leur *daily meeting*. Les débuts sont
-difficiles, mais à partir du sprint .1, elles réussissent à s’améliorer
+difficiles, mais à partir du sprint 15.1, elles réussissent à s’améliorer
 drastiquement en se focalisant sur les stories à valider plutôt que sur
 de nouvelles spécifications :
 
