@@ -787,9 +787,9 @@ problème qui revient le plus souvent.
 
 Formulez-le sous forme d'écart entre :
 
-  ce que vous constatez
+-   ce que vous constatez
 
-  ce que vous voudriez à la place.
+-   ce que vous voudriez à la place.
 
 ### Identifier l'impact
 

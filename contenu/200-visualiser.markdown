@@ -267,12 +267,12 @@ services se voit confier la réalisation d’un nouveau système unifié de
 gestion des dossiers des cotisants. Les enjeux de mise en service de ce
 nouveau système sont critiques :
 
-Le suivi comptable a mis à jour un écart considérable entre les
-cotisations, les remboursements et l'encours. Il faut très rapidement
-clarifier la situation, puis la corriger.
+-   Le suivi comptable a mis à jour un écart considérable entre les
+    cotisations, les remboursements et l'encours. Il faut très rapidement
+    clarifier la situation, puis la corriger.
 
-De nombreux cotisants font face à de très longs délais de traitement de
-leurs dossiers.
+-   De nombreux cotisants font face à de très longs délais de traitement de
+    leurs dossiers.
 
 Après une première phase de six mois, le premier lot s’est soldé par un
 échec : l’équipe a livré avec un retard de plusieurs semaines, hors
@@ -338,7 +338,7 @@ situation.
 
 Pour y voir plus clair, elle décide de rendre visibles ces obstacles sur
 son management visuel. Au cours de ce travail d'analyse, elle fait une
-découverte surprenante : là où l'équipe technique voit questions en
+découverte surprenante : là où l'équipe technique voit 15 questions en
 cours, l'équipe fonctionnelle n'en voit de son côté que 2.
 
 La cause racine [^principesleviers] du problème se trouve dans la
@@ -627,8 +627,6 @@ développer une compréhension commune de :
 
 -   son processus de développement ;
 
--   les rôles et les compétences de chacun ;
-
 -   les rôles et les compétences de chacun.
 
 
@@ -662,7 +660,7 @@ suivants :
     uniquement ceux négociés avec lui) ou le stock (le volume des
     demandes client dans le *backlog* que l’équipe n’a pas encore pu
     traiter). Charge à l’équipe de s’améliorer pour s’approcher de
-    l’attente client. Dans l’exemple « le *burndown*était rouge », les
+    l’attente client. Dans l’exemple « le *burndown* était rouge », les
     développeurs se battent pour respecter leur engagement de délais sur
     le sprint (90% livré au lieu de 100%) et vont jusqu’à mesurer leur
     propre temps consommé pour y arriver.
@@ -727,13 +725,13 @@ Pour rendre les problèmes visibles, une première pratique lean consiste
 à introduire des « bacs rouges » - une manière visuelle de représenter
 les obstacles de qualité :
 
-Soit des problèmes de qualité en entrée (par exemple une *user
-story* insuffisamment claire ou incohérente avec l’approche du produit,
-ou bien une *user story* qui est en soi une retouche parce qu’elle avait
-été mal cadrée ou réalisée lors d’un précédent sprint)
+-   Soit des problèmes de qualité en entrée (par exemple une *user
+    story* insuffisamment claire ou incohérente avec l’approche du produit,
+    ou bien une *user story* qui est en soi une retouche parce qu’elle avait
+    été mal cadrée ou réalisée lors d’un précédent sprint)
 
-Soit des problèmes de qualité rencontrés au cours d’une tâche (par
-exemple un développeur trouve un endroit du code qui recèle des défauts)
+-   Soit des problèmes de qualité rencontrés au cours d’une tâche (par
+    exemple un développeur trouve un endroit du code qui recèle des défauts)
 
 Chaque problème de qualité est imprimé ou écrit sur une feuille, puis
 placé dans une bannette rouge à proximité du *taskboard* :
@@ -749,10 +747,10 @@ une solution.
 Au-delà des problèmes de qualité, d’autres natures de problèmes peuvent
 être rendues visibles sur le management visuel, par exemple :
 
-des demandes client restées trop longtemps en attente,
+-   des demandes client restées trop longtemps en attente,
 
-des problèmes de surcharge de certains membres de l’équipe par rapport à
-d’autres.
+-   des problèmes de surcharge de certains membres de l’équipe par rapport à
+    d’autres.
 
 Il n’y a pas de règle explicite précisant quelles natures de problèmes
 doivent être rendus visibles, et comment. Chaque équipe fait évoluer son
@@ -815,10 +813,10 @@ représenter un indicateur :
 L’équipe note les problèmes qu’elle rencontre sur une main courante, qui
 présente plusieurs intérêts :
 
-Partager les problèmes rencontrés et se mettre d’accord sur leur
-définition
+-   Partager les problèmes rencontrés et se mettre d’accord sur leur
+    définition
 
-Penser à vérifier le résultat des actions mises en œuvre
+-   Penser à vérifier le résultat des actions mises en œuvre
 
 ![Tableau de suivi des problèmes](images/m5342b3fe.png)
 
