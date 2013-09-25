@@ -12,7 +12,6 @@ $if(date)$
 $endif$
 </div>
 $endif$
-<div id="collectif_et_toc">
 <div id="collectif">
 <p><img src="images/collectif_auteurs.jpg" /></p>
 <table>
@@ -77,14 +76,19 @@ $endif$
 </tbody>
 </table>
 </div>
+<div class="row">
 $if(toc)$
-<div id="$idprefix$TOC">
-$toc$
+<div id="$idprefix$TOC" class="span4 bs-docs-sidebar">
+        <ul class="nav nav-list bs-docs-sidenav affix-top" data-spy="affix">
+          <li class=""><a href="#de-satisfaire-le-client-à-comprendre-son-attente"><i class="icon-chevron-right"></i>De Satisfaire le client à Comprendre son attente</a></li>
+          <li class=""><a href="#de-management-visuel-à-visualiser-le-challenge-et-les-problèmes"><i class="icon-chevron-right"></i>De Management visuel à Visualiser le challenge et les problèmes</a></li>
+          <li class=""><a href="#de-lamélioration-continue-à-trouver-les-leviers-de-lamélioration"><i class="icon-chevron-right"></i>De L’amélioration continue à Trouver les leviers de l’amélioration</a></li>
+        </ul>
 </div>
 $endif$
-</div> <!-- collectif_et_toc -->
-<div id="contenu_du_guide">
+<div id="contenu_du_guide" class="span8">
 $body$
+</div>
 </div>
 <p><a href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.fr"><img src="images/cc_by-nc-nd.png" alt="license CC BY-NC-ND 3.0" /></a></p>
 <p>Cette œuvre est mise à disposition selon les termes de la <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.fr">Licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 non transposé</a>.</p>
