@@ -177,8 +177,8 @@ travaille un praticien.
 [^gemba]: *gemba* désigne l’endroit où les choses se passent.
 Cf. la section « Principe lean » de ce chapitre.
 
-Le praticien interroge le patient sur ses antécédents, ses allergies
-puis, examiner sa dentition, pendant qu’une autre personne saisit au fur
+Le praticien interroge le patient sur ses antécédents et éventuelles allergies,
+puis examine sa dentition pendant qu’une autre personne saisit au fur
 et à mesure les informations données par le praticien : « Soin
 conservateur en 21 !».
 
@@ -313,8 +313,6 @@ confort du bureau, retient bien des entrepreneurs, et au moins autant de
 l'opportunité de valider leurs hypothèses sur les besoins des
 utilisateurs et les problèmes que ceux-ci rencontrent dans leurs
 activités.
-
-Pourtant, aller à la rencontre de ses utilisateurs, actuels ou futurs,
 
 **Qu’avons-nous fait**
 
@@ -503,11 +501,11 @@ Or l’expérience montre un écart fréquent entre ce qu’un client exprime
 et ce qui le satisfait réellement. Cette difficulté s’explique de
 plusieurs manières :
 
-Il lui est difficile de formuler les exigences du logiciel sans y
-ajouter ses propres préférences ou interprétations.
+-   Il lui est difficile de formuler les exigences du logiciel sans y
+    ajouter ses propres préférences ou interprétations.
 
-La demande le met en situation de concepteur de logiciels - un métier
-pointu auquel il n’est souvent pas formé.
+-   La demande le met en situation de concepteur de logiciels - un métier
+    pointu auquel il n’est souvent pas formé.
 
 Le lean propose un ensemble de pratiques et principes efficaces pour
 cibler les besoins réels du client et affiner la compréhension de ses
@@ -639,7 +637,7 @@ ensemble, de mieux choisir les fonctionnalités et les sujets
 d’amélioration, et de vérifier que les idées d’amélioration mises en
 œuvre portent leurs fruits. Il s’agit de la fondation de la démarche
 d’amélioration du lean, basée sur la technique du Plan-Do-Check-Act
-(PDCA) présentée plus loin dans ce guide. [^principeslevier]
+(PDCA) présentée plus loin dans ce guide.
 
 ### Expérimenter pour valider ses préférences
 
@@ -690,13 +688,13 @@ construisent le logiciel.
 
 Les gaspillages s’observent à de nombreux niveaux :
 
-dans l’activité de l’utilisateur – il faut alors comprendre comment les
-éliminer en améliorant le logiciel ou le support
+-   dans l’activité de l’utilisateur – il faut alors comprendre comment les
+    éliminer en améliorant le logiciel ou le support
 
-dans l’activité de traitement du logiciel – installation, exploitation,
-sauvegarde, etc.
+-   dans l’activité de traitement du logiciel – installation, exploitation,
+    sauvegarde, etc.
 
-dans l’activité de développement du logiciel.
+-   dans l’activité de développement du logiciel.
 
 Les pratiques lean ont pour objet d’impliquer l’ensemble des
 collaborateurs de l’entreprise dans la recherche permanente de création
