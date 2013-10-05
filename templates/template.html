@@ -12,6 +12,52 @@ $if(date)$
 $endif$
 </div>
 $endif$
+<div class="row">
+$if(toc)$
+<div id="TOC" class="col-md-4">
+    <div id="toc-guide-container" class="bs-sidebar affix" role="complementary" data-spy="affix">
+        <ul id="toc-guide" class="nav bs-sidenav" >
+            <li><a href="#avant-propos">Avant-propos</a></li>
+            <li><a href="#inauguration-du-pont">Inauguration du pont</a></li>
+            <li><a href="#structure-du-livre">Structure du livre</a></li>
+            <li><a href="#de-satisfaire-le-client-à-comprendre-son-attente">De <strong>Satisfaire le client</strong> à <strong>Comprendre son attente</strong></a>
+            <ul class="nav">
+                <li><a href="#pratiques-agiles">Pratiques agiles</a></li>
+                <li><a href="#scène-de-crime-apparition-mystérieuse-au-cabinet-dentaire">Scène de crime : apparition mystérieuse au cabinet dentaire</a></li>
+                <li><a href="#scène-de-crime-vie-et-mort-dune-idée-géniale">Scène de crime : vie et mort d'une idée géniale</a></li>
+                <li><a href="#scène-de-crime-la-catégorie-mystère-du-projet-condor">Scène de crime : la catégorie mystère du projet Condor</a></li>
+                <li><a href="#principes-lean">Principes lean</a></li>
+                <li><a href="#premiers-pas">Premiers pas</a></li>
+                <li><a href="#aller-plus-loin">Aller plus loin</a></li>
+            </ul>
+            <li><a href="#de-management-visuel-à-visualiser-le-challenge-et-les-problèmes">De <strong>Management visuel</strong> à <strong>Visualiser le challenge et les problèmes</strong></a>
+            <ul class="nav">
+                <li><a href="#les-pratiques-agiles">Les pratiques agiles</a></li>
+                <li><a href="#scène-de-crime-trouvez-lindic">Scène de crime : trouvez l’indic !</a></li>
+                <li><a href="#scène-de-crime-tous-coupables">Scène de crime : tous coupables</a></li>
+                <li><a href="#scène-de-crime-le-burdown-était-rouge">Scène de crime : le <em>burdown</em> était rouge</a></li>
+                <li><a href="#principes-lean-1">Principes lean</a></li>
+                <li><a href="#premiers-pas-1">Premiers pas</a></li>
+                <li><a href="#aller-plus-loin-1">Aller plus loin</a></li>
+            </ul>
+            <li><a href="#de-lamélioration-continue-à-trouver-les-leviers-de-lamélioration">De <strong>L’amélioration continue</strong> à <strong>Trouver les leviers de l’amélioration</strong></a>
+            <ul class="nav">
+                <li><a href="#les-pratiques-agiles-1">Les pratiques agiles</a></li>
+                <li><a href="#scène-de-crime-la-mise-en-production-qui-ne-devait-pas-échouer">Scène de crime : la mise en production qui ne devait pas échouer</a></li>
+                <li><a href="#scène-de-crime-du-rififi-dans-mes-sprints">Scène de crime : du rififi dans mes sprints</a></li>
+                <li><a href="#scène-de-crime-joue-la-courte-et-précise">Scène de crime : joue-la courte et précise</a></li>
+                <li><a href="#principes-lean-2">Principes lean</a></li>
+                <li><a href="#premiers-pas-2">Premiers pas</a></li>
+                <li><a href="#aller-plus-loin-2">Aller plus loin</a></li>
+            </ul>
+            <li><a href="#conclusion">Conclusion</a></li>
+            <li><a href="#livres-de-référence">Livres de référence</a>
+            <li><a href="#ressources-de-référence">Ressources de référence</a></li>
+        </ul>
+    </div>
+</div>
+$endif$
+<div id="contenu_du_guide" class="col-md-8" data-spy="scroll" data-target="#toc-guide-container">
 <div id="collectif">
 <p><img src="images/collectif_auteurs.jpg" /></p>
 <table>
@@ -76,17 +122,6 @@ $endif$
 </tbody>
 </table>
 </div>
-<div class="row">
-$if(toc)$
-<div id="$idprefix$TOC" class="span4 bs-docs-sidebar">
-        <ul class="nav nav-list bs-docs-sidenav affix-top" data-spy="affix">
-          <li class=""><a href="#de-satisfaire-le-client-à-comprendre-son-attente"><i class="icon-chevron-right"></i>De Satisfaire le client à Comprendre son attente</a></li>
-          <li class=""><a href="#de-management-visuel-à-visualiser-le-challenge-et-les-problèmes"><i class="icon-chevron-right"></i>De Management visuel à Visualiser le challenge et les problèmes</a></li>
-          <li class=""><a href="#de-lamélioration-continue-à-trouver-les-leviers-de-lamélioration"><i class="icon-chevron-right"></i>De L’amélioration continue à Trouver les leviers de l’amélioration</a></li>
-        </ul>
-</div>
-$endif$
-<div id="contenu_du_guide" class="span8">
 $body$
 </div>
 </div>
