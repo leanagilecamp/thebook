@@ -557,22 +557,22 @@ Simple d’apparence, cette observation recèle toutefois un piège : le
 l’initiative de la personne observée. Quelques points doivent être
 respectés pour éviter cet écueil :
 
-Expliquer à la personne observée l’objectif et les modalités de
-l’observation, en précisant qu’il s’agit d’une observation et non d’une
-interview. Si nécessaire, il est possible de demander à cette personne
-de « penser à voix haute » pour mieux comprendre ce qu’elle cherche à
-faire.
+-   Expliquer à la personne observée l’objectif et les modalités de
+    l’observation, en précisant qu’il s’agit d’une observation et non d’une
+    interview. Si nécessaire, il est possible de demander à cette personne
+    de « penser à voix haute » pour mieux comprendre ce qu’elle cherche à
+    faire.
 
-Observer le plus longtemps possible sans parler.
+-   Observer le plus longtemps possible sans parler.
 
-Répondre poliment à ses questions et l’inviter à reprendre son activité.
+-   Répondre poliment à ses questions et l’inviter à reprendre son activité.
 
 Une bonne observation doit apporter des éléments de réponse à deux
 questions :
 
-Que cherche à faire l’utilisateur dans ce contexte précis ?
+-   Que cherche à faire l’utilisateur dans ce contexte précis ?
 
-Quels sont les obstacles qu’il rencontre pour atteindre son objectif ?
+-   Quels sont les obstacles qu’il rencontre pour atteindre son objectif ?
 
 Les deux exemples « Apparition mystérieuse au cabinet dentaire » et
 « Vie et mort d'une idée géniale » illustrent les prises de conscience
