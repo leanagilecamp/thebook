@@ -35,7 +35,7 @@ Depuis plusieurs années, l'esprit et les pratiques agiles vous ont
 permis d'améliorer votre satisfaction professionnelle et la performance
 de vos équipes.
 
-Mais voilà : il reste encore des sources de frustrations. Les autres
+Mais voilà : il reste encore des sources de frustration. Les autres
 équipes résistent, les managers ne sponsorisent pas vos initiatives de
 changement, les clients se plaignent. Il doit bien exister des moyens
 d'améliorer les choses, mais comment les trouver ?
@@ -67,7 +67,7 @@ histoires présentées.
 Enfin, des préconisations de premiers pas vous guident vers la mise en
 pratique.
 
-Ce livre est né de du désir de praticiens agiles ayant expérimenté le
+Ce livre est né du désir de praticiens agiles ayant expérimenté le
 management lean de partager les richesses surprenantes de ce nouveau
 continent.
 

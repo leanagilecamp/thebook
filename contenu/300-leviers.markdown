@@ -1,4 +1,4 @@
-# De **L’amélioration continue** à **Trouver les leviers de l’amélioration**
+# De **l’amélioration continue** à **Trouver les leviers de l’amélioration**
 
 ## Les pratiques agiles
 
@@ -48,7 +48,7 @@ aussi une résolution successive de micro-problèmes.
 
 Le *refactoring*, les tests automatiques sont des leviers techniques
 d'amélioration du produit logiciel. Le développement piloté par les
-tests est un bon moyen de construire un *design* émergeant, garant de
+tests est un bon moyen de construire un *design* émergent, garant de
 l'évolutivité du code. Cela a pour effet de créer des degrés de liberté
 (fonctionnelles, techniques) et assure la faculté de l'équipe de
 délivrer des évolutions à un rythme constant. Le *refactoring* est aussi
@@ -104,12 +104,12 @@ mais toujours en s'appuyant sur le collectif.
 Quelle qu'en soit la source d'inspiration et la méthode d'accouchement,
 une bonne action d’amélioration réunit les caractéristiques suivantes :
 
-- **elle est prometteuse** : Le bénéfice attendu important. Ce bénéfice
+- **elle est prometteuses** : Le bénéfice attendu important. Ce bénéfice
 est évalué selon les critères propres aux participants.
 
 - **à la portée des participants** : Ceux-ci sont en mesure de la mettre
 en œuvre avec les moyens à leur disposition ; ceci exclut les actions
-trop coûteuse ou en dehors du champ d'action.
+trop coûteuses ou en dehors du champ d'action.
 
 - **elle remporte l'adhésion** : C'est l’action qui fait consensus parmi
 les participants qui est choisie.
@@ -232,7 +232,7 @@ racines, en dehors de notre champ d’action.
 conséquence est représenté sous forme arborescente. Cf : la section
 [« Principes Lean » du chapitre « Leviers de l’amélioration »](#principes-lean-2)
 
-![arbre causal d'un incident de production](images/arbre_causal.jpg)
+![Arbre causal d'un incident de production](images/arbre_causal.jpg)
 
 Nous modifions notre code pour qu’il adresse à l’ingénieur système un
 message explicite en cas de dysfonctionnement. En terme lean, nous
@@ -253,8 +253,8 @@ pour rediriger la sortie standard, jusque-là ignorée, vers les logs
 systèmes. Nous ajoutons également la capture de l’exception
 NullPointerException de manière à informer l’exploitant du problème sur
 la sortie standard. Pour ne rien laisser au hasard, nous testons ce
-message auprès de l’ingénieur système pour s’assurer de sa
-compréhensibilité.
+message auprès de l’ingénieur système pour s’assurer qu'il est
+compréhensible.
 
 Prochaines investigations à mener :
 
@@ -264,7 +264,7 @@ Prochaines investigations à mener :
 - comprendre pourquoi l’ingénieur système a produit un script défectueux.
 
 Je suis content d’avoir compris ce qui s’était vraiment passé et d’avoir
-trouvé une contre-mesure économe qui empêchera le même désastre de se
+trouvé une contre-mesure peu coûteuse qui empêchera le même désastre de se
 reproduire.
 
 J’ai la satisfaction d’avoir posé la première pierre du long chemin vers
@@ -593,7 +593,7 @@ l’exemple « La mise en production qui ne devait pas échouer », c’est un
 seul développeur qui éclaircit le problème en allant voir les gens.
 L’exercice est donc individuel mais pas solitaire.
 
-Plutôt que de s’enliser dans un débat stérile qui nait d’opinions comme
+Plutôt que de s’enliser dans un débat stérile qui naît d’opinions comme
 « Jean est un très bon ingénieur système, il n’aurait pas modifié ce
 script sans le tester » ou de généralités comme « le client n’est jamais
 clair dans sa tête », le praticien du lean est avide de faits :
@@ -634,9 +634,9 @@ A chaque pas d’un Plan-Do-Check-Act, la méthode préconise que le porteur
 présente ce qu’il a compris à un expert du sujet et à des acteurs du
 problème, pour détecter d’éventuelles idées fausses.
 
-#### Plan
+### Plan
 
-##### Définir le problème
+#### Définir le problème
 
 Dans l’exemple « Joue-la courte et précise », le client se plaint d’une
 dérive des délais. Le membre de l’équipe pense qu’il surestime cette
@@ -651,12 +651,12 @@ de User Stories.
 
 ![Dépassement des délais](images/depassement_delais_petit.jpg)
 
-##### Qualifier l’impact
+#### Qualifier l’impact
 Comment juger si le problème mérite l’énergie que le porteur va lui
 consacrer ? Un bon problème aura un impact significatif pour le client
 ou l’entreprise (financièrement ou en terme de stratégie).
 
-##### Comprendre la situation
+#### Comprendre la situation
 
 Pour contrer les croyances erronées, le porteur observe, compte, examine
 des instances du problème. Cette pratique s’appelle le *Go&See* ou
@@ -704,7 +704,7 @@ qui créent de la valeur.
 | Transport               | Reporter des modifications entre différentes branches au sein d’un système de gestion de configuration.\
                             Transmettre des informations d’un développeur à l’autre.
 
-##### Trouver les causes racines
+#### Trouver les causes racines
 
 Le porteur va jusqu’à la cause racine. Dans l’exemple « Du rififi dans
 mes sprints », poser plusieurs fois la question « pourquoi » amène à
@@ -727,7 +727,7 @@ Des hypothèses sont ainsi formulées et testées. Dans l’exemple « Joue-la
 courte et précise », la croyance « une équipe extreme programming passe
 la moitié de son temps à écrire des tests » est invalidée.
 
-##### Formuler puis choisir des contre-mesures
+#### Formuler puis choisir des contre-mesures
 
 Une fois les causes bien comprises, le porteur fait un exercice de
 pensée divergente : il imagine un maximum de contre-mesures pour
@@ -743,16 +743,16 @@ d’apporter une petite contribution. Il réussit ainsi sa journée à double
 titre : en rétablissant le système le matin et en améliorant le
 *feedback* de l’application le soir.
 
-##### Formuler la méthode de Check
+#### Formuler la méthode de Check
 
 Le porteur explique comment il va vérifier factuellement si sa
 contre-mesure fonctionne.
 
-#### Do
+### Do
 
 La phase Do correspond à la mise en œuvre de la contre-mesure choisie.
 
-#### Check
+### Check
 
 Le Check est la vérification factuelle de l’impact de la contre-mesure,
 comme prévu durant le Plan. Un Check peut être soit OK, si les objectifs
@@ -761,7 +761,7 @@ visés sont atteints. Sinon il est NOK.
 Dans l’exemple « Du rififi dans mes sprints », l’équipe mesure une
 diminution de 37% des incidents. Son Check est OK.
 
-#### Act
+### Act
 
 Durant la phase Act, le porteur pérennise les enseignements qu’il tire
 de ses expérimentations. Dans l’exemple précédent, l’équipe corrige la

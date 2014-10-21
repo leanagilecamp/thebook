@@ -59,7 +59,7 @@ davantage cette importance de l'orientation produit en répartissant les
 responsabilités anciennement confiées au chef de projet vers un nouveau
 triumvirat : équipe, Scrum Master et Product Owner.
 
-![Le Trimvirat Agile](images/m19905383.png)
+![Le Triumvirat Agile](images/m19905383.png)
 
 ### La mise en pratique quotidienne
 
@@ -103,7 +103,7 @@ doivent être produits. L'ordre déterminé tient compte en priorité de la
 valeur d'un élément et de l'effort nécessaire à sa réalisation.
 
 En agilité, l'estimation de l'effort n'est pas l'affaire d'un seul
-individu. Les personnes devant réaliser sont les mieux placés pour
+individu. Les personnes devant réaliser sont les mieux placées pour
 estimer. La pratique du *Planning Poker* permet par exemple d'obtenir
 une estimation collective de l'effort de réalisation, tout en
 contribuant à diffuser la compréhension du produit à réaliser.
@@ -219,16 +219,16 @@ mission.
 
 -------------------------------------------------------------------------
 
-**Qu’avons-nous fait**
+**Qu’avons-nous fait ?**
 
 -   aller voir le client, sur son lieu de travail, pour mieux comprendre
     son contexte ;
 
--   confronter nos hypothèses avec la réalité du *gemba*;
+-   confronter nos hypothèses avec la réalité du *gemba* ;
 
--   adapter l’outil à l’usage dans son contexte
+-   adapter l’outil à l’usage dans son contexte ;
 
--   puis retourner sur le terrain pour confirmer la valeur apportée ;
+-   puis retourner sur le terrain pour confirmer la valeur apportée.
 
 **Le résultat**
 
@@ -252,8 +252,8 @@ participants les plus courageux « pitchent » leur idée. L'un d'entre eux
 a une intuition formidable : créer un guide touristique international,
 proposant « les bons plans des autochtones ». Lorsqu'on visite Venise
 l'été, plutôt que de suer dans un bain de foule sur la place Saint Marc,
-autant aller siroter un *Spriss* (la boisson locale) au comptoir du
-*bacaro* d'une petite place ombragée. Les vénitiens le savent bien. Le
+autant aller siroter un *Spritz* (la boisson locale) au comptoir du
+*bacaro* d'une petite place ombragée. Les Vénitiens le savent bien. Le
 touriste moyen, lui, ne sait pas où trouver ces bons plans.
 
 Très vite, d'autres participants viennent renforcer notre petite équipe
@@ -295,7 +295,7 @@ L'histoire de cette idée géniale se termine ici. Mais pas celle de notre
 une nouvelle idée géniale. Mais cette fois-ci, en commençant par une
 visite terrain [^visiteterrain] avant de s'emballer.
 
-[^visiteterrain]: visite terrain se réfère à une pratique lean le
+[^visiteterrain]: Visite terrain se réfère à une pratique lean, le
 go & see pour se forger ses propres opinions sur le contexte et les
 attentes du client. Cf. la section « Principe lean » de ce chapitre.
 

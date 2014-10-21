@@ -51,7 +51,7 @@ suivants.
 
 ![Niko niko](images/m281c5d9e.png)
 
-![Burndonw chart](images/m154f8625.png)
+![Burndown chart](images/m154f8625.png)
 
 Les équipes plus avancées commencent à créer des affiches sur mesure
 pour répondre à leurs problématiques spécifiques.
@@ -185,7 +185,7 @@ m’aider à décider.
 -   La disponibilité du site :
 
     -   Un indicateur quotidien OK/NOK sur l’accessibilité au catalogue
-        de produit et à la commande proprement dite.
+        de produits et à la commande proprement dite.
 
     -   Un indicateur quotidien OK/NOK sur le fonctionnement des
         fonctionnalités du site (nuage de *tags*, envoi à un ami,…)
@@ -196,7 +196,7 @@ Les indicateurs se présentent comme suit :
 
 Nous affichons et faisons vivre ces indicateurs dans notre *Open Space*.
 La situation est rendue visible. Chaque fois qu’il y a un
-problème [^principesleviers] exemple : plainte client car le service
+problème [^principesleviers] (exemple : plainte client car le service
 est lent, avec 8 secondes pour passer commande au lieu de 2 secondes),
 les indicateurs sont mis à jour. Tous les matins, nous faisons un point
 sur la situation. Si un problème est survenu la veille, c’est l’occasion
@@ -416,7 +416,7 @@ ont pu avancer dans les étapes suivantes du processus.
 
 **Le résultat**
 
-Les obstacles ont été levés ce qui à permis à l’équipe de sortir ses
+Les obstacles ont été levés, ce qui a permis à l’équipe de sortir ses
 tâches à l’heure.
 
 **Ce que j’ai appris**
@@ -543,11 +543,11 @@ de nouvelles spécifications :
 -   Agir ensemble :
 
     -   Se poser la question « est-ce qu’il me reste assez de temps pour
-        tenir mes engagements du sprint
+        tenir mes engagements du sprint »
 
     -   Planifier sa journée en fonction (ex : privilégier le
         développement plutôt que des tâches à moindre valeur ajoutée
-        telle qu’une réunion)
+        telles qu’une réunion)
 
 **Le résultat**
 
@@ -668,7 +668,7 @@ suivants :
 -   **Productivité** : indicateur clé pour suivre l’amélioration de la
     capacité de l’équipe.
 
--   **Satisfaction client** :l’équipe peut avoir l’impression que tout
+-   **Satisfaction client** : L’équipe peut avoir l’impression que tout
     va bien alors que le client n’est pas entièrement satisfait.
 
 Des indicateurs spécifiques aux objectifs du projet peuvent être
@@ -753,7 +753,7 @@ Au-delà des problèmes de qualité, d’autres natures de problèmes peuvent
     d’autres.
 
 Il n’y a pas de règle explicite précisant quelles natures de problèmes
-doivent être rendus visibles, et comment. Chaque équipe fait évoluer son
+doivent être rendues visibles, et comment. Chaque équipe fait évoluer son
 management visuel au gré de ses besoins et de son niveau de maturité.
 
 Dans certains contextes spécifiques, il peut être utile de mettre en
@@ -765,19 +765,19 @@ place un visuel un peu différent. Ci-dessous, deux possibilités :
     vérifie plusieurs fois par jour si elle les atteint ou pas
     (exemple : création et exécution de tests fonctionnels).
 
-![tableau\_de\_suivi\_de\_production](images/62e17fb.jpg)
+![tableau de suivi de production](images/62e17fb.jpg)
 
 2.  Un visuel « physique », lorsqu’il est nécessaire de voir ce qui est
     produit sur papier. Ce visuel peut être utilisé, par exemple, dans
     le cadre d’un projet de conception de documentation technique.
 
-L’image ci-dessous représente trois bannettes :
+L’image ci-après représente trois bannettes :
 
 1.  une bannette contenant des pages rédigées par Julie qui demande une
     relecture à Germain (« à traiter »),
 
 2.  une deuxième bannette contenant les pages pour lesquelles Julie
-    attend des renseignements ou un feu-vert (« suspendu »)
+    attend des renseignements ou un feu-vert (« suspendu »),
 
 3.  une troisième bannette (« les bacs rouges ») contenant les pages qui
     comportent des problèmes à résoudre immédiatement pour débloquer
@@ -793,7 +793,7 @@ jour à la main quotidiennement et y annote les « pics » et les
 « vallées » pour expliquer les hausses et les baisses inattendues. Un
 bon indicateur montre la tendance dans le temps et une cible afin de
 faire émerger les écarts de performance, ce qui forme la définition d’un
-« problème »
+« problème ».
 
 ![Le « mur de la performance »](images/72ddbd8.jpg)
 
@@ -802,7 +802,7 @@ Ils deviennent un outil d’apprentissage lorsqu’on y annote les causes
 des retards, et les expériences d’amélioration mises en œuvre.
 
 D’autres indicateurs ne se prêtent pas à une représentation en *burndown
-chart*. Le modèle générique ci-dessous représente une bonne façon de
+chart*. Le modèle générique ci-après constitue une bonne façon de
 représenter un indicateur :
 
 ![Structure d’indicateur type pour le suivi d’une valeur unique qui
@@ -831,13 +831,13 @@ travailler plus sereinement.
 
 Dans l’exemple « Tous coupables », la réunion d’équipe quotidienne n’est
 plus seulement une opportunité de parler de ses tâches, mais offre
-l’occasion de partager ses problèmes. L’équipe se réorganise pour donner
-à l’équipe l’opportunité de résoudre les problèmes bloquants sans
-perturber le bon déroulement du *sprint* et surcharger les développeurs.
+l’occasion de partager ses problèmes. Le groupe se réorganise pour
+résoudre les plus bloquants sans
+perturber le bon déroulement du *sprint* ni surcharger les développeurs.
 
-L’équipe résout différents types de problèmes mis en évidence par son
-management visuel. Du plus simple, qui nécessite une action rapide de
-type « just do it » au plus complexe nécessitant une réflexion plus
+Son management visuel met en évidence différents types de problèmes.
+Du plus simple, qui nécessite une action rapide de
+type « just do it », au plus complexe nécessitant une réflexion plus
 profonde. Dans l’exemple « le *burndown* était rouge », l’équipe ne se
 décourage pas et continue de chercher la cause racine de son problème
 lié au non-respect des délais.
