@@ -486,6 +486,12 @@ la ligne de Romain.
 
 ![Suivi du nombre de jours consacré au sprint](images/542a22e0.jpg)
 
+Chaque couleur représente un jour de la semaine : bleu pour le premier
+Lundi (Lu 17/6), rouge pour Mardi, vert pour Mercredi,...
+
+![Couleurs associées aux jours de l'itération](images/consomme_individuel_une_couleur_par_jour.jpg)
+
+
 Ce suivi permet d'alerter Romain: « Attention, il ne reste que 2 jours
 et il te reste 1,5 jours à consacrer au sprint. »
 
