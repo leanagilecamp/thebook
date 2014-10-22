@@ -1,7 +1,7 @@
 SOURCE_FILE_NAMES = *.markdown 
 SOURCE_FILE_NAMES_FOR_HTML=001-introduction.markdown 100-client.markdown 200-visualiser.markdown 300-leviers.markdown 400-fin.markdown
 OUTPUT_DIR = output
-BOOK_FILE_NAME = Petit_Guide_de_Lean_Management_a_l_Usage_des_Equipes_Agiles-v1_04
+BOOK_FILE_NAME = Petit_Guide_de_Lean_Management_a_l_Usage_des_Equipes_Agiles-v1_05
 
 PDF_FLAGS = -f markdown --toc-depth 2 --chapter --template ../templates/template.tex
 EPUB_FLAGS = -f markdown --epub-cover-image=../output/cover.png --epub-metadata=metadata.xml
