@@ -2,7 +2,7 @@
   ![](images/logo.png)
 % écrit par un collectif de dix auteurs
   sous la houlette bienveillante de Régis Medina
-% Version 1.04 – 4 septembre 2013
+% Version 1.05 – 23 octobre 2014
 
 ----
 
