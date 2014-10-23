@@ -221,7 +221,7 @@ de confiance avec notre client qui reconduit chaque année notre
 partenariat.
 
 --------------------------------------------------------------------------
-**Qu’avons-nous fait**
+**Qu’avons-nous fait ?**
 
 -   Comprendre ensemble :
 
@@ -392,7 +392,7 @@ ont pu avancer dans les étapes suivantes du processus.
 
 --------------------------------------------------------------------------
 
-**Qu’avons-nous fait**
+**Qu’avons-nous fait ?**
 
 -   Comprendre ensemble :
 
@@ -530,7 +530,7 @@ de nouvelles spécifications :
 
 ----------------------------------------
 
-**Qu’avons-nous fait**
+**Qu’avons-nous fait ?**
 
 -   Comprendre ensemble :
 

@@ -272,7 +272,7 @@ le rétablissement de la confiance avec notre client.
 
 --------------------------------------------------------------------------
 
-**Qu’avons-nous fait**
+**Qu’avons-nous fait ?**
 
 -   Protéger immédiatement le client, avant d’entamer le cycle
     Plan-Do-Check-Act ;
@@ -428,7 +428,7 @@ mon équipe et que les autres projets se passent mieux.
 
 ---------------------------------------------------------------------
 
-**Qu’avons-nous fait**
+**Qu’avons-nous fait ?**
 
 -   Protéger immédiatement le client, avant d’entamer le cycle
     Plan-Do-Check-Act ;
@@ -539,7 +539,7 @@ code existant et cela me permet d’aller deux fois plus vite.
 
 -----------------------------------
 
-**Qu’avons-nous fait**
+**Qu’avons-nous fait ?**
 
 -   Convertir une plainte client en un écart quantifié.
 

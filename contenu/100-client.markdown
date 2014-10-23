@@ -314,7 +314,7 @@ l'opportunité de valider leurs hypothèses sur les besoins des
 utilisateurs et les problèmes que ceux-ci rencontrent dans leurs
 activités.
 
-**Qu’avons-nous fait**
+**Qu’avons-nous fait ?**
 
 -   aller voir plusieurs touristes, les utilisateurs potentiels ;
 
@@ -460,7 +460,7 @@ causes de signalisation.
 
 --------------------------------------------------------------------------
 
-**Qu’avons-nous fait**
+**Qu’avons-nous fait ?**
 
 -   commencé par visualiser notre problème ;
 
